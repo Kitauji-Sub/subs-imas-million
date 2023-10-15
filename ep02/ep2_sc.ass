@@ -16,9 +16,9 @@ Video File: ../../../[SubsPlease] The iDOLM@STER Million Live! - 02 (1080p) [0DB
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 36
-Active Line: 46
-Video Position: 5514
+Scroll Position: 1
+Active Line: 9
+Video Position: 728
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -98,6 +98,17 @@ Dialogue: 0,0:23:53.05,0:24:00.02,Title,,0,0,0,,{\fs60\blur5\bord.3\pos(405,937.
 Comment: 0,0:24:00.02,0:24:02.02,Title,,0,0,0,,=====NOTES=====
 Dialogue: 0,0:05:56.66,0:06:00.62,注释,,0,0,0,,你们要进{\fn思源黑体 Heavy\i1}窄门{\r}。因为引到灭亡 ，那门是宽的 ，路是大的，进去的人也多。\N\h                                                                                                      ——马太福音 7:13
 Comment: 0,0:00:00.00,0:00:00.00,注释,,0,0,0,,=====SCREEN=====
+Dialogue: 0,0:00:30.34,0:00:31.97,OnScreen,,0,0,0,,
+Dialogue: 0,0:01:06.50,0:01:08.80,OnScreen,,0,0,0,,
+Dialogue: 0,0:01:11.47,0:01:13.89,OnScreen,,0,0,0,,
+Dialogue: 0,0:01:13.89,0:01:15.89,OnScreen,,0,0,0,,
+Dialogue: 0,0:09:17.25,0:09:23.17,OnScreen,,0,0,0,,
+Dialogue: 0,0:09:40.19,0:09:49.11,OnScreen,,0,0,0,,
+Dialogue: 0,0:09:51.53,0:09:56.20,OnScreen,,0,0,0,,
+Dialogue: 0,0:12:57.05,0:13:02.22,OnScreen,,0,0,0,,
+Dialogue: 0,0:13:16.99,0:13:19.90,OnScreen,,0,0,0,,
+Dialogue: 0,0:14:25.89,0:14:32.81,OnScreen,,0,0,0,,
+Dialogue: 0,0:21:53.59,0:21:59.01,OnScreen,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,其它,,0,0,0,,=====TEXT CN=====
 Dialogue: 9,0:00:00.54,0:00:03.00,P-未来,,0,0,70,,我 春日未来
 Dialogue: 9,0:00:03.00,0:00:06.75,P-未来,,0,0,70,,看了Live后终于找到自己最想做的事情了
@@ -407,9 +418,9 @@ Dialogue: 9,0:23:45.16,0:23:48.56,P-可胖,,0,0,70,,{\rA-女儿}烧卖三姐{\r}
 Dialogue: 9,0:23:48.56,0:23:49.22,P-奈绪,,0,0,70,,哈？
 Dialogue: 9,0:23:49.22,0:23:50.42,P-美奈子,,0,0,70,,那个是出道吗？
 Dialogue: 9,0:23:50.42,0:23:51.58,A-女儿,,0,0,70,,不是的吗？
-Dialogue: 9,0:23:51.58,0:23:54.62,P-百合子,,0,0,70,,如果是出道的话还真是有点苦恼啊
-Dialogue: 9,0:23:54.62,0:23:57.80,P-百合子,,0,0,70,,设定上到底是人类还是烧卖呢
-Dialogue: 9,0:23:57.80,0:23:58.92,P-奈绪,,0,0,70,,纠结这个？
+Dialogue: 9,0:23:51.58,0:23:54.62,P-百合子,,0,900,70,,如果是出道的话还真是有点苦恼啊
+Dialogue: 9,0:23:54.62,0:23:57.80,P-百合子,,0,900,70,,设定上到底是人类还是烧卖呢
+Dialogue: 9,0:23:57.80,0:23:58.92,P-奈绪,,0,900,70,,纠结这个？
 Comment: 0,0:01:26.73,0:01:26.73,注释,,0,0,0,,=====TEXT JP=====
 Dialogue: 8,0:00:00.54,0:00:03.00,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}私 春日未来
 Dialogue: 8,0:00:03.00,0:00:06.75,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ライブを見て いちばんやりたいことが見つかったんだ！
@@ -718,9 +729,9 @@ Dialogue: 8,0:23:45.16,0:23:48.56,P-可胖,,0,0,20,,{\rA-女儿\fnFOT-TsukuGo Pr
 Dialogue: 8,0:23:48.56,0:23:49.22,P-奈绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}は？
 Dialogue: 8,0:23:49.22,0:23:50.42,P-美奈子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}あれデビューなの？
 Dialogue: 8,0:23:50.42,0:23:51.58,A-女儿,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}違うんですか？
-Dialogue: 8,0:23:51.58,0:23:54.62,P-百合子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}デビューとしたらかなり悩ましいですね
-Dialogue: 8,0:23:54.62,0:23:57.80,P-百合子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}設定として人間なのが シュマイザーなのが
-Dialogue: 8,0:23:57.80,0:23:58.92,P-奈绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}そこなん？
+Dialogue: 8,0:23:51.58,0:23:54.62,P-百合子,,0,900,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}デビューとしたらかなり悩ましいですね
+Dialogue: 8,0:23:54.62,0:23:57.80,P-百合子,,0,900,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}設定として人間なのが シュマイザーなのが
+Dialogue: 8,0:23:57.80,0:23:58.92,P-奈绪,,0,900,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}そこなん？
 Comment: 0,0:23:58.92,0:24:00.02,P-奈绪,,0,0,0,,=====END=====
 Comment: 0,0:00:00.00,0:00:00.00,注释,,0,0,0,,=====IMPORT=====
 Comment: 0,0:01:59.99,0:01:59.99,Default,,0,0,0,import-shifted,../op/op_sc.ass
