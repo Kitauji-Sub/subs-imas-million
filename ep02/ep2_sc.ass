@@ -16,8 +16,8 @@ Video File: ../../../[SubsPlease] The iDOLM@STER Million Live! - 02 (1080p) [0DB
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 280
-Active Line: 294
+Scroll Position: 598
+Active Line: 4
 Video Position: 18396
 
 [V4+ Styles]
@@ -89,9 +89,6 @@ Style: OP_CN,思源黑体 Heavy,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,注释,,0,0,0,,=====STAFF=====
-Dialogue: 0,0:00:00.00,0:00:03.00,其它,,0,0,0,,{\fad(300,300)\pos(960,20)\fs54\bord2.5\shad0\c&HFFFFFF&\3c&H000000&}本字幕由{\fs58\bord1.2\c&HC6AC01&\3c&H04F2FD&\shad1}北宇治字幕组{\bord2.5\shad0\c&HFFFFFF&\3c&H000000&\fs54}制作发布 仅供交流试看之用 请于下载后24小时内删除{\an8}\N{\fs52}翻译/校对：双柱、FFU2　曲译：夕灵　时轴/压制：Scrpr
-Dialogue: 0,0:00:03.00,0:00:06.00,其它,,0,0,0,,{\fad(300,300)\pos(960,20)\an8\fs60\bord2.5\shad0}成员招募群: 232487445 欢迎各位小伙伴加入!
 Comment: 0,0:00:00.00,0:00:00.00,注释,,0,0,0,,=====TITLE=====
 Dialogue: 0,0:03:30.94,0:03:36.07,Title,,0,0,0,,{\fad(720,720)\pos(484.45,936.89)}梦的门扉是试镜
 Dialogue: 0,0:23:53.45,0:23:59.96,Title,,0,0,0,,{\fs60\blur5\bord.3\pos(1460,936)}闪耀的世界！我们的剧场！
@@ -725,6 +722,7 @@ Comment: 0,0:00:00.00,0:00:00.00,注释,,0,0,0,,=====IMPORT=====
 Comment: 0,0:01:59.99,0:01:59.99,Default,,0,0,0,import-shifted,../op/op_sc.ass
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,insert/insert01.ass
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,screen/screen.ass
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,staff/stf_kitauji.ass
 
 [Aegisub Extradata]
 Data: 16,_aegi_perspective_ambient_plane,e-27595.96;-5945.18#7C4511.57;694.11#7C4388.66;1187.24#7C-27564.18;-5705.70
