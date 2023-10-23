@@ -15,10 +15,10 @@ Audio File: D:/VideoEncoding/Working/[SubsPlease] The iDOLM@STER Million Live! -
 Video File: D:/VideoEncoding/Working/[SubsPlease] The iDOLM@STER Million Live! - 03 (1080p) [037783FF].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.125000
-Scroll Position: 32
-Active Line: 85
-Video Position: 34354
+Video Zoom Percent: 1.000000
+Scroll Position: 471
+Active Line: 482
+Video Position: 5585
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -571,7 +571,7 @@ Dialogue: 8,0:03:40.26,0:03:42.14,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\b
 Dialogue: 8,0:03:47.27,0:03:48.74,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}すご～い！
 Dialogue: 8,0:03:48.74,0:03:50.52,S-赤P源P,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}って ロコ！ 何してるんだ!?
 Dialogue: 8,0:03:50.82,0:03:52.30,F-roco,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}プロデューサー！
-Dialogue: 8,0:03:52.92,0:03:56.40,F-roco,,0,900,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ロコは今 ライブシアターのインディビジュアルなテイストを
+Dialogue: 8,0:03:52.92,0:03:56.40,F-roco,,0,750,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ロコは今 ライブシアターのインディビジュアルなテイストを
 Dialogue: 8,0:03:56.40,0:04:00.40,F-roco,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ロコアートで アクチュアライズしているんですけど…
 Dialogue: 8,0:04:00.40,0:04:04.77,S-赤P源P,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}えっと 要するに シアターのシンボルを作ってくれてるのか？
 Dialogue: 8,0:04:04.77,0:04:10.44,F-roco,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}はい！ レッスンだけでは ロコのクリエイティブなイマジネーションは満たされませんからね
