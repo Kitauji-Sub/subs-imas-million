@@ -15,10 +15,10 @@ Audio File: C:/Users/scree/Desktop/ep4_fined.mkv
 Video File: C:/Users/scree/Desktop/ep4_fined.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 140
-Active Line: 173
-Video Position: 14863
+Video Zoom Percent: 0.750000
+Scroll Position: 782
+Active Line: 798
+Video Position: 32460
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -262,7 +262,7 @@ Dialogue: 9,0:08:33.90,0:08:35.88,P-arisa,,0,0,70,,朋花已经有粉丝了吧
 Dialogue: 9,0:08:36.58,0:08:40.01,F-朋花,,0,0,70,,是的 可爱的小猪仔们
 Dialogue: 9,0:08:40.01,0:08:44.04,F-朋花,,0,0,70,,千鹤也有很多随从的吧
 Dialogue: 9,0:08:44.62,0:08:46.60,F-千鹤,,0,0,70,,是这样的呢
-Dialogue: 9,0:08:46.60,0:08:49.77,F-千鹤,,0,0,70,,大小姐的社交界人脉 还是有那么一些的
+Dialogue: 9,0:08:46.60,0:08:49.77,F-千鹤,,0,0,70,,名流社交圈的人 还是认识那么一些的
 Dialogue: 9,0:08:49.77,0:08:53.14,F-千鹤,,0,0,70,,啊～哈哈哈哈…{\fscx50} {\fscx100}咳咳
 Dialogue: 9,0:08:54.19,0:08:57.64,P-响,,0,0,70,,空地{\fscx50} {\fscx100}Live{\fscx50} {\fscx100}就什么都中的活动来着
 Dialogue: 9,0:08:57.64,0:08:59.24,F-步,,0,0,70,,是这样吗
@@ -880,11 +880,11 @@ Dialogue: 8,0:22:09.03,0:22:10.95,F-julia,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bo
 Dialogue: 8,0:22:10.95,0:22:14.69,A-茜,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}そそ！ 要は とにかく原っぱ中を盛り上げちゃえばいいの！
 Dialogue: 8,0:22:14.69,0:22:16.86,A-茜,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}さっすが わかってるね ジュリアン！
 Dialogue: 8,0:22:16.86,0:22:18.90,F-julia,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}私はジュリアだ このバカネ！
-Dialogue: 8,0:22:19.11,0:22:21.44,P-美奈子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}じゃあ やっぱり屋台の準備をしなくっちゃ！
-Dialogue: 8,0:22:21.44,0:22:22.63,P-育,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}楽しそう！
-Dialogue: 8,0:22:22.63,0:22:24.19,P-奈绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}私も負けへんで！
-Dialogue: 8,0:22:24.19,0:22:25.83,P-奈绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}たこ焼きで勝負や！
-Dialogue: 8,0:22:25.83,0:22:30.34,A-日向,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}うちに ばあちゃんの野菜がたくさんあるから 持ってこようかなぁ
+Dialogue: 8,0:22:19.11,0:22:21.44,P-美奈子,,900,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}じゃあ やっぱり屋台の準備をしなくっちゃ！
+Dialogue: 8,0:22:21.44,0:22:22.63,P-育,,900,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}楽しそう！
+Dialogue: 8,0:22:22.63,0:22:24.19,P-奈绪,,900,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}私も負けへんで！
+Dialogue: 8,0:22:24.19,0:22:25.83,P-奈绪,,900,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}たこ焼きで勝負や！
+Dialogue: 8,0:22:25.83,0:22:30.34,A-日向,,600,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}うちに ばあちゃんの野菜がたくさんあるから 持ってこようかなぁ
 Dialogue: 8,0:22:30.34,0:22:32.96,F-昴,,1300,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}俺 もうストラックアウトと決めた
 Dialogue: 8,0:22:31.01,0:22:33.67,P-纱代子,,0,50,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}そういうことなら 何かできそうだね！
 Dialogue: 8,0:22:33.84,0:22:34.29,A-可怜,,300,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}はい！
