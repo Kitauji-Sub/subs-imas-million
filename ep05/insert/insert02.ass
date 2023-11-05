@@ -11,48 +11,110 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: C:/Users/scree/Desktop/ep4_fined.mkv
-Video File: C:/Users/scree/Desktop/ep4_fined.mkv
+Audio File: C:/Users/scree/Desktop/[SubsPlease] The iDOLM@STER Million Live! - 05 (1080p) [F6B70C8D].mkv
+Video File: C:/Users/scree/Desktop/[SubsPlease] The iDOLM@STER Million Live! - 05 (1080p) [F6B70C8D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Active Line: 24
-Video Position: 32765
+Video Zoom Percent: 1.125000
+Scroll Position: 27
+Active Line: 37
+Video Position: 31414
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: 歌CN,思源宋体,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,2,10,10,30,1
-Style: 歌JP,Source Han Serif,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,2,10,10,30,1
+Style: 歌CN,思源宋体,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,2,10,10,85,1
+Style: 歌JP,Source Han Serif,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,7,10,10,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,歌JP,,0,0,0,code once,color_choice = {"&H378DAA&", "&H6A51D2&", "&HBA865A&", "&H976171&", "&H236E77&", "&HA781D5&", "&H6D7236&"}
+Comment: 0,0:00:00.00,0:00:00.00,歌JP,,0,0,0,template line actor everyone anystyle,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}
+Comment: 0,0:00:00.00,0:00:00.00,歌JP,,0,0,0,mixin char anystyle,{\3c!util.rand.item(color_choice)!}
 Comment: 0,0:00:00.00,0:00:00.00,歌JP,,0,0,0,,=====JP=====
-Dialogue: 0,0:21:36.44,0:21:41.48,歌JP,,0,0,0,,{\an7\fscx80\fscy80\fad(200,200)\blur3\bord3}
-Dialogue: 0,0:20:02.04,0:20:03.42,歌JP,,0,0,0,,Thank you for...
-Dialogue: 0,0:20:03.42,0:20:09.36,歌JP,,0,0,0,,つくろう　数えきれないステージ\N创造出了数不胜数的舞台
-Dialogue: 0,0:20:09.36,0:20:13.84,歌JP,,0,0,0,,この場所から \N从这个地方开始
-Dialogue: 0,0:20:20.92,0:20:27.80,歌JP,,0,0,0,,Morning!　ぱっと　飛び起きて「おはよう！」\N一下子 跃起来说 “早上好！”
-Dialogue: 0,0:20:25.64,0:20:27.80,歌JP,,0,0,0,,おはよう！
-Dialogue: 0,0:20:27.80,0:20:34.36,歌JP,,0,0,0,,ほら見て　ステキな出会いの予感の青い空\N你看 带有美好邂逅预示的湛蓝天空
-Dialogue: 0,0:20:34.62,0:20:41.42,歌JP,,0,0,0,,Calling!\Nメッセージ　メンバーから「頑張ろう！」\N从成员处 收到信息 “加油呀！”
-Dialogue: 0,0:20:39.34,0:20:41.42,歌JP,,0,0,0,,頑張ろう！
-Dialogue: 0,0:20:41.42,0:20:47.94,歌JP,,0,0,0,,ドキわく　鳴り出す　はじまりのベル \N心跳不已 响起了 开始的铃声
-Dialogue: 0,0:20:47.94,0:20:51.04,歌JP,,0,0,0,,みんなでつくったの\N大家一起创造的
-Dialogue: 0,0:20:49.62,0:20:52.72,歌JP,,0,0,0,,遅くまで残って\N留下来到很晚
-Dialogue: 0,0:20:51.34,0:20:54.80,歌JP,,0,0,0,,手作りの「ぶどーかん」\N而亲手制作出的“武道馆”
-Dialogue: 0,0:20:53.08,0:20:54.80,歌JP,,0,0,0,,看板は虹色\N外表是彩色的
-Dialogue: 0,0:20:54.80,0:20:58.14,歌JP,,0,0,0,,呼ぶよ　みんなを　さあ　おいでよ\N呼唤着 大家 来吧 快过来吧
-Dialogue: 0,0:20:58.14,0:21:01.62,歌JP,,0,0,0,,Let's sing together!
-Dialogue: 0,0:21:03.70,0:21:05.02,歌JP,,0,0,0,,Thank you for...
-Dialogue: 0,0:21:05.02,0:21:10.94,歌JP,,0,0,0,,ようこそ　私たちのステージ\N欢迎来到 我们的舞台
-Dialogue: 0,0:21:10.94,0:21:14.46,歌JP,,0,0,0,,この情熱　とめられない！\N这样的热情 无法抑制！
-Dialogue: 0,0:21:14.46,0:21:17.42,歌JP,,0,0,0,,コール　響け\N铃声 回响着
-Dialogue: 0,0:21:17.42,0:21:24.96,歌JP,,0,0,0,,小さくても　愛と工夫でジョーデキ！\N尽管很小 倾注爱意与技巧就会有好表现！
-Dialogue: 0,0:21:24.96,0:21:26.76,歌JP,,0,0,0,,汗が
-Dialogue: 0,0:21:25.82,0:21:26.76,歌JP,,0,0,0,,弾け　
-Dialogue: 0,0:21:26.76,0:21:28.48,歌JP,,0,0,0,,笑顔
-Dialogue: 0,0:21:27.44,0:21:28.48,歌JP,,0,0,0,,咲かそう
-Dialogue: 0,0:21:28.48,0:21:31.20,歌JP,,0,0,0,,きらめく出合いを\N闪闪发光的相遇
-Dialogue: 0,0:21:41.80,0:21:46.54,歌JP,,0,0,0,,ありがとう \N谢谢大家
-Comment: 0,0:20:38.04,0:20:40.04,歌CN,,0,0,0,,=====CN=====
-Dialogue: 0,0:21:36.44,0:21:41.48,歌CN,,0,0,0,,{\an7\fscx80\fscy80\fad(200,200)\blur3\bord3}
+Dialogue: 0,0:20:02.04,0:20:03.42,歌JP,,0,0,0,,{\3c&H6A51D2&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}Thank you for...
+Dialogue: 0,0:20:03.42,0:20:09.36,歌JP,,0,0,0,,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6A51D2&}つくろう{\3c&H236E77&} {\3c&H976171&}数{\3c&HA781D5&}え{\3c&HBA865A&}き{\3c&H6A51D2&}れ{\3c&H236E77&}な{\3c&H236E77&}い{\3c&H6A51D2&}ス{\3c&H976171&}テ{\3c&HBA865A&}ー{\3c&H976171&}ジ
+Comment: 0,0:20:09.36,0:20:13.84,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}この場所から
+Comment: 0,0:20:20.92,0:20:27.80,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}Morning! ぱっと 飛び起きて「おはよう！」
+Dialogue: 0,0:20:25.64,0:20:27.80,歌JP,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6D7236&}お{\3c&H236E77&}は{\3c&H6A51D2&}よ{\3c&H378DAA&}う{\3c&H236E77&}！
+Comment: 0,0:20:27.80,0:20:34.36,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}ほら見て ステキな出会いの予感の青い空
+Comment: 0,0:20:34.62,0:20:41.42,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}Calling! メッセージ メンバーから「頑張ろう！」
+Dialogue: 0,0:20:39.34,0:20:41.42,歌JP,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA781D5&}頑{\3c&HA781D5&}張{\3c&HA781D5&}ろ{\3c&HA781D5&}う{\3c&H378DAA&}！
+Comment: 0,0:20:41.60,0:20:47.94,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}ドキわく 鳴り出す はじまりのベル
+Comment: 0,0:20:47.94,0:20:51.04,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}みんなでつくったの
+Dialogue: 0,0:20:49.62,0:20:52.72,歌JP,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H976171&}遅{\3c&H6D7236&}く{\3c&HBA865A&}ま{\3c&H6A51D2&}で{\3c&HBA865A&}残{\3c&H976171&}っ{\3c&H6D7236&}て
+Comment: 0,0:20:51.34,0:20:54.80,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}手作りの「ぶどーかん」
+Dialogue: 0,0:20:53.08,0:20:54.80,歌JP,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6D7236&}看{\3c&H6A51D2&}板{\3c&HBA865A&}は{\3c&H976171&}虹{\3c&H6A51D2&}色
+Comment: 0,0:20:54.80,0:20:58.14,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}呼ぶよ みんなを さあ おいでよ
+Comment: 0,0:20:58.22,0:21:01.70,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}Let's sing together!
+Comment: 0,0:21:03.78,0:21:05.10,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}Thank you for...
+Comment: 0,0:21:05.10,0:21:11.02,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}ようこそ 私たちのステージ
+Comment: 0,0:21:11.02,0:21:14.54,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}この情熱
+Dialogue: 0,0:21:13.08,0:21:14.54,歌JP,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HBA865A&}と{\3c&H6A51D2&}め{\3c&HBA865A&}ら{\3c&H6D7236&}れ{\3c&H378DAA&}な{\3c&H6A51D2&}い{\3c&H6A51D2&}！
+Comment: 0,0:21:14.54,0:21:17.50,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}コール 響け
+Comment: 0,0:21:17.50,0:21:25.04,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}小さくても 愛と工夫でジョーデキ！
+Comment: 0,0:21:25.04,0:21:26.84,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}汗が
+Dialogue: 0,0:21:25.90,0:21:26.84,歌JP,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6A51D2&}弾{\3c&H6A51D2&}け
+Comment: 0,0:21:26.84,0:21:28.56,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}笑顔
+Dialogue: 0,0:21:27.52,0:21:28.56,歌JP,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6D7236&}咲{\3c&H378DAA&}か{\3c&H6D7236&}そ{\3c&H6D7236&}う
+Comment: 0,0:21:28.56,0:21:31.28,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}きらめく出合いを
+Comment: 0,0:21:41.88,0:21:46.62,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}ありがとう
+Comment: 0,0:20:38.12,0:20:40.12,歌CN,,0,0,0,,=====CN=====
+Comment: 0,0:20:03.42,0:20:09.36,歌CN,everyone,0,0,0,kara,{\3c&H6A51D2&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}创造出了数不胜数的舞台
+Comment: 0,0:20:09.36,0:20:13.84,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}从这个地方开始
+Comment: 0,0:20:20.92,0:20:27.80,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}Morning! 一下子 跃起来说 “早上好！”
+Dialogue: 0,0:20:25.64,0:20:27.80,歌CN,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA781D5&}早{\3c&HBA865A&}上{\3c&H236E77&}好{\3c&H378DAA&}！
+Comment: 0,0:20:27.80,0:20:34.36,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}你看 带有美好邂逅预示的湛蓝天空
+Comment: 0,0:20:34.62,0:20:41.42,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}Calling! 从成员处 收到信息 “加油呀！”
+Dialogue: 0,0:20:39.34,0:20:41.42,歌CN,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H378DAA&}加{\3c&HA781D5&}油{\3c&H236E77&}呀{\3c&H236E77&}！
+Comment: 0,0:20:41.60,0:20:47.94,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}心跳不已 响起了 开始的铃声
+Comment: 0,0:20:47.94,0:20:51.04,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}大家一起创造的
+Dialogue: 0,0:20:49.62,0:20:52.72,歌CN,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HBA865A&}留{\3c&H6A51D2&}下{\3c&H6A51D2&}来{\3c&H6D7236&}到{\3c&HA781D5&}很{\3c&H6D7236&}晚
+Comment: 0,0:20:51.34,0:20:54.80,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}而亲手制作出的“武道馆”
+Dialogue: 0,0:20:53.08,0:20:54.80,歌CN,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H236E77&}外{\3c&H378DAA&}表{\3c&H236E77&}是{\3c&H378DAA&}彩{\3c&HA781D5&}色{\3c&H6A51D2&}的
+Comment: 0,0:20:54.80,0:20:58.14,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}呼唤着 大家 来吧 快过来吧
+Comment: 0,0:21:05.10,0:21:11.02,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}欢迎来到 我们的舞台
+Comment: 0,0:21:11.02,0:21:14.54,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}这样的热情
+Dialogue: 0,0:21:13.08,0:21:14.54,歌CN,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H976171&}无{\3c&H976171&}法{\3c&H6A51D2&}抑{\3c&H378DAA&}制
+Comment: 0,0:21:14.54,0:21:17.50,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}铃声 回响着
+Comment: 0,0:21:17.50,0:21:25.04,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}尽管很小 倾注爱意与技巧就会有好表现！
+Comment: 0,0:21:25.04,0:21:26.84,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}甩去
+Dialogue: 0,0:21:25.90,0:21:26.84,歌CN,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H976171&}汗{\3c&H976171&}水
+Comment: 0,0:21:26.84,0:21:28.56,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}绽放
+Dialogue: 0,0:21:27.52,0:21:28.56,歌CN,,0,0,0,,{\an9\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA781D5&}笑{\3c&H6A51D2&}容
+Comment: 0,0:21:28.56,0:21:31.28,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}闪闪发光的相遇
+Comment: 0,0:21:41.88,0:21:46.62,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}谢谢大家
+Dialogue: 0,0:20:09.36,0:20:13.84,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA781D5&}こ{\3c&H6D7236&}の{\3c&H976171&}場{\3c&H6A51D2&}所{\3c&H378DAA&}か{\3c&H6D7236&}ら
+Dialogue: 0,0:20:20.92,0:20:27.80,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H976171&}M{\3c&H236E77&}o{\3c&H6A51D2&}r{\3c&HA781D5&}n{\3c&H236E77&}i{\3c&H378DAA&}n{\3c&H6A51D2&}g{\3c&H6A51D2&}!{\3c&H6D7236&} {\3c&H378DAA&}ぱ{\3c&H976171&}っ{\3c&HBA865A&}と{\3c&H236E77&} {\3c&H6A51D2&}飛{\3c&H976171&}び{\3c&H976171&}起{\3c&HA781D5&}き{\3c&H236E77&}て{\3c&H6D7236&}「{\3c&H236E77&}お{\3c&HA781D5&}は{\3c&H6A51D2&}よ{\3c&H6A51D2&}う{\3c&HA781D5&}！{\3c&H236E77&}」
+Dialogue: 0,0:20:27.80,0:20:34.36,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H976171&}ほ{\3c&H6D7236&}ら{\3c&HBA865A&}見{\3c&H378DAA&}て{\3c&H6A51D2&} {\3c&HA781D5&}ス{\3c&H976171&}テ{\3c&H6A51D2&}キ{\3c&H236E77&}な{\3c&H976171&}出{\3c&HA781D5&}会{\3c&HBA865A&}い{\3c&HA781D5&}の{\3c&H378DAA&}予{\3c&H6A51D2&}感{\3c&H378DAA&}の{\3c&H976171&}青{\3c&H6D7236&}い{\3c&H976171&}空
+Dialogue: 0,0:20:34.62,0:20:41.42,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H378DAA&}C{\3c&H6D7236&}a{\3c&H976171&}l{\3c&H976171&}l{\3c&HBA865A&}i{\3c&H6D7236&}n{\3c&H976171&}g{\3c&H6A51D2&}!{\3c&H236E77&} {\3c&HBA865A&}メ{\3c&H236E77&}ッ{\3c&H236E77&}セ{\3c&H976171&}ー{\3c&H6A51D2&}ジ{\3c&H976171&} {\3c&H378DAA&}メ{\3c&HBA865A&}ン{\3c&H976171&}バ{\3c&H378DAA&}ー{\3c&HA781D5&}か{\3c&H6D7236&}ら{\3c&HA781D5&}「{\3c&H236E77&}頑{\3c&H378DAA&}張{\3c&HBA865A&}ろ{\3c&H976171&}う{\3c&H378DAA&}！{\3c&H236E77&}」
+Dialogue: 0,0:20:41.60,0:20:47.94,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA781D5&}ド{\3c&H6D7236&}キ{\3c&HA781D5&}わ{\3c&H378DAA&}く{\3c&H6D7236&} {\3c&HBA865A&}鳴{\3c&HA781D5&}り{\3c&HBA865A&}出{\3c&H236E77&}す{\3c&H6D7236&} {\3c&H976171&}は{\3c&H236E77&}じ{\3c&H6A51D2&}ま{\3c&HA781D5&}り{\3c&HBA865A&}の{\3c&H976171&}ベ{\3c&HBA865A&}ル
+Dialogue: 0,0:20:47.94,0:20:51.04,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6D7236&}み{\3c&HBA865A&}ん{\3c&H6D7236&}な{\3c&H378DAA&}で{\3c&H378DAA&}つ{\3c&H6D7236&}く{\3c&H378DAA&}っ{\3c&H6A51D2&}た{\3c&HBA865A&}の
+Dialogue: 0,0:20:51.34,0:20:54.80,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6D7236&}手{\3c&HA781D5&}作{\3c&H6A51D2&}り{\3c&HA781D5&}の{\3c&H236E77&}「{\3c&H976171&}ぶ{\3c&H6A51D2&}ど{\3c&HA781D5&}ー{\3c&H976171&}か{\3c&HA781D5&}ん{\3c&H378DAA&}」
+Dialogue: 0,0:20:54.80,0:20:58.14,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6A51D2&}呼{\3c&H378DAA&}ぶ{\3c&H378DAA&}よ{\3c&HBA865A&} {\3c&H6A51D2&}み{\3c&H976171&}ん{\3c&H378DAA&}な{\3c&H236E77&}を{\3c&H6D7236&} {\3c&HBA865A&}さ{\3c&H378DAA&}あ{\3c&H236E77&} {\3c&H236E77&}お{\3c&H976171&}い{\3c&H6A51D2&}で{\3c&HA781D5&}よ
+Dialogue: 0,0:20:58.22,0:21:01.70,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA781D5&}L{\3c&HBA865A&}e{\3c&H6D7236&}t{\3c&H378DAA&}'{\3c&HA781D5&}s{\3c&HA781D5&} {\3c&HBA865A&}s{\3c&H976171&}i{\3c&H6A51D2&}n{\3c&H236E77&}g{\3c&HBA865A&} {\3c&HBA865A&}t{\3c&HA781D5&}o{\3c&H378DAA&}g{\3c&H6A51D2&}e{\3c&H976171&}t{\3c&H378DAA&}h{\3c&H6D7236&}e{\3c&H976171&}r{\3c&H976171&}!
+Dialogue: 0,0:21:03.78,0:21:05.10,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H976171&}T{\3c&H6A51D2&}h{\3c&H6D7236&}a{\3c&H6A51D2&}n{\3c&HBA865A&}k{\3c&H6A51D2&} {\3c&H6A51D2&}y{\3c&HA781D5&}o{\3c&H6A51D2&}u{\3c&HA781D5&} {\3c&HBA865A&}f{\3c&H236E77&}o{\3c&HA781D5&}r{\3c&H976171&}.{\3c&HA781D5&}.{\3c&HA781D5&}.
+Dialogue: 0,0:21:05.10,0:21:11.02,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H976171&}よ{\3c&H378DAA&}う{\3c&H6A51D2&}こ{\3c&HBA865A&}そ{\3c&HA781D5&} {\3c&H378DAA&}私{\3c&HA781D5&}た{\3c&H236E77&}ち{\3c&H378DAA&}の{\3c&H6D7236&}ス{\3c&H6D7236&}テ{\3c&HBA865A&}ー{\3c&HA781D5&}ジ
+Dialogue: 0,0:21:11.02,0:21:14.54,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H976171&}こ{\3c&H6A51D2&}の{\3c&HA781D5&}情{\3c&H236E77&}熱
+Dialogue: 0,0:21:14.54,0:21:17.50,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H236E77&}コ{\3c&H6D7236&}ー{\3c&HA781D5&}ル{\3c&H236E77&} {\3c&H236E77&}響{\3c&HA781D5&}け
+Dialogue: 0,0:21:17.50,0:21:25.04,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6D7236&}小{\3c&H6A51D2&}さ{\3c&HA781D5&}く{\3c&HBA865A&}て{\3c&HA781D5&}も{\3c&H6A51D2&} {\3c&HBA865A&}愛{\3c&H6D7236&}と{\3c&HBA865A&}工{\3c&H6A51D2&}夫{\3c&H6D7236&}で{\3c&H6A51D2&}ジ{\3c&HBA865A&}ョ{\3c&H236E77&}ー{\3c&HA781D5&}デ{\3c&H378DAA&}キ{\3c&HBA865A&}！
+Dialogue: 0,0:21:25.04,0:21:26.84,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H378DAA&}汗{\3c&H6A51D2&}が
+Dialogue: 0,0:21:26.84,0:21:28.56,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA781D5&}笑{\3c&HA781D5&}顔
+Dialogue: 0,0:21:28.56,0:21:31.28,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA781D5&}き{\3c&HBA865A&}ら{\3c&H6D7236&}め{\3c&H378DAA&}く{\3c&HBA865A&}出{\3c&HBA865A&}合{\3c&H378DAA&}い{\3c&H378DAA&}を
+Dialogue: 0,0:21:41.88,0:21:46.62,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA781D5&}あ{\3c&H6A51D2&}り{\3c&HA781D5&}が{\3c&H6A51D2&}と{\3c&H6A51D2&}う
+Dialogue: 0,0:20:03.42,0:20:09.36,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6D7236&}创{\3c&H6D7236&}造{\3c&H378DAA&}出{\3c&H976171&}了{\3c&HA781D5&}数{\3c&H976171&}不{\3c&HBA865A&}胜{\3c&H378DAA&}数{\3c&H6D7236&}的{\3c&H6D7236&}舞{\3c&H378DAA&}台
+Dialogue: 0,0:20:09.36,0:20:13.84,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6A51D2&}从{\3c&H976171&}这{\3c&HBA865A&}个{\3c&HBA865A&}地{\3c&H236E77&}方{\3c&HBA865A&}开{\3c&H976171&}始
+Dialogue: 0,0:20:20.92,0:20:27.80,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H236E77&}M{\3c&H6A51D2&}o{\3c&H6A51D2&}r{\3c&H6A51D2&}n{\3c&H236E77&}i{\3c&H976171&}n{\3c&HA781D5&}g{\3c&HBA865A&}!{\3c&H6A51D2&} {\3c&HA781D5&}一{\3c&H976171&}下{\3c&H6A51D2&}子{\3c&H378DAA&} {\3c&HA781D5&}跃{\3c&H236E77&}起{\3c&H378DAA&}来{\3c&H236E77&}说{\3c&HBA865A&} {\3c&H6D7236&}“{\3c&H236E77&}早{\3c&H378DAA&}上{\3c&H6D7236&}好{\3c&H6D7236&}！{\3c&HBA865A&}”
+Dialogue: 0,0:20:27.80,0:20:34.36,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H976171&}你{\3c&HA781D5&}看{\3c&H6A51D2&} {\3c&H6D7236&}带{\3c&H6A51D2&}有{\3c&H236E77&}美{\3c&H976171&}好{\3c&H976171&}邂{\3c&HBA865A&}逅{\3c&HBA865A&}预{\3c&HA781D5&}示{\3c&H236E77&}的{\3c&H976171&}湛{\3c&HBA865A&}蓝{\3c&H6A51D2&}天{\3c&H236E77&}空
+Dialogue: 0,0:20:34.62,0:20:41.42,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA781D5&}C{\3c&H236E77&}a{\3c&H6A51D2&}l{\3c&H378DAA&}l{\3c&HBA865A&}i{\3c&H6A51D2&}n{\3c&H976171&}g{\3c&H378DAA&}!{\3c&HA781D5&} {\3c&HBA865A&}从{\3c&HA781D5&}成{\3c&H976171&}员{\3c&H6A51D2&}处{\3c&H6A51D2&} {\3c&H378DAA&}收{\3c&HA781D5&}到{\3c&H236E77&}信{\3c&H236E77&}息{\3c&H6A51D2&} {\3c&H378DAA&}“{\3c&H6A51D2&}加{\3c&H6D7236&}油{\3c&H6A51D2&}呀{\3c&H6D7236&}！{\3c&HBA865A&}”
+Dialogue: 0,0:20:41.60,0:20:47.94,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H378DAA&}心{\3c&H6D7236&}跳{\3c&HBA865A&}不{\3c&H6A51D2&}已{\3c&H6A51D2&} {\3c&H378DAA&}响{\3c&H6D7236&}起{\3c&HA781D5&}了{\3c&H378DAA&} {\3c&H976171&}开{\3c&H6A51D2&}始{\3c&HA781D5&}的{\3c&HA781D5&}铃{\3c&HBA865A&}声
+Dialogue: 0,0:20:47.94,0:20:51.04,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6D7236&}大{\3c&H378DAA&}家{\3c&H378DAA&}一{\3c&HA781D5&}起{\3c&HA781D5&}创{\3c&H6D7236&}造{\3c&H236E77&}的
+Dialogue: 0,0:20:51.34,0:20:54.80,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6A51D2&}而{\3c&H6D7236&}亲{\3c&HA781D5&}手{\3c&H378DAA&}制{\3c&H6D7236&}作{\3c&H236E77&}出{\3c&H236E77&}的{\3c&H378DAA&}“{\3c&HBA865A&}武{\3c&H6A51D2&}道{\3c&H378DAA&}馆{\3c&H6D7236&}”
+Dialogue: 0,0:20:54.80,0:20:58.14,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6D7236&}呼{\3c&HBA865A&}唤{\3c&H378DAA&}着{\3c&H6D7236&} {\3c&HA781D5&}大{\3c&H6A51D2&}家{\3c&H976171&} {\3c&H378DAA&}来{\3c&H378DAA&}吧{\3c&H236E77&} {\3c&H6A51D2&}快{\3c&H6D7236&}过{\3c&H6A51D2&}来{\3c&HBA865A&}吧
+Dialogue: 0,0:21:05.10,0:21:11.02,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA781D5&}欢{\3c&HA781D5&}迎{\3c&HBA865A&}来{\3c&H6A51D2&}到{\3c&H378DAA&} {\3c&H378DAA&}我{\3c&H378DAA&}们{\3c&HA781D5&}的{\3c&H6A51D2&}舞{\3c&HA781D5&}台
+Dialogue: 0,0:21:11.02,0:21:14.54,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H378DAA&}这{\3c&HBA865A&}样{\3c&H6A51D2&}的{\3c&H976171&}热{\3c&H378DAA&}情
+Dialogue: 0,0:21:14.54,0:21:17.50,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HBA865A&}铃{\3c&H6A51D2&}声{\3c&H6A51D2&} {\3c&H236E77&}回{\3c&H6A51D2&}响{\3c&HBA865A&}着
+Dialogue: 0,0:21:17.50,0:21:25.04,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HBA865A&}尽{\3c&H976171&}管{\3c&H976171&}很{\3c&H236E77&}小{\3c&HBA865A&} {\3c&H976171&}倾{\3c&HA781D5&}注{\3c&H976171&}爱{\3c&HBA865A&}意{\3c&H976171&}与{\3c&HBA865A&}技{\3c&H236E77&}巧{\3c&H6A51D2&}就{\3c&H976171&}会{\3c&H6D7236&}有{\3c&HBA865A&}好{\3c&HBA865A&}表{\3c&HBA865A&}现{\3c&HA781D5&}！
+Dialogue: 0,0:21:25.04,0:21:26.84,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H378DAA&}甩{\3c&H6A51D2&}去
+Dialogue: 0,0:21:26.84,0:21:28.56,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H236E77&}绽{\3c&HA781D5&}放
+Dialogue: 0,0:21:28.56,0:21:31.28,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6A51D2&}闪{\3c&H236E77&}闪{\3c&H6D7236&}发{\3c&H6D7236&}光{\3c&HBA865A&}的{\3c&HA781D5&}相{\3c&HA781D5&}遇
+Dialogue: 0,0:21:41.88,0:21:46.62,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H6D7236&}谢{\3c&H976171&}谢{\3c&H378DAA&}大{\3c&H236E77&}家
