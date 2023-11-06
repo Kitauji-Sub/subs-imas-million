@@ -16,8 +16,8 @@ Video File: C:/Users/scree/Desktop/[SubsPlease] The iDOLM@STER Million Live! - 0
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 448
-Active Line: 460
+Scroll Position: 367
+Active Line: 396
 Video Position: 13058
 
 [V4+ Styles]
@@ -422,7 +422,7 @@ Dialogue: 0,0:00:11.12,0:00:14.62,OnScreen,,0,0,0,2,{=45}{\fn华康翩翩体W5-A
 Dialogue: 0,0:00:11.12,0:00:14.62,OnScreen,,0,0,0,2,{=45}{\fn华康翩翩体W5-A\c&H2F2E27&\fax0.038796\fscx59.19\fscy58.51\frz-2.1188\frx0.1851\fry1.1644\org(1423.63,88.54)\pos(1423.18,100.24)}需要的店的種類
 Dialogue: 0,0:00:11.12,0:00:14.62,OnScreen,,0,0,0,2,{=68}{\an9\fn华康翩翩体W5-A\c&H2F2E27&\fax0.026602\fscx60.12\fscy59.15\frz-1.4837\frx0.1828\fry1.1541\org(1314.29,257.36)\pos(1362.83,198.21)}現在有哪些\N·章魚燒\N·棉花糖\N·蘋果糖\N·大阪燒
 Dialogue: 0,0:00:11.12,0:00:14.62,OnScreen,,0,0,0,2,{=69}{\an9\fn华康翩翩体W5-A\c&H5657FF&\fax0.041424\fscx59.97\fscy58.81\frz-7.1409\frx0.1837\fry1.1573\org(1319.68,22.26)\pos(1428.23,-13.02)}以小吃攤為中心\N需要考慮安排在什麼地方\N跟製作人討論
-Dialogue: 1,0:00:14.62,0:00:17.66,OnScreen,transparent,0,0,0,3,{\an7\fnSource Han Serif TC Medium\c&H3A3A3A&}劇場試營業活動的問題與解決方案\N活動日期：6月8日（週日）\N\N還剩兩週時間，需要整理的事項如下：\N■登台演唱成員\N\h\h\h\h成員：春日未來、最上靜香、伊吹翼、七尾百合子、箱崎星梨花、望月杏奈、德川茉莉\N\h\h\h\h※考慮到舞台大小，以發起人未來為中心展開。\N\h\h\h\h【如何選曲】\N\h\h\h\h\h\h\h\h從765 PRO ALLSTARS的歌曲中選取\N\h\h\h\h\h\h\h\h○好處：\N\h\h\h\h\h\h\h\h\h\h\h\h一期生可以負責舞蹈教學！\N■關於舞台\N\h\h\h\h→音響、燈光、觀眾席數量、現場工作人員等，製作人現確認中\N\h\h\h\h\h\h\h\h○相關事宜\N\h\h\h\h\h\h\h\h\h\h\h\h室外活動降雨預案？\N■關於宣傳方法\N\h\h\h\h①發傳單\N\h\h\h\h\h\h\h\h→傳單平面設計？\N\h\h\h\h②活用社交媒體的考量\N\h\h\h\h\h\h\h\h→創建劇場專用帳號 時間向製作人確認\N\h\h\h\h③收集其它靈感（盡量多一點）
+Dialogue: 1,0:00:14.62,0:00:17.66,OnScreen,transparent,0,0,0,3,{\an7\fnSource Han Serif TC Medium\c&H3A3A3A&}劇場試營業活動的問題與解決方案\N活動日期：6月8日（週日）\N\N還剩兩週時間，需要整理的事項如下：\N■登台演唱成員\N\h\h\h\h成員：春日未來、最上靜香、伊吹翼、七尾百合子、箱崎星梨花、望月杏奈、德川茉莉\N\h\h\h\h※考慮到舞台大小，以發起人未來為中心展開。\N\h\h\h\h【如何選曲】\N\h\h\h\h\h\h\h\h從765 PRO ALLSTARS的歌曲中選取\N\h\h\h\h\h\h\h\h○好處：\N\h\h\h\h\h\h\h\h\h\h\h\h一期生可以負責舞蹈教學！\N■關於舞台\N\h\h\h\h→音響、燈光、觀眾席數量、現場工作人員等，製作人現確認中\N\h\h\h\h\h\h\h\h○相關事宜\N\h\h\h\h\h\h\h\h\h\h\h\h室外活動降雨預案？\N■關於宣傳方法\N\h\h\h\h①發傳單\N\h\h\h\h\h\h\h\h→傳單平面設計？\N\h\h\h\h\h\h\h\h\h\h\h\h盡量減少預算，自己設計\N\h\h\h\h\h\h\h\h\h\h\h\h能否使用事務所的印表機\N\h\h\h\h②活用社交媒體的考量\N\h\h\h\h\h\h\h\h→創建劇場專用帳號 時間向製作人確認\N\h\h\h\h③收集其它靈感（盡量多一點）
 Dialogue: 0,0:00:14.62,0:00:17.66,OnScreen,transparent,0,0,0,3,{\an7\p1\pos(0,0)\alpha&H60&\clip(0,0,1126.71,871.71)}m 0 0 l 1920 0 1920 1080 0 1080 0 0{\p0}
 Dialogue: 0,0:02:43.02,0:02:44.98,OnScreen,,0,0,0,4,{\an7\fscx150\fscy150\fn华康翩翩体W5-A\c&H4D80F3&\pos(928.89,54.22)}劇場試營業活動\N討論內容
 Dialogue: 0,0:02:43.02,0:02:44.98,OnScreen,,0,0,0,4,{\fscx90\fscy90\fn华康翩翩体W5-A\c&H2F2E27&\pos(384,278.22)}活動時間：6月8日（週日）

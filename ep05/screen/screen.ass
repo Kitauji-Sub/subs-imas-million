@@ -11,14 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: C:/Users/scree/Desktop/[SubsPlease] The iDOLM@STER Million Live! - 05 (1080p) [F6B70C8D].mkv
-Video File: C:/Users/scree/Desktop/[SubsPlease] The iDOLM@STER Million Live! - 05 (1080p) [F6B70C8D].mkv
+Audio File: C:/Users/scree/Desktop/ep5.mkv
+Video File: C:/Users/scree/Desktop/ep5.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 448
-Active Line: 460
-Video Position: 13058
+Scroll Position: 388
+Active Line: 396
+Video Position: 389
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -422,8 +422,8 @@ Dialogue: 0,0:00:11.12,0:00:14.62,OnScreen,,0,0,0,2,{=45}{\fn华康翩翩体W5-A
 Dialogue: 0,0:00:11.12,0:00:14.62,OnScreen,,0,0,0,2,{=45}{\fn华康翩翩体W5-A\c&H2F2E27&\fax0.038796\fscx59.19\fscy58.51\frz-2.1188\frx0.1851\fry1.1644\org(1423.63,88.54)\pos(1423.18,100.24)}需要的店的种类
 Dialogue: 0,0:00:11.12,0:00:14.62,OnScreen,,0,0,0,2,{=68}{\an9\fn华康翩翩体W5-A\c&H2F2E27&\fax0.026602\fscx60.12\fscy59.15\frz-1.4837\frx0.1828\fry1.1541\org(1314.29,257.36)\pos(1362.83,198.21)}现在有哪些\N·章鱼烧\N·棉花糖\N·苹果糖\N·大阪烧
 Dialogue: 0,0:00:11.12,0:00:14.62,OnScreen,,0,0,0,2,{=69}{\an9\fn华康翩翩体W5-A\c&H5657FF&\fax0.041424\fscx59.97\fscy58.81\frz-7.1409\frx0.1837\fry1.1573\org(1319.68,22.26)\pos(1428.23,-13.02)}以小吃摊为中心\N需要考虑安排在什么地方\N跟制作人讨论
-Dialogue: 1,0:00:14.62,0:00:17.66,OnScreen,transparent,0,0,0,3,{\an7\fn思源宋体 Medium\c&H3A3A3A&}剧场试营业活动的问题与解决方案\N活动日期：6月8日（周日）\N\N还剩两周时间，需要整理的事项如下：\N■登台演唱成员\N\h\h\h\h成员：春日未来、最上静香、伊吹翼、七尾百合子、箱崎星梨花、望月杏奈、德川茉莉\N\h\h\h\h※考虑到舞台大小，以发起人未来为中心展开。\N\h\h\h\h【如何选曲】\N\h\h\h\h\h\h\h\h从765 PRO ALLSTARS的歌曲中选取\N\h\h\h\h\h\h\h\h○好处：\N\h\h\h\h\h\h\h\h\h\h\h\h一期生可以负责舞蹈教学！\N■关于舞台\N\h\h\h\h→音响、灯光、观众席数量、现场工作人员等，制作人现确认中\N\h\h\h\h\h\h\h\h○相关事宜\N\h\h\h\h\h\h\h\h\h\h\h\h室外活动降雨预案？\N■关于宣传方法\N\h\h\h\h①发传单\N\h\h\h\h\h\h\h\h→传单平面设计？\N\h\h\h\h②活用社交媒体的考量\N\h\h\h\h\h\h\h\h→创建剧场专用账号 时间向制作人确认\N\h\h\h\h③收集其它灵感（尽量多一点）
-Dialogue: 0,0:00:14.62,0:00:17.66,OnScreen,transparent,0,0,0,3,{\an7\p1\pos(0,0)\alpha&H60&\clip(0,0,1126.71,871.71)}m 0 0 l 1920 0 1920 1080 0 1080 0 0{\p0}
+Dialogue: 1,0:00:14.62,0:00:17.66,OnScreen,transparent,0,0,0,3,{\an7\fn思源宋体 Medium\c&H3A3A3A&}剧场试营业活动的问题与解决方案\N活动日期：6月8日（周日）\N\N还剩两周时间，需要整理的事项如下：\N■登台演唱成员\N\h\h\h\h成员：春日未来、最上静香、伊吹翼、七尾百合子、箱崎星梨花、望月杏奈、德川茉莉\N\h\h\h\h※考虑到舞台大小，以发起人未来为中心展开。\N\h\h\h\h【如何选曲】\N\h\h\h\h\h\h\h\h从765 PRO ALLSTARS的歌曲中选取\N\h\h\h\h\h\h\h\h○好处：\N\h\h\h\h\h\h\h\h\h\h\h\h一期生可以负责舞蹈教学！\N■关于舞台\N\h\h\h\h→音响、灯光、观众席数量、现场工作人员等，制作人现确认中\N\h\h\h\h\h\h\h\h○相关事宜\N\h\h\h\h\h\h\h\h\h\h\h\h室外活动降雨预案？\N■关于宣传方法\N\h\h\h\h①发传单\N\h\h\h\h\h\h\h\h→传单平面设计？\N\h\h\h\h\h\h\h\h\h\h\h\h尽量减少预算，自己设计\N\h\h\h\h\h\h\h\h\h\h\h\h能否使用事务所的打印机\N\h\h\h\h②活用社交媒体的考量\N\h\h\h\h\h\h\h\h→创建剧场专用账号 时间向制作人确认\N\h\h\h\h③收集其它灵感（尽量多一点）
+Dialogue: 0,0:00:14.62,0:00:17.66,OnScreen,transparent,0,0,0,3,{\an7\p1\pos(0,0)\alpha&H60&\clip(0,0,1128.71,940.71)}m 0 0 l 1920 0 1920 1080 0 1080 0 0{\p0}
 Dialogue: 0,0:02:43.02,0:02:44.98,OnScreen,,0,0,0,4,{\an7\fscx150\fscy150\fn华康翩翩体W5-A\c&H4D80F3&\pos(928.89,54.22)}剧场试营业活动\N讨论内容
 Dialogue: 0,0:02:43.02,0:02:44.98,OnScreen,,0,0,0,4,{\fscx90\fscy90\fn华康翩翩体W5-A\c&H2F2E27&\pos(384,278.22)}活动时间：6月8日（周日）
 Dialogue: 0,0:02:43.02,0:02:44.98,OnScreen,,0,0,0,4,{\fscx60\fscy60\fn华康翩翩体W5-A\c&H2F2E27&\frz15.39\pos(627.55,255.11)}只剩12天了！？
