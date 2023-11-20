@@ -19,4 +19,4 @@ Style: 其它,Source Han Sans TC,75,&H00FDFDFD,&H000000FF,&H00505050,&H00000000,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,其它,,0,0,0,,=====STAFF=====
-Dialogue: 0,0:00:00.00,0:00:05.00,其它,,0,0,0,,{\fad(300,300)\pos(960,20)\fs54\bord2.5\shad0\c&HFFFFFF&\3c&H000000&}本字幕由 LoliHouse & {\fs58\bord1.2\c&HC6AC01&\3c&H04F2FD&\shad1}北宇治字幕組{\bord2.5\shad0\c&HFFFFFF&\3c&H000000&\fs54} 聯合製作發布 僅供交流試看之用 {\an8}\N{\fs52}翻譯：FFU2  Hammer28　校對：FFU2　曲譯：夕灵　時軸/壓製：Scrpr
+Dialogue: 0,0:00:00.00,0:00:05.00,其它,,0,0,0,,{\fad(300,300)\pos(960,20)\fs54\bord2.5\shad0\c&HFFFFFF&\3c&H000000&}本字幕由 LoliHouse & {\fs58\bord1.2\c&HC6AC01&\3c&H04F2FD&\shad1}北宇治字幕組{\bord2.5\shad0\c&HFFFFFF&\3c&H000000&\fs54} 聯合製作發布 僅供交流試看之用 {\an8}\N{\fs52}翻譯：FFU2  Hammer28　校對：FFU2　曲譯：夕灵　時軸：Scrpr　壓製：Lolihouse
