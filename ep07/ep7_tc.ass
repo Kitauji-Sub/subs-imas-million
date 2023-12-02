@@ -17,8 +17,8 @@ Video File: C:/Users/scree/Desktop/ep7.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 416
-Active Line: 442
+Scroll Position: 852
+Active Line: 879
 Video Position: 13828
 
 [V4+ Styles]
@@ -535,7 +535,7 @@ Dialogue: 9,0:23:32.06,0:23:33.94,P-arisa,,0,0,70,,今天多謝款待了
 Dialogue: 9,0:23:34.20,0:23:37.24,P-arisa,,0,0,70,,沒想到能看到這麼多小偶像的泳裝
 Dialogue: 9,0:23:37.24,0:23:39.34,P-arisa,,0,0,70,,在這之後感覺也會有好事發生
 Dialogue: 9,0:23:39.34,0:23:40.86,A-可怜,,0,0,70,,在這之後也？
-Dialogue: 9,0:23:40.86,0:23:42.42,其它,这句话谁说的？,0,0,70,,會有好事發生？
+Dialogue: 9,0:23:40.86,0:23:42.42,F-瑞希,这句话谁说的？,0,0,70,,會有好事發生？
 Dialogue: 9,0:23:42.42,0:23:45.08,P-arisa,,0,0,70,,下一次是遊樂園泳裝雲霄飛車
 Dialogue: 9,0:23:45.08,0:23:46.38,P-奈绪,,0,0,70,,不中勒
 Dialogue: 9,0:23:46.38,0:23:48.32,P-arisa,,0,0,70,,然後再是大家的泳裝合宿
@@ -970,7 +970,7 @@ Dialogue: 8,0:23:32.06,0:23:33.94,P-arisa,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bo
 Dialogue: 8,0:23:34.20,0:23:37.24,P-arisa,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}水着アイドルちゃんたちをここまでしかと見られるとは
 Dialogue: 8,0:23:37.24,0:23:39.34,P-arisa,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}この先もいい予感しかしません
 Dialogue: 8,0:23:39.34,0:23:40.86,A-可怜,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}この先も？
-Dialogue: 8,0:23:40.86,0:23:42.42,其它,这句话谁说的？,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}いい予感?
+Dialogue: 8,0:23:40.86,0:23:42.42,F-瑞希,这句话谁说的？,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}いい予感?
 Dialogue: 8,0:23:42.42,0:23:45.08,P-arisa,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}次の遊園地では水着ジェットコースター
 Dialogue: 8,0:23:45.08,0:23:46.38,P-奈绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}あらへんで
 Dialogue: 8,0:23:46.38,0:23:48.32,P-arisa,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}更にはみんなで水着合宿

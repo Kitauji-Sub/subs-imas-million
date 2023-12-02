@@ -12,13 +12,9 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Audio File: C:/Users/scree/Desktop/ep8.mkv
-Video File: C:/Users/scree/Desktop/ep8.mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 918
-Active Line: 928
-Video Position: 2088
+Video Zoom Percent: 0.875000
+Scroll Position: 893
+Active Line: 912
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -551,16 +547,16 @@ Dialogue: 9,0:21:59.77,0:22:01.12,A-bba,,0,0,70,,谢谢你
 Dialogue: 9,0:23:32.00,0:23:35.32,P-阁下,,0,0,70,,我们{\fscx50} {\fscx100}765PRO ALLSTARS{\fscx50} {\fscx100}正在巡演中
 Dialogue: 9,0:23:35.32,0:23:38.48,F-72,,0,0,70,,被分成了小组 围绕全国展开巡演呢
 Dialogue: 9,0:23:38.48,0:23:40.66,A-yayoi,,0,0,70,,今天是在横滨{\fscx50} {\fscx100}Live{\fscx50} {\fscx100}哦
-Dialogue: 9,0:23:40.66,0:23:42.00,P-响,,0,0,70,,诶 梓呢
+Dialogue: 9,0:23:40.66,0:23:42.00,A-miki,,0,0,70,,诶 梓呢
 Dialogue: 9,0:23:42.00,0:23:43.68,F-贵音,,0,0,70,,已经是集合时间了
 Dialogue: 9,0:23:43.68,0:23:45.20,P-雪步,,0,0,70,,还没来呢
 Dialogue: 9,0:23:45.20,0:23:47.04,P-响,,0,0,70,,难道说是
 Dialogue: 9,0:23:47.04,0:23:48.68,P-真哥,,0,0,70,,嗯 大概是完蛋了
 Dialogue: 9,0:23:48.68,0:23:50.96,F-伊织,,0,0,70,,梓 你在吗？现在在哪里
 Dialogue: 9,0:23:50.96,0:23:52.76,A-梓,,0,0,70,,嗯 现在啊
-Dialogue: 9,0:23:52.76,0:23:53.72,其它,,0,0,70,,心跳心跳
+Dialogue: 9,0:23:52.76,0:23:53.72,A-亚美真美,,0,0,70,,心跳心跳
 Dialogue: 9,0:23:53.72,0:23:54.60,A-梓,,0,0,70,,在东京呢
-Dialogue: 9,0:23:54.60,0:23:55.56,P-真哥,,0,0,70,,好耶 很近
+Dialogue: 9,0:23:54.60,0:23:55.56,F-律子,,0,0,70,,好耶 很近
 Dialogue: 9,0:23:55.56,0:23:57.48,A-梓,,0,0,70,,的八丈岛
 Dialogue: 9,0:23:57.48,0:23:59.64,其它,,0,0,70,,八丈岛！？
 Comment: 0,0:01:27.06,0:01:27.06,注释,,0,0,0,,=====TEXT JP=====
@@ -1005,16 +1001,16 @@ Dialogue: 8,0:21:59.77,0:22:01.12,A-bba,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord
 Dialogue: 8,0:23:32.00,0:23:35.32,P-阁下,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}私たち765プロオールスターズはツアー中
 Dialogue: 8,0:23:35.32,0:23:38.48,F-72,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}グループに別れて　全国を回っているのよね
 Dialogue: 8,0:23:38.48,0:23:40.66,A-yayoi,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}今日は横浜でライブです
-Dialogue: 8,0:23:40.66,0:23:42.00,P-响,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}あれ　梓は
+Dialogue: 8,0:23:40.66,0:23:42.00,A-miki,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}あれ　梓は
 Dialogue: 8,0:23:42.00,0:23:43.68,F-贵音,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}もう集合時間ですが
 Dialogue: 8,0:23:43.68,0:23:45.20,P-雪步,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}まだ来てないね
 Dialogue: 8,0:23:45.20,0:23:47.04,P-响,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}これでもしかして
 Dialogue: 8,0:23:47.04,0:23:48.68,P-真哥,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}うん　まずいかも
 Dialogue: 8,0:23:48.68,0:23:50.96,F-伊织,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}もしもし　梓　今どこ
 Dialogue: 8,0:23:50.96,0:23:52.76,A-梓,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}えっど　今は
-Dialogue: 8,0:23:52.76,0:23:53.72,其它,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ドキドキ
+Dialogue: 8,0:23:52.76,0:23:53.72,A-亚美真美,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ドキドキ
 Dialogue: 8,0:23:53.72,0:23:54.60,A-梓,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}東京
-Dialogue: 8,0:23:54.60,0:23:55.56,P-真哥,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}よし近い
+Dialogue: 8,0:23:54.60,0:23:55.56,F-律子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}よし近い
 Dialogue: 8,0:23:55.56,0:23:57.48,A-梓,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}の八丈島です
 Dialogue: 8,0:23:57.48,0:23:59.64,其它,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}八丈島！？
 Comment: 0,0:02:33.00,0:02:33.00,Default,,0,0,0,import-shifted,../op/op_sc.ass
