@@ -21,7 +21,7 @@ Video Position: 16933
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: 歌CN,思源宋体,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,2,10,10,85,1
+Style: 歌CN,Source Han Serif TC,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,2,10,10,85,1
 Style: 歌JP,Source Han Serif,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,7,10,10,30,1
 
 [Events]
@@ -46,18 +46,18 @@ Comment: 0,0:11:31.27,0:11:37.11,歌JP,all,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\f
 Comment: 0,0:11:37.75,0:11:47.35,歌JP,all,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}私が ずっと覚えている
 Comment: 0,0:11:48.26,0:11:55.19,歌JP,all,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}希望
 Comment: 0,0:11:55.19,0:11:57.19,歌CN,,0,0,0,,=====CN=====
-Dialogue: 0,0:10:31.76,0:10:33.11,歌CN,,0,0,0,,{\move(-40,85,10,85,0,300)\3c&HBD4324&\an7\fscx80\fscy80\fade(300,0)\blur3\bord3}♪「G弦上的咏叹调」
-Dialogue: 0,0:10:33.11,0:10:33.76,歌CN,,0,0,0,,{\move(10,85,-40,85,348,648)\3c&HBD4324&\an7\fscx80\fscy80\fade(0,300)\blur3\bord3}♪「G弦上的咏叹调」
-Dialogue: 0,0:10:33.76,0:10:44.98,歌CN,,0,0,0,,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}哼~轻轻哼唱着的旋律 不知不觉间
-Dialogue: 0,0:10:45.30,0:10:51.91,歌CN,,0,0,0,,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}来到了你所歌唱的记忆中
-Dialogue: 0,0:10:52.39,0:10:57.72,歌CN,,0,0,0,,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}沐浴在阳光下的常春之庭
-Comment: 0,0:10:59.54,0:11:07.85,歌CN,sihoserika72,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}对啊 用那小脚丫踏出
+Dialogue: 0,0:10:31.76,0:10:33.11,歌CN,,0,0,0,,{\move(-40,85,10,85,0,300)\3c&HBD4324&\an7\fscx80\fscy80\fade(300,0)\blur3\bord3}♪「G弦上的詠嘆調」
+Dialogue: 0,0:10:33.11,0:10:33.76,歌CN,,0,0,0,,{\move(10,85,-40,85,348,648)\3c&HBD4324&\an7\fscx80\fscy80\fade(0,300)\blur3\bord3}♪「G弦上的詠嘆調」
+Dialogue: 0,0:10:33.76,0:10:44.98,歌CN,,0,0,0,,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}哼~輕輕哼唱著的旋律 不知不覺間
+Dialogue: 0,0:10:45.30,0:10:51.91,歌CN,,0,0,0,,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}來到了你所歌唱的記憶中
+Dialogue: 0,0:10:52.39,0:10:57.72,歌CN,,0,0,0,,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}沐浴在陽光下的常春之庭
+Comment: 0,0:10:59.54,0:11:07.85,歌CN,sihoserika72,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}對啊 用那小腳丫踏出
 Comment: 0,0:11:07.85,0:11:11.88,歌CN,sihoserika72,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}新的一步吧
 Dialogue: 0,0:11:12.60,0:11:15.00,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}啊
-Comment: 0,0:11:15.00,0:11:21.14,歌CN,all,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}温柔的目光
-Comment: 0,0:11:21.46,0:11:30.82,歌CN,all,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}悄悄地守护着你
-Comment: 0,0:11:31.27,0:11:37.11,歌CN,all,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}在这个变化的世界
-Comment: 0,0:11:37.75,0:11:47.35,歌CN,all,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}我会永远记得
+Comment: 0,0:11:15.00,0:11:21.14,歌CN,all,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}溫柔的目光
+Comment: 0,0:11:21.46,0:11:30.82,歌CN,all,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}悄悄地守護著你
+Comment: 0,0:11:31.27,0:11:37.11,歌CN,all,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}在這個變化的世界
+Comment: 0,0:11:37.75,0:11:47.35,歌CN,all,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}我會永遠記得
 Comment: 0,0:11:48.26,0:11:55.19,歌CN,all,0,0,0,kara,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}希望…
 Dialogue: 0,0:10:59.54,0:11:07.85,歌JP,sihoserika72,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA74E42&}そ{\3c&HB75B7F&}う{\3c&HA74E42&} {\3c&HB75B7F&}小{\3c&HB75B7F&}さ{\3c&HA74E42&}な{\3c&HA74E42&}靴{\3c&HB75B7F&} {\3c&HBD4324&}踏{\3c&HBD4324&}み{\3c&HA74E42&}出{\3c&HBD4324&}し{\3c&HBD4324&}た
 Dialogue: 0,0:11:07.85,0:11:11.88,歌JP,sihoserika72,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HBD4324&}た{\3c&HA74E42&}っ{\3c&HB75B7F&}た{\3c&HBD4324&}一{\3c&HB75B7F&}歩{\3c&HA74E42&}を
@@ -66,10 +66,10 @@ Dialogue: 0,0:11:21.46,0:11:30.82,歌JP,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(20
 Dialogue: 0,0:11:31.27,0:11:37.11,歌JP,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HB46597&}う{\3c&HBC6843&}つ{\3c&HB46597&}ろ{\3c&HB46597&}う{\3c&HB46597&}世{\3c&HBD4324&}界{\3c&HB46597&}で
 Dialogue: 0,0:11:37.75,0:11:47.35,歌JP,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H9A534D&}私{\3c&H9A534D&}が{\3c&HB46597&} {\3c&HBD4324&}ず{\3c&HB46597&}っ{\3c&HBD4324&}と{\3c&HBD4324&}覚{\3c&HBD4324&}え{\3c&H9A534D&}て{\3c&HBD4324&}い{\3c&HB46597&}る
 Dialogue: 0,0:11:48.26,0:11:55.19,歌JP,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HBD4324&}希{\3c&HB46597&}望
-Dialogue: 0,0:10:59.54,0:11:07.85,歌CN,sihoserika72,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA74E42&}对{\3c&HBD4324&}啊{\3c&HBD4324&} {\3c&HBD4324&}用{\3c&HBD4324&}那{\3c&HBD4324&}小{\3c&HA74E42&}脚{\3c&HA74E42&}丫{\3c&HA74E42&}踏{\3c&HBD4324&}出
+Dialogue: 0,0:10:59.54,0:11:07.85,歌CN,sihoserika72,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HA74E42&}對{\3c&HBD4324&}啊{\3c&HBD4324&} {\3c&HBD4324&}用{\3c&HBD4324&}那{\3c&HBD4324&}小{\3c&HA74E42&}腳{\3c&HA74E42&}丫{\3c&HA74E42&}踏{\3c&HBD4324&}出
 Dialogue: 0,0:11:07.85,0:11:11.88,歌CN,sihoserika72,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HBD4324&}新{\3c&HA74E42&}的{\3c&HB75B7F&}一{\3c&HA74E42&}步{\3c&HBD4324&}吧
-Dialogue: 0,0:11:15.00,0:11:21.14,歌CN,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HBD4324&}温{\3c&H9A534D&}柔{\3c&HBC6843&}的{\3c&HB46597&}目{\3c&H9A534D&}光
-Dialogue: 0,0:11:21.46,0:11:30.82,歌CN,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HB46597&}悄{\3c&HBC6843&}悄{\3c&HBD4324&}地{\3c&HB46597&}守{\3c&H9A534D&}护{\3c&HB46597&}着{\3c&HBD4324&}你
-Dialogue: 0,0:11:31.27,0:11:37.11,歌CN,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HB46597&}在{\3c&HB46597&}这{\3c&HBD4324&}个{\3c&HBC6843&}变{\3c&HB46597&}化{\3c&H9A534D&}的{\3c&HBD4324&}世{\3c&HBD4324&}界
-Dialogue: 0,0:11:37.75,0:11:47.35,歌CN,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HB46597&}我{\3c&H9A534D&}会{\3c&HBC6843&}永{\3c&H9A534D&}远{\3c&H9A534D&}记{\3c&H9A534D&}得
+Dialogue: 0,0:11:15.00,0:11:21.14,歌CN,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HBD4324&}溫{\3c&H9A534D&}柔{\3c&HBC6843&}的{\3c&HB46597&}目{\3c&H9A534D&}光
+Dialogue: 0,0:11:21.46,0:11:30.82,歌CN,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HB46597&}悄{\3c&HBC6843&}悄{\3c&HBD4324&}地{\3c&HB46597&}守{\3c&H9A534D&}護{\3c&HB46597&}著{\3c&HBD4324&}你
+Dialogue: 0,0:11:31.27,0:11:37.11,歌CN,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HB46597&}在{\3c&HB46597&}這{\3c&HBD4324&}個{\3c&HBC6843&}變{\3c&HB46597&}化{\3c&H9A534D&}的{\3c&HBD4324&}世{\3c&HBD4324&}界
+Dialogue: 0,0:11:37.75,0:11:47.35,歌CN,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HB46597&}我{\3c&H9A534D&}會{\3c&HBC6843&}永{\3c&H9A534D&}遠{\3c&H9A534D&}記{\3c&H9A534D&}得
 Dialogue: 0,0:11:48.26,0:11:55.19,歌CN,all,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&HBC6843&}希{\3c&HBC6843&}望{\3c&HBD4324&}…

@@ -16,13 +16,12 @@ Video File: C:/Users/scree/Desktop/ep10.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 21
 Active Line: 38
-Video Position: 26535
+Video Position: 26538
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: 歌CN,思源宋体,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,2,10,10,85,1
+Style: 歌CN,Source Han Serif TC,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,2,10,10,85,1
 Style: 歌JP,Source Han Serif,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,7,10,10,30,1
 
 [Events]
@@ -49,20 +48,20 @@ Dialogue: 0,0:20:43.21,0:20:47.61,歌JP,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\
 Dialogue: 0,0:20:47.77,0:20:53.53,歌JP,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}明日を届けるから
 Dialogue: 0,0:20:55.45,0:21:02.87,歌JP,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}Gift for my loved ones
 Comment: 0,0:00:00.00,0:00:00.00,歌JP,,0,0,0,,=====CN=====
-Dialogue: 0,0:18:26.19,0:18:37.81,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}驻足感受到的微风 用舒适的温度轻抚发梢
-Dialogue: 0,0:18:38.51,0:18:49.39,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}世界的颜色便是那样 岿然不变 季节却在轮转
+Dialogue: 0,0:18:26.19,0:18:37.81,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}駐足感受到的微風 用舒適的溫度輕撫髮梢
+Dialogue: 0,0:18:38.51,0:18:49.39,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}世界的顏色便是那樣 巋然不變 季節卻在輪轉
 Dialogue: 0,0:18:50.00,0:18:55.79,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}每一次的呼吸
-Dialogue: 0,0:18:56.13,0:19:01.36,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}都有如同希望一般的心跳回响
-Dialogue: 0,0:19:01.52,0:19:07.95,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}这样的我 在稀松平常的日子里
-Dialogue: 0,0:19:08.21,0:19:15.04,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}每一天都满怀着喜悦度过
-Dialogue: 0,0:19:15.04,0:19:23.55,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}所以 朝着未来走去吧
+Dialogue: 0,0:18:56.13,0:19:01.36,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}都有如同希望一般的心跳迴響
+Dialogue: 0,0:19:01.52,0:19:07.95,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}這樣的我 在稀鬆平常的日子裡
+Dialogue: 0,0:19:08.21,0:19:15.04,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}每一天都滿懷著喜悅度過
+Dialogue: 0,0:19:15.04,0:19:23.55,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}所以 朝著未來走去吧
 Dialogue: 0,0:19:23.79,0:19:26.85,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}每一步是如此微小
 Dialogue: 0,0:19:26.91,0:19:30.32,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}但我依然相信 致以某人的
-Dialogue: 0,0:19:30.72,0:19:34.91,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}明天将会来临
-Dialogue: 0,0:20:09.43,0:20:15.83,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}如果能够 传达给你
-Dialogue: 0,0:20:16.09,0:20:22.87,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}数不尽的话语消逝了又浮现出来
-Dialogue: 0,0:20:22.87,0:20:31.27,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}所以要保持最灿烂的笑容
-Dialogue: 0,0:20:31.67,0:20:34.57,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}从撒下来的阳光处
-Dialogue: 0,0:20:34.76,0:20:38.04,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}又获得了勇气
-Dialogue: 0,0:20:38.55,0:20:42.76,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}如同朝梦想迈出脚步一般
-Dialogue: 0,0:20:47.77,0:20:53.53,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}因为要将明天传递
+Dialogue: 0,0:19:30.72,0:19:34.91,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}明天將會來臨
+Dialogue: 0,0:20:09.43,0:20:15.83,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}如果能夠 傳達給你
+Dialogue: 0,0:20:16.09,0:20:22.87,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}數不盡的話語消逝了又浮現出來
+Dialogue: 0,0:20:22.87,0:20:31.27,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}所以要保持最燦爛的笑容
+Dialogue: 0,0:20:31.67,0:20:34.57,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}從撒下來的陽光處
+Dialogue: 0,0:20:34.76,0:20:38.04,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}又獲得了勇氣
+Dialogue: 0,0:20:38.55,0:20:42.76,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}如同朝夢想邁出腳步一般
+Dialogue: 0,0:20:47.77,0:20:53.53,歌CN,,0,0,0,,{\3c&HBA865A&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}因為要將明天傳遞

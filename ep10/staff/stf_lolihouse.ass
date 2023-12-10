@@ -20,4 +20,4 @@ Style: 其它,方正FW筑紫黑 简 E,65,&H00FDFDFD,&H000000FF,&H00505050,&H0000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,其它,,0,0,0,,=====STAFF=====
 Dialogue: 0,0:00:00.00,0:00:02.00,其它,,0,0,0,,{\fad(300,300)\an8\fs54\bord2.5\shad0\c&HFFFFFF&\3c&H000000&}本字幕由 LoliHouse & {\fs58\bord1.2\c&HC6AC01&\3c&H04F2FD&\shad1}北宇治字幕组{\bord2.5\shad0\c&HFFFFFF&\3c&H000000&\fs54} 联合制作发布 仅供交流试看之用
-Dialogue: 0,0:00:02.00,0:00:04.00,其它,,0,0,0,,{\an8\fad(300,300)\fs54\bord2.5\shad0\c&HFFFFFF&\3c&H000000&}{\fs52}翻·校·查：283工作室真顺乃@FFU2　轴·后：765工作室炸顺鸡@Scrpr\N曲译：961工作室黑顺井@夕灵　压制：Lolihouse
+Dialogue: 0,0:00:02.00,0:00:04.00,其它,,0,0,0,,{\an8\fad(300,300)\fs54\bord2.5\shad0\c&HFFFFFF&\3c&H000000&}{\fs52}翻·校·查：SCP-FFU2-283　轴·后：MLP-SCRPR is all you need\N曲译：NOP dword ptr [夕灵]　压制：Lolihouse

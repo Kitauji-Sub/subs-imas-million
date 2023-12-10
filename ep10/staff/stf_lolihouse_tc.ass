@@ -20,4 +20,4 @@ Style: 其它,Source Han Sans TC,75,&H00FDFDFD,&H000000FF,&H00505050,&H00000000,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,其它,,0,0,0,,=====STAFF=====
 Dialogue: 0,0:00:00.00,0:00:02.00,其它,,0,0,0,,{\fad(300,300)\an8\fs54\bord2.5\shad0\c&HFFFFFF&\3c&H000000&}本字幕由 LoliHouse & {\fs58\bord1.2\c&HC6AC01&\3c&H04F2FD&\shad1}北宇治字幕組{\bord2.5\shad0\c&HFFFFFF&\3c&H000000&\fs54} 聯合製作發布 僅供交流試看之用
-Dialogue: 0,0:00:02.00,0:00:04.00,其它,,0,0,0,,{\an8\fad(300,300)\fs54\bord2.5\shad0\c&HFFFFFF&\3c&H000000&}{\fs52}翻·校·查：283工作室真順乃@FFU2　軸·後：765工作室炸順雞@Scrpr\N曲譯：961工作室黑順井@夕灵　壓製：Lolihouse
+Dialogue: 0,0:00:02.00,0:00:04.00,其它,,0,0,0,,{\an8\fad(300,300)\fs54\bord2.5\shad0\c&HFFFFFF&\3c&H000000&}{\fs52}翻·校·查：SCP-FFU2-283　軸·後：MLP-SCRPR is all you need\N曲譯：NOP dword ptr [夕灵]　壓製：Lolihouse
