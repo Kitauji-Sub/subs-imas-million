@@ -15,9 +15,9 @@ Audio File: C:/Users/scree/Desktop/ep10.mkv
 Video File: C:/Users/scree/Desktop/ep10.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Active Line: 4
-Video Position: 15267
+Video Zoom Percent: 0.750000
+Active Line: 18
+Video Position: 15148
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,6 +44,8 @@ Dialogue: 0,0:11:31.27,0:11:37.11,歌JP,,0,0,0,,{\3c&HBD4324&\an7\fscx80\fscy80\
 Dialogue: 0,0:11:37.75,0:11:47.35,歌JP,,0,0,0,,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}私が ずっと覚えている
 Dialogue: 0,0:11:48.26,0:11:55.19,歌JP,,0,0,0,,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}希望
 Comment: 0,0:11:55.19,0:11:57.19,歌CN,,0,0,0,,=====CN=====
+Dialogue: 0,0:10:31.76,0:10:33.11,歌CN,,0,0,0,,{\move(-40,85,10,85,0,300)\3c&HBD4324&\an7\fscx80\fscy80\fade(300,0)\blur3\bord3}♪「G弦上的咏叹调」
+Dialogue: 0,0:10:33.11,0:10:33.76,歌CN,,0,0,0,,{\move(10,85,-40,85,348,648)\3c&HBD4324&\an7\fscx80\fscy80\fade(0,300)\blur3\bord3}♪「G弦上的咏叹调」
 Dialogue: 0,0:10:33.76,0:10:44.98,歌CN,,0,0,0,,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}哼~轻轻哼唱着的旋律 不知不觉间
 Dialogue: 0,0:10:45.30,0:10:51.91,歌CN,,0,0,0,,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}来到了你所歌唱的记忆中
 Dialogue: 0,0:10:52.39,0:10:57.72,歌CN,,0,0,0,,{\3c&HBD4324&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}沐浴在阳光下的常春之庭
