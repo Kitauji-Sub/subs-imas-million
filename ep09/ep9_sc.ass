@@ -15,10 +15,10 @@ Audio File: C:/Users/scree/Desktop/ep9.mkv
 Video File: C:/Users/scree/Desktop/ep9.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 354
-Active Line: 358
-Video Position: 33365
+Video Zoom Percent: 0.375000
+Scroll Position: 231
+Active Line: 297
+Video Position: 25834
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -95,6 +95,12 @@ Dialogue: 0,0:03:39.62,0:03:44.70,Title,,0,0,0,,{\fad(720,720)\pos(1439.86,935.1
 Dialogue: 0,0:23:52.79,0:23:59.92,Title,,0,0,0,,{\fs60\blur5\bord.3\3c&H292929&\pos(402.77,937.15)}偶像的重要之物
 Comment: 0,0:00:00.00,0:00:00.00,注释,,0,0,0,,=====NOTE=====
 Dialogue: 0,0:03:36.99,0:03:42.33,注释,,0,0,0,,函馆：北海道南边城市
+Dialogue: 0,0:20:52.81,0:20:58.45,注释,,0,0,0,,{\an1}舞蹈动作为「GO MY WA​Y！！」
+Dialogue: 0,0:20:58.45,0:21:03.87,注释,,0,0,0,,{\an1}舞蹈动作为「自転車」或「MUSIC♪」
+Dialogue: 0,0:21:03.87,0:21:08.58,注释,,0,0,0,,{\an1}舞蹈动作为「Inferno」
+Dialogue: 0,0:21:08.58,0:21:10.92,注释,,0,0,0,,{\an1}舞蹈动作为「START！！」
+Dialogue: 0,0:21:10.92,0:21:14.17,注释,,0,0,0,,{\an1}舞蹈动作为「きゅんっ!​ヴァンパイア​ガール」
+Dialogue: 0,0:21:25.60,0:21:28.18,注释,,0,0,0,,{\an1}舞蹈动作疑似为「自分REST@RT」
 Comment: 0,0:01:34.45,0:01:34.45,注释,,0,0,0,,=====TEXT SC=====
 Dialogue: 9,0:00:33.86,0:00:36.15,P-未来,,0,0,70,,真可爱啊
 Dialogue: 9,0:00:36.15,0:00:38.31,A-翼,,0,0,70,,就像公主殿下一样
@@ -323,7 +329,7 @@ Dialogue: 9,0:13:54.33,0:13:58.13,A-miki,,0,0,70,,嗯 感觉很不错哦
 Dialogue: 9,0:13:58.13,0:13:59.68,A-翼,,0,0,70,,好耶
 Dialogue: 9,0:13:59.68,0:14:01.73,A-翼,,0,0,70,,大家也都夸我了呢
 Dialogue: 9,0:14:01.73,0:14:03.99,A-miki,,0,0,70,,未来她们 也挺不错的吧
-Dialogue: 9,0:14:05.01,0:14:07.92,A-miki,,0,0,70,,翼 很快就会输的哦
+Dialogue: 9,0:14:05.01,0:14:07.92,A-miki,,0,0,70,,翼 大概很快就会输给她们吧
 Dialogue: 9,0:14:08.42,0:14:09.06,A-翼,,0,0,70,,诶！？
 Dialogue: 9,0:14:10.34,0:14:12.37,A-翼,,0,0,70,,会输？
 Dialogue: 9,0:14:13.61,0:14:16.21,A-miki,,0,0,70,,因为 翼不是认真的吧
@@ -381,7 +387,7 @@ Dialogue: 9,0:17:32.40,0:17:36.04,P-未来,,0,0,70,,什么？什么来着 诶
 Dialogue: 9,0:17:36.37,0:17:38.96,P-阁下,,0,0,70,,哼哼 你会邀请我吗
 Dialogue: 9,0:17:38.96,0:17:41.51,P-未来,,0,0,70,,会的 请务必要来
 Dialogue: 9,0:17:44.32,0:17:44.79,P-阁下,,0,0,70,,嗯
-Dialogue: 9,0:17:57.47,0:18:00.15,A-miki,,0,0,70,,这样下去 就会输给未来她们了哦
+Dialogue: 9,0:17:57.47,0:18:00.15,A-miki,,0,0,70,,这样下去 你肯定会输给未来她们的
 Dialogue: 9,0:18:09.16,0:18:10.69,A-翼,,0,0,70,,烦死了
 Dialogue: 9,0:18:18.80,0:18:19.93,P-未来,,0,0,70,,诶嘿嘿
 Dialogue: 9,0:18:20.67,0:18:21.68,F-静香,,0,0,70,,翼
