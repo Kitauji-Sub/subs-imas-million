@@ -11,74 +11,129 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../[SubsPlease] The iDOLM@STER Million Live! - 02 (1080p) [0DB80F34].mkv
-Video File: ../../../[SubsPlease] The iDOLM@STER Million Live! - 02 (1080p) [0DB80F34].mkv
+Audio File: G:/ep1.mkv
+Video File: G:/ep1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Active Line: 16
-Video Position: 30031
+Active Line: 12
+Video Position: 17184
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: 歌CN,思源宋体,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,2,10,10,30,1
-Style: 歌JP,Source Han Serif,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,2,10,10,30,1
+Style: 歌CN,思源宋体,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,2,30,30,85,1
+Style: 歌JP,Source Han Serif,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0,0,0,0,100,100,1.1,0,1,0.6,0,7,30,30,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,注释,,0,0,0,,=====Insert 1 START=====
-Dialogue: 0,0:11:18.27,0:11:19.93,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}ToP!!!!!!!!!!!!!
-Dialogue: 0,0:11:19.93,0:11:23.07,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}始まる物語 (ストーリー)
-Dialogue: 0,0:11:23.32,0:11:26.43,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}好きな夢描いたら
-Dialogue: 0,0:11:26.43,0:11:30.68,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}本当の自分探しに行こう
-Dialogue: 0,0:11:30.94,0:11:34.43,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}終わらない道 (ストリート)
-Dialogue: 0,0:11:34.43,0:11:37.15,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}どんな日も乗り越えて
-Dialogue: 0,0:11:37.15,0:11:40.25,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}まっすぐ進もう
-Dialogue: 0,0:11:40.25,0:11:44.38,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}みんな信じて
-Dialogue: 0,0:11:44.38,0:11:46.09,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}I CAN DO IT NOW
-Dialogue: 0,0:11:56.70,0:12:02.30,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}さあ今想い込めて歌おう
-Dialogue: 0,0:12:02.30,0:12:07.10,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}さあ今力込めて踊ろう
-Dialogue: 0,0:12:07.23,0:12:10.07,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}いつでもどこでも
-Dialogue: 0,0:12:10.07,0:12:13.34,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}Happy! 目指して GO☆GO☆GO☆
-Dialogue: 0,0:12:13.34,0:12:16.22,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}未来へSMILE
-Dialogue: 0,0:12:17.16,0:12:18.89,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}過去から勇気
-Dialogue: 0,0:12:18.89,0:12:22.99,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}今日をほら…
-Dialogue: 0,0:12:29.40,0:12:31.13,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}ToP!!!!!!!!!!!!!
-Dialogue: 0,0:12:31.23,0:12:34.49,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}1番輝け
-Dialogue: 0,0:12:34.59,0:12:37.63,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}全世界　全生命
-Dialogue: 0,0:12:37.63,0:12:42.11,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}みんなが自分に生まれた奇跡
-Dialogue: 0,0:12:42.27,0:12:45.53,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}1番にな〜れ
-Dialogue: 0,0:12:45.64,0:12:48.35,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}ひとりずつ　ひとつずつ
-Dialogue: 0,0:12:48.35,0:12:51.29,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}自分らしい夢
-Dialogue: 0,0:12:51.45,0:12:55.58,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}叶えようきっと
-Dialogue: 0,0:12:55.58,0:12:57.08,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}WE CAN DO IT NOW
-Dialogue: 0,0:13:08.12,0:13:09.63,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}ToP!!!!!!!!!!!!!
-Dialogue: 0,0:13:09.72,0:13:12.25,歌JP,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}1番にな〜れ
-Dialogue: 0,0:11:18.27,0:11:19.93,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}ToP!!!!!!!!!!!!!
-Dialogue: 0,0:11:19.93,0:11:23.07,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}故事 (story) 的开始
-Dialogue: 0,0:11:23.32,0:11:26.43,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}如果已将喜爱的梦想描绘
-Dialogue: 0,0:11:26.43,0:11:30.68,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}那就去寻找真实的自己吧
-Dialogue: 0,0:11:30.94,0:11:34.43,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}无穷尽的道路 (street) 上
-Dialogue: 0,0:11:34.43,0:11:37.15,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}无论怎样的日子都会顺利度过
-Dialogue: 0,0:11:37.15,0:11:40.25,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}径直向前进发吧
-Dialogue: 0,0:11:40.25,0:11:44.38,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}相信着大家
-Dialogue: 0,0:11:44.38,0:11:46.09,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}I CAN DO IT NOW
-Dialogue: 0,0:11:56.70,0:12:02.30,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}来吧现在倾注心绪歌唱吧
-Dialogue: 0,0:12:02.30,0:12:07.10,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}来吧现在倾注力气跳舞吧
-Dialogue: 0,0:12:07.23,0:12:10.07,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}无论何时何地
-Dialogue: 0,0:12:10.07,0:12:13.34,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}Happy! 向着目标 GO☆GO☆GO☆
-Dialogue: 0,0:12:13.34,0:12:16.22,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}致未来的SMILE
-Dialogue: 0,0:12:17.16,0:12:18.89,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}源于过去的勇气
-Dialogue: 0,0:12:18.89,0:12:22.99,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}看吧今天
-Dialogue: 0,0:12:29.40,0:12:31.13,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}ToP!!!!!!!!!!!!!
-Dialogue: 0,0:12:31.23,0:12:34.49,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}发出最闪耀的光！
-Dialogue: 0,0:12:34.59,0:12:37.63,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}整个世界 整个人生
-Dialogue: 0,0:12:37.63,0:12:42.11,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}是每个人生而成为自己的奇迹
-Dialogue: 0,0:12:42.27,0:12:45.53,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}成〜为第一！
-Dialogue: 0,0:12:45.64,0:12:48.35,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}一个个人的 一个个的
-Dialogue: 0,0:12:48.35,0:12:51.29,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}自己独属的梦想
-Dialogue: 0,0:12:51.45,0:12:55.58,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}一定会实现的…
-Dialogue: 0,0:12:55.58,0:12:57.08,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}WE CAN DO IT NOW
-Dialogue: 0,0:13:08.12,0:13:09.63,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}ToP!!!!!!!!!!!!!
-Dialogue: 0,0:13:09.72,0:13:12.25,歌CN,,50,0,50,,{\an7\fscx80\fscy80\fad(200,200)\blur3}成〜为第一
-Comment: 0,0:00:00.00,0:00:00.00,注释,,0,0,0,,=====Insert 1 END=====
+Comment: 0,0:00:00.00,0:00:00.00,歌JP,,0,0,0,code once,color_choice = {"&H002B26CB", "&H006E6700", "&H00B99774", "&H00343230", "&H00BD4324", "&H005F1095", "&H00BD80D5", "&H002C866B", "&H00225B91", "&H00258899", "&H00AB3283", "&H00396400", "&H006A51D2", "&H00BA865A", "&H00378DAA", "&H006C3923", "&H00A08E93"}
+Comment: 0,0:00:00.00,0:00:00.00,歌JP,,0,0,0,template line actor everyone anystyle,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}
+Comment: 0,0:00:00.00,0:00:00.00,歌JP,,0,0,0,mixin char anystyle,{\3c!util.rand.item(color_choice)!}
+Comment: 0,0:11:18.27,0:11:19.93,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}ToP!!!!!!!!!!!!!
+Comment: 0,0:11:19.93,0:11:23.07,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}始まる物語 (ストーリー)
+Comment: 0,0:11:23.32,0:11:26.43,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}好きな夢描いたら
+Comment: 0,0:11:26.43,0:11:30.68,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}本当の自分探しに行こう
+Comment: 0,0:11:30.94,0:11:34.43,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}終わらない道 (ストリート)
+Comment: 0,0:11:34.43,0:11:37.15,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}どんな日も乗り越えて
+Comment: 0,0:11:37.15,0:11:40.25,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}まっすぐ進もう
+Comment: 0,0:11:40.25,0:11:44.38,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}みんな信じて
+Comment: 0,0:11:44.38,0:11:46.09,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}I CAN DO IT NOW
+Comment: 0,0:11:56.70,0:12:02.30,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}さあ今想い込めて歌おう
+Comment: 0,0:12:02.30,0:12:07.10,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}さあ今力込めて踊ろう
+Comment: 0,0:12:07.23,0:12:10.07,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}いつでもどこでも
+Comment: 0,0:12:10.07,0:12:13.34,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}Happy! 目指して GO☆GO☆GO☆
+Comment: 0,0:12:13.34,0:12:16.22,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}未来へSMILE
+Comment: 0,0:12:17.16,0:12:18.89,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}過去から勇気
+Comment: 0,0:12:18.89,0:12:22.99,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}今日をほら…
+Comment: 0,0:12:29.40,0:12:31.13,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}ToP!!!!!!!!!!!!!
+Comment: 0,0:12:31.23,0:12:34.49,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}1番輝け
+Comment: 0,0:12:34.59,0:12:37.63,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}全世界 全生命
+Comment: 0,0:12:37.63,0:12:42.11,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}みんなが自分に生まれた奇跡
+Comment: 0,0:12:42.27,0:12:45.53,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}1番にな〜れ
+Comment: 0,0:12:45.64,0:12:48.35,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}ひとりずつ ひとつずつ
+Comment: 0,0:12:48.35,0:12:51.29,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}自分らしい夢
+Comment: 0,0:12:51.45,0:12:55.58,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}叶えようきっと
+Comment: 0,0:12:55.58,0:12:57.08,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}WE CAN DO IT NOW
+Comment: 0,0:13:08.12,0:13:09.63,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}ToP!!!!!!!!!!!!!
+Comment: 0,0:13:09.72,0:13:12.25,歌JP,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}1番にな〜れ
+Comment: 0,0:11:18.27,0:11:19.93,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}ToP!!!!!!!!!!!!!
+Comment: 0,0:11:19.93,0:11:23.07,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}故事 (story) 的开始
+Comment: 0,0:11:23.32,0:11:26.43,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}如果已将喜爱的梦想描绘
+Comment: 0,0:11:26.43,0:11:30.68,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}那就去寻找真实的自己吧
+Comment: 0,0:11:30.94,0:11:34.43,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}无穷尽的道路 (street) 上
+Comment: 0,0:11:34.43,0:11:37.15,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}无论怎样的日子都会顺利度过
+Comment: 0,0:11:37.15,0:11:40.25,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}径直向前进发吧
+Comment: 0,0:11:40.25,0:11:44.38,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}相信着大家
+Comment: 0,0:11:44.38,0:11:46.09,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}I CAN DO IT NOW
+Comment: 0,0:11:56.70,0:12:02.30,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}来吧 现在倾注心绪歌唱吧
+Comment: 0,0:12:02.30,0:12:07.10,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}来吧 现在倾注力气跳舞吧
+Comment: 0,0:12:07.23,0:12:10.07,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}无论何时何地
+Comment: 0,0:12:10.07,0:12:13.34,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}Happy! 向着目标 GO☆GO☆GO☆
+Comment: 0,0:12:13.34,0:12:16.22,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}致未来的SMILE
+Comment: 0,0:12:17.16,0:12:18.89,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}源于过去的勇气
+Comment: 0,0:12:18.89,0:12:22.99,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}看吧今天
+Comment: 0,0:12:29.40,0:12:31.13,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}ToP!!!!!!!!!!!!!
+Comment: 0,0:12:31.23,0:12:34.49,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}发出最闪耀的光！
+Comment: 0,0:12:34.59,0:12:37.63,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}整个世界 整个人生
+Comment: 0,0:12:37.63,0:12:42.11,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}是每个人生而成为自己的奇迹
+Comment: 0,0:12:42.27,0:12:45.53,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}成〜为第一！
+Comment: 0,0:12:45.64,0:12:48.35,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}一个个人的 一个个的
+Comment: 0,0:12:48.35,0:12:51.29,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}自己独属的梦想
+Comment: 0,0:12:51.45,0:12:55.58,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}一定会实现的…
+Comment: 0,0:12:55.58,0:12:57.08,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}WE CAN DO IT NOW
+Comment: 0,0:13:08.12,0:13:09.63,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}ToP!!!!!!!!!!!!!
+Comment: 0,0:13:09.72,0:13:12.25,歌CN,everyone,0,0,0,kara,{\an7\fscx80\fscy80\fad(200,200)\blur3}成〜为第一
+Dialogue: 0,0:11:18.27,0:11:19.93,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00AB3283}T{\3c&H00A08E93}o{\3c&H00BD4324}P{\3c&H002B26CB}!{\3c&H00225B91}!{\3c&H002C866B}!{\3c&H00396400}!{\3c&H00AB3283}!{\3c&H00BD4324}!{\3c&H00258899}!{\3c&H00225B91}!{\3c&H00BA865A}!{\3c&H00396400}!{\3c&H00343230}!{\3c&H00258899}!{\3c&H00225B91}!
+Dialogue: 0,0:11:19.93,0:11:23.07,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00343230}始{\3c&H002C866B}ま{\3c&H006C3923}る{\3c&H002B26CB}物{\3c&H00BD80D5}語{\3c&H00225B91} {\3c&H00A08E93}({\3c&H00396400}ス{\3c&H00378DAA}ト{\3c&H00396400}ー{\3c&H00343230}リ{\3c&H002C866B}ー{\3c&H002C866B})
+Dialogue: 0,0:11:23.32,0:11:26.43,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H005F1095}好{\3c&H005F1095}き{\3c&H00A08E93}な{\3c&H002B26CB}夢{\3c&H002B26CB}描{\3c&H00343230}い{\3c&H006C3923}た{\3c&H00225B91}ら
+Dialogue: 0,0:11:26.43,0:11:30.68,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00BD80D5}本{\3c&H00A08E93}当{\3c&H00B99774}の{\3c&H002C866B}自{\3c&H00258899}分{\3c&H005F1095}探{\3c&H00B99774}し{\3c&H005F1095}に{\3c&H005F1095}行{\3c&H00378DAA}こ{\3c&H006A51D2}う
+Dialogue: 0,0:11:30.94,0:11:34.43,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H005F1095}終{\3c&H00258899}わ{\3c&H00A08E93}ら{\3c&H00225B91}な{\3c&H00AB3283}い{\3c&H006C3923}道{\3c&H00A08E93} {\3c&H006C3923}({\3c&H002C866B}ス{\3c&H005F1095}ト{\3c&H00A08E93}リ{\3c&H005F1095}ー{\3c&H006E6700}ト{\3c&H00BD4324})
+Dialogue: 0,0:11:34.43,0:11:37.15,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006C3923}ど{\3c&H002B26CB}ん{\3c&H00BD4324}な{\3c&H00BD80D5}日{\3c&H00343230}も{\3c&H002C866B}乗{\3c&H00AB3283}り{\3c&H006A51D2}越{\3c&H006E6700}え{\3c&H00378DAA}て
+Dialogue: 0,0:11:37.15,0:11:40.25,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H002B26CB}ま{\3c&H006C3923}っ{\3c&H00258899}す{\3c&H002B26CB}ぐ{\3c&H00225B91}進{\3c&H00BD80D5}も{\3c&H00BD80D5}う
+Dialogue: 0,0:11:40.25,0:11:44.38,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00225B91}み{\3c&H006C3923}ん{\3c&H00BA865A}な{\3c&H00396400}信{\3c&H00225B91}じ{\3c&H00396400}て
+Dialogue: 0,0:11:44.38,0:11:46.09,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00BD4324}I{\3c&H00225B91} {\3c&H00AB3283}C{\3c&H00BA865A}A{\3c&H00B99774}N{\3c&H00225B91} {\3c&H006A51D2}D{\3c&H00BD4324}O{\3c&H00BD80D5} {\3c&H005F1095}I{\3c&H00A08E93}T{\3c&H00BA865A} {\3c&H00343230}N{\3c&H005F1095}O{\3c&H00378DAA}W
+Dialogue: 0,0:11:56.70,0:12:02.30,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00396400}さ{\3c&H002C866B}あ{\3c&H00B99774}今{\3c&H006A51D2}想{\3c&H006C3923}い{\3c&H00AB3283}込{\3c&H00BD4324}め{\3c&H00378DAA}て{\3c&H00AB3283}歌{\3c&H006A51D2}お{\3c&H00B99774}う
+Dialogue: 0,0:12:02.30,0:12:07.10,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00225B91}さ{\3c&H002B26CB}あ{\3c&H00BD4324}今{\3c&H006A51D2}力{\3c&H00378DAA}込{\3c&H00258899}め{\3c&H00258899}て{\3c&H006E6700}踊{\3c&H002B26CB}ろ{\3c&H00AB3283}う
+Dialogue: 0,0:12:07.23,0:12:10.07,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006C3923}い{\3c&H00225B91}つ{\3c&H00396400}で{\3c&H00225B91}も{\3c&H005F1095}ど{\3c&H00A08E93}こ{\3c&H00258899}で{\3c&H002B26CB}も
+Dialogue: 0,0:12:10.07,0:12:13.34,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00B99774}H{\3c&H00B99774}a{\3c&H002B26CB}p{\3c&H002B26CB}p{\3c&H00BA865A}y{\3c&H00396400}!{\3c&H005F1095} {\3c&H00BD80D5}目{\3c&H00AB3283}指{\3c&H006A51D2}し{\3c&H00258899}て{\3c&H00AB3283} {\3c&H00BD80D5}G{\3c&H00343230}O{\3c&H00258899}☆{\3c&H005F1095}G{\3c&H00BD4324}O{\3c&H002B26CB}☆{\3c&H002C866B}G{\3c&H00BD4324}O{\3c&H006C3923}☆
+Dialogue: 0,0:12:13.34,0:12:16.22,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H002C866B}未{\3c&H002C866B}来{\3c&H00BA865A}へ{\3c&H00AB3283}S{\3c&H006C3923}M{\3c&H006C3923}I{\3c&H00BD80D5}L{\3c&H00258899}E
+Dialogue: 0,0:12:17.16,0:12:18.89,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H002B26CB}過{\3c&H00B99774}去{\3c&H005F1095}か{\3c&H00225B91}ら{\3c&H00BA865A}勇{\3c&H00BA865A}気
+Dialogue: 0,0:12:18.89,0:12:22.99,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00B99774}今{\3c&H005F1095}日{\3c&H00AB3283}を{\3c&H002B26CB}ほ{\3c&H00225B91}ら{\3c&H00396400}…
+Dialogue: 0,0:12:29.40,0:12:31.13,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00BA865A}T{\3c&H00BD80D5}o{\3c&H00BD80D5}P{\3c&H00BD80D5}!{\3c&H002B26CB}!{\3c&H00BD80D5}!{\3c&H00BA865A}!{\3c&H00BA865A}!{\3c&H00BA865A}!{\3c&H00AB3283}!{\3c&H00378DAA}!{\3c&H006C3923}!{\3c&H002B26CB}!{\3c&H006C3923}!{\3c&H002B26CB}!{\3c&H00B99774}!
+Dialogue: 0,0:12:31.23,0:12:34.49,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006C3923}1{\3c&H00BD80D5}番{\3c&H00BA865A}輝{\3c&H006E6700}け
+Dialogue: 0,0:12:34.59,0:12:37.63,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H002C866B}全{\3c&H00BA865A}世{\3c&H006E6700}界{\3c&H006A51D2} {\3c&H00343230}全{\3c&H002C866B}生{\3c&H00BD80D5}命
+Dialogue: 0,0:12:37.63,0:12:42.11,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00BD80D5}み{\3c&H00396400}ん{\3c&H00A08E93}な{\3c&H00343230}が{\3c&H00343230}自{\3c&H00B99774}分{\3c&H00BD4324}に{\3c&H00B99774}生{\3c&H005F1095}ま{\3c&H00B99774}れ{\3c&H006E6700}た{\3c&H006A51D2}奇{\3c&H00258899}跡
+Dialogue: 0,0:12:42.27,0:12:45.53,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00AB3283}1{\3c&H00A08E93}番{\3c&H002B26CB}に{\3c&H00BA865A}な{\3c&H00B99774}〜{\3c&H00BD80D5}れ
+Dialogue: 0,0:12:45.64,0:12:48.35,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006C3923}ひ{\3c&H00B99774}と{\3c&H00343230}り{\3c&H005F1095}ず{\3c&H00343230}つ{\3c&H00B99774} {\3c&H002B26CB}ひ{\3c&H006C3923}と{\3c&H00396400}つ{\3c&H00A08E93}ず{\3c&H002B26CB}つ
+Dialogue: 0,0:12:48.35,0:12:51.29,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006E6700}自{\3c&H00343230}分{\3c&H005F1095}ら{\3c&H002C866B}し{\3c&H00378DAA}い{\3c&H00BA865A}夢
+Dialogue: 0,0:12:51.45,0:12:55.58,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006C3923}叶{\3c&H00BA865A}え{\3c&H00A08E93}よ{\3c&H00396400}う{\3c&H00343230}き{\3c&H006A51D2}っ{\3c&H006C3923}と
+Dialogue: 0,0:12:55.58,0:12:57.08,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006C3923}W{\3c&H006C3923}E{\3c&H00BD80D5} {\3c&H00378DAA}C{\3c&H00B99774}A{\3c&H00258899}N{\3c&H00B99774} {\3c&H00BA865A}D{\3c&H002C866B}O{\3c&H00225B91} {\3c&H00225B91}I{\3c&H00BA865A}T{\3c&H00A08E93} {\3c&H00258899}N{\3c&H00258899}O{\3c&H006A51D2}W
+Dialogue: 0,0:13:08.12,0:13:09.63,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00B99774}T{\3c&H00AB3283}o{\3c&H006A51D2}P{\3c&H00378DAA}!{\3c&H006C3923}!{\3c&H00BD4324}!{\3c&H00225B91}!{\3c&H006A51D2}!{\3c&H002B26CB}!{\3c&H00BA865A}!{\3c&H00BD4324}!{\3c&H00A08E93}!{\3c&H006C3923}!{\3c&H005F1095}!{\3c&H002B26CB}!{\3c&H005F1095}!
+Dialogue: 0,0:13:09.72,0:13:12.25,歌JP,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00AB3283}1{\3c&H00BA865A}番{\3c&H002C866B}に{\3c&H00A08E93}な{\3c&H00BD4324}〜{\3c&H00396400}れ
+Dialogue: 0,0:11:18.27,0:11:19.93,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00BD80D5}T{\3c&H00BD80D5}o{\3c&H00258899}P{\3c&H00258899}!{\3c&H00225B91}!{\3c&H002C866B}!{\3c&H005F1095}!{\3c&H005F1095}!{\3c&H00BA865A}!{\3c&H00BA865A}!{\3c&H00BD4324}!{\3c&H002C866B}!{\3c&H006C3923}!{\3c&H006A51D2}!{\3c&H005F1095}!{\3c&H00BD80D5}!
+Dialogue: 0,0:11:19.93,0:11:23.07,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006C3923}故{\3c&H00B99774}事{\3c&H00B99774} {\3c&H002B26CB}({\3c&H00A08E93}s{\3c&H002C866B}t{\3c&H00BD80D5}o{\3c&H002B26CB}r{\3c&H006A51D2}y{\3c&H00258899}){\3c&H00B99774} {\3c&H006A51D2}的{\3c&H006E6700}开{\3c&H006E6700}始
+Dialogue: 0,0:11:23.32,0:11:26.43,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H005F1095}如{\3c&H00225B91}果{\3c&H002C866B}已{\3c&H00AB3283}将{\3c&H002C866B}喜{\3c&H00BA865A}爱{\3c&H00A08E93}的{\3c&H006E6700}梦{\3c&H00225B91}想{\3c&H00378DAA}描{\3c&H00258899}绘
+Dialogue: 0,0:11:26.43,0:11:30.68,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006E6700}那{\3c&H00AB3283}就{\3c&H00BD80D5}去{\3c&H00225B91}寻{\3c&H00225B91}找{\3c&H006E6700}真{\3c&H00258899}实{\3c&H00B99774}的{\3c&H00BD4324}自{\3c&H00A08E93}己{\3c&H00378DAA}吧
+Dialogue: 0,0:11:30.94,0:11:34.43,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00378DAA}无{\3c&H00A08E93}穷{\3c&H002B26CB}尽{\3c&H00B99774}的{\3c&H00225B91}道{\3c&H00BD4324}路{\3c&H006C3923} {\3c&H006C3923}({\3c&H006A51D2}s{\3c&H00BA865A}t{\3c&H00378DAA}r{\3c&H00B99774}e{\3c&H00AB3283}e{\3c&H00B99774}t{\3c&H00258899}){\3c&H002C866B} {\3c&H006C3923}上
+Dialogue: 0,0:11:34.43,0:11:37.15,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H002B26CB}无{\3c&H00396400}论{\3c&H00343230}怎{\3c&H00225B91}样{\3c&H00B99774}的{\3c&H002C866B}日{\3c&H00B99774}子{\3c&H00A08E93}都{\3c&H00A08E93}会{\3c&H00343230}顺{\3c&H00BD4324}利{\3c&H002C866B}度{\3c&H005F1095}过
+Dialogue: 0,0:11:37.15,0:11:40.25,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00AB3283}径{\3c&H00BD4324}直{\3c&H002C866B}向{\3c&H00B99774}前{\3c&H00BA865A}进{\3c&H00378DAA}发{\3c&H006C3923}吧
+Dialogue: 0,0:11:40.25,0:11:44.38,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006E6700}相{\3c&H00378DAA}信{\3c&H00396400}着{\3c&H00BA865A}大{\3c&H00396400}家
+Dialogue: 0,0:11:44.38,0:11:46.09,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00378DAA}I{\3c&H00258899} {\3c&H006A51D2}C{\3c&H00B99774}A{\3c&H00396400}N{\3c&H002B26CB} {\3c&H00258899}D{\3c&H00343230}O{\3c&H006A51D2} {\3c&H006C3923}I{\3c&H00A08E93}T{\3c&H00343230} {\3c&H00343230}N{\3c&H00BD4324}O{\3c&H00258899}W
+Dialogue: 0,0:11:56.70,0:12:02.30,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006C3923}来{\3c&H00AB3283}吧{\3c&H006E6700}现{\3c&H00378DAA}在{\3c&H002B26CB}倾{\3c&H00BD4324}注{\3c&H006C3923}心{\3c&H006C3923}绪{\3c&H00258899}歌{\3c&H00258899}唱{\3c&H00225B91}吧
+Dialogue: 0,0:12:02.30,0:12:07.10,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006A51D2}来{\3c&H002B26CB}吧{\3c&H006E6700}现{\3c&H00343230}在{\3c&H00258899}倾{\3c&H00A08E93}注{\3c&H00B99774}力{\3c&H00225B91}气{\3c&H005F1095}跳{\3c&H005F1095}舞{\3c&H002B26CB}吧
+Dialogue: 0,0:12:07.23,0:12:10.07,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00BA865A}无{\3c&H00BD4324}论{\3c&H002C866B}何{\3c&H00258899}时{\3c&H00A08E93}何{\3c&H00BD80D5}地
+Dialogue: 0,0:12:10.07,0:12:13.34,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H002C866B}H{\3c&H00BD4324}a{\3c&H00BD4324}p{\3c&H00BD4324}p{\3c&H00AB3283}y{\3c&H005F1095}!{\3c&H00225B91} {\3c&H002C866B}向{\3c&H006A51D2}着{\3c&H00AB3283}目{\3c&H00BA865A}标{\3c&H00BD4324} {\3c&H00396400}G{\3c&H00396400}O{\3c&H002C866B}☆{\3c&H005F1095}G{\3c&H005F1095}O{\3c&H00396400}☆{\3c&H002B26CB}G{\3c&H00BD80D5}O{\3c&H00BD4324}☆
+Dialogue: 0,0:12:13.34,0:12:16.22,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H002C866B}致{\3c&H002C866B}未{\3c&H00BD4324}来{\3c&H006E6700}的{\3c&H00258899}S{\3c&H006E6700}M{\3c&H00225B91}I{\3c&H00AB3283}L{\3c&H00396400}E
+Dialogue: 0,0:12:17.16,0:12:18.89,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00AB3283}源{\3c&H00BD80D5}于{\3c&H00396400}过{\3c&H00BA865A}去{\3c&H006A51D2}的{\3c&H006E6700}勇{\3c&H00BA865A}气
+Dialogue: 0,0:12:18.89,0:12:22.99,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00A08E93}看{\3c&H006A51D2}吧{\3c&H00225B91}今{\3c&H00225B91}天
+Dialogue: 0,0:12:29.40,0:12:31.13,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006A51D2}T{\3c&H00BD80D5}o{\3c&H00225B91}P{\3c&H00B99774}!{\3c&H002C866B}!{\3c&H006C3923}!{\3c&H00343230}!{\3c&H006C3923}!{\3c&H006C3923}!{\3c&H00AB3283}!{\3c&H00B99774}!{\3c&H00396400}!{\3c&H00343230}!{\3c&H006C3923}!{\3c&H006E6700}!{\3c&H00225B91}!
+Dialogue: 0,0:12:31.23,0:12:34.49,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H002C866B}发{\3c&H002B26CB}出{\3c&H00225B91}最{\3c&H002B26CB}闪{\3c&H00343230}耀{\3c&H00225B91}的{\3c&H00BD80D5}光{\3c&H002B26CB}！
+Dialogue: 0,0:12:34.59,0:12:37.63,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H006C3923}整{\3c&H00396400}个{\3c&H006E6700}世{\3c&H00343230}界{\3c&H00258899} {\3c&H00225B91}整{\3c&H00BD4324}个{\3c&H00343230}人{\3c&H00225B91}生
+Dialogue: 0,0:12:37.63,0:12:42.11,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00BD80D5}是{\3c&H00BD80D5}每{\3c&H00BD80D5}个{\3c&H002B26CB}人{\3c&H006C3923}生{\3c&H00BA865A}而{\3c&H00378DAA}成{\3c&H005F1095}为{\3c&H00BA865A}自{\3c&H00BD80D5}己{\3c&H00A08E93}的{\3c&H006C3923}奇{\3c&H00258899}迹
+Dialogue: 0,0:12:42.27,0:12:45.53,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H002B26CB}成{\3c&H006C3923}〜{\3c&H005F1095}为{\3c&H002C866B}第{\3c&H00225B91}一{\3c&H00BD80D5}！
+Dialogue: 0,0:12:45.64,0:12:48.35,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H005F1095}一{\3c&H00378DAA}个{\3c&H005F1095}个{\3c&H006C3923}人{\3c&H005F1095}的{\3c&H00343230} {\3c&H00225B91}一{\3c&H00A08E93}个{\3c&H005F1095}个{\3c&H005F1095}的
+Dialogue: 0,0:12:48.35,0:12:51.29,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00BD80D5}自{\3c&H006C3923}己{\3c&H006A51D2}独{\3c&H006A51D2}属{\3c&H00396400}的{\3c&H006A51D2}梦{\3c&H00AB3283}想
+Dialogue: 0,0:12:51.45,0:12:55.58,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00BD4324}一{\3c&H00396400}定{\3c&H00BA865A}会{\3c&H00258899}实{\3c&H00AB3283}现{\3c&H00258899}的{\3c&H002C866B}…
+Dialogue: 0,0:12:55.58,0:12:57.08,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00AB3283}W{\3c&H006A51D2}E{\3c&H00AB3283} {\3c&H006A51D2}C{\3c&H00B99774}A{\3c&H006E6700}N{\3c&H00378DAA} {\3c&H00BD4324}D{\3c&H00BA865A}O{\3c&H00B99774} {\3c&H00BD4324}I{\3c&H00AB3283}T{\3c&H00396400} {\3c&H002C866B}N{\3c&H00BD80D5}O{\3c&H006E6700}W
+Dialogue: 0,0:13:08.12,0:13:09.63,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00396400}T{\3c&H00BD4324}o{\3c&H00225B91}P{\3c&H006A51D2}!{\3c&H00BA865A}!{\3c&H00AB3283}!{\3c&H00AB3283}!{\3c&H00343230}!{\3c&H006E6700}!{\3c&H00AB3283}!{\3c&H00343230}!{\3c&H002C866B}!{\3c&H005F1095}!{\3c&H00378DAA}!{\3c&H002B26CB}!{\3c&H00258899}!
+Dialogue: 0,0:13:09.72,0:13:12.25,歌CN,everyone,0,0,0,fx,{\an7\fscx80\fscy80\fade(200,200)\blur3\bord3\3c&H00225B91}成{\3c&H00343230}〜{\3c&H006A51D2}为{\3c&H00BA865A}第{\3c&H002C866B}一
