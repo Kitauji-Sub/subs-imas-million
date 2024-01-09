@@ -16,9 +16,9 @@ Video File: G:/ep1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 261
-Active Line: 278
-Video Position: 34334
+Scroll Position: 546
+Active Line: 551
+Video Position: 31651
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -89,14 +89,11 @@ Style: OP_CN,思源黑体 Heavy,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,注释,,0,0,0,,=====STAFF=====
-Dialogue: 0,0:00:00.00,0:00:03.00,其它,,0,0,0,,{\fad(300,300)\pos(960,20)\fs54\bord2.5\shad0\c&HFFFFFF&\3c&H000000&}本字幕由{\fs58\bord1.2\c&HC6AC01&\3c&H04F2FD&\shad1}北宇治字幕组{\bord2.5\shad0\c&HFFFFFF&\3c&H000000&\fs54}制作发布 仅供交流试看之用 请于下载后24小时内删除{\an8}\N{\fs52}翻译/校对：FFU2　曲译：夕灵　时轴/压制：Scrpr
-Dialogue: 0,0:00:03.00,0:00:06.00,其它,,0,0,0,,{\fad(300,300)\pos(960,20)\an8\fs60\bord2.5\shad0}成员招募群: 232487445 欢迎各位小伙伴加入!
 Comment: 0,0:00:00.00,0:00:00.00,注释,,0,0,0,,=====TITLE=====
 Dialogue: 0,0:04:57.08,0:05:02.92,Title,,0,0,0,,{\fad(720,720)\pos(1440.89,936)}只属于自己的梦想
 Dialogue: 0,0:23:53.05,0:24:00.02,Title,,0,0,0,,{\fs60\blur5\bord.3\pos(405,937.33)}梦的门扉是试镜
 Comment: 0,0:24:00.02,0:24:02.02,Title,,0,0,0,,=====NOTES=====
-Dialogue: 0,0:05:41.55,0:05:45.25,注释,,0,0,0,,* 原型为位于千叶的幕張メッセ，曾举办过多场偶像大师企划Live
+Dialogue: 0,0:05:41.55,0:05:45.25,注释,,0,0,0,,* 原型为位于千叶的幕張メッセ\N\h\h\h曾举办过多场偶像大师企划Live
 Comment: 0,0:00:00.00,0:00:00.00,其它,,0,0,0,,=====TEXT CN=====
 Dialogue: 9,0:00:02.04,0:00:03.62,其它,,0,600,70,,拜托了
 Dialogue: 9,0:00:02.82,0:00:03.62,其它,,600,0,70,,好球
@@ -643,6 +640,17 @@ Dialogue: 8,0:23:51.98,0:23:53.18,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\b
 Dialogue: 8,0:23:53.18,0:23:55.86,F-静香,,700,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}うん お弁当のうどんが
 Dialogue: 8,0:23:55.86,0:23:57.66,P-未来,,700,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}うどん?!
 Comment: 0,0:23:57.66,0:23:59.66,Default,,0,0,0,import,insert/insert01.ass
-Comment: 0,0:22:00.03,0:22:00.03,Default,,0,0,0,import-shifted,../op/op_sc.ass
+Comment: 0,0:22:00.07,0:22:00.07,Default,,0,0,0,import-shifted,../op/op_sc.ass
+Comment: 0,0:22:00.07,0:22:00.07,Default,,0,0,0,import-shifted,staff/stf_kitauji.ass
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,screen/screen.ass
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,staff/stf_kitauji.ass
+
+[Aegisub Extradata]
+Data: 0,myaa.MergeScripts,e[{"extrakeys"#3A{}#2C"prefix"#3A1#2C"aegisub_garbage"#3A[{"class"#3A"info"#2C"value"#3A"Default"#2C"key"#3A"Last Style Storage"}#2C{"class"#3A"info"#2C"value"#3A"..\/..\/..\/[SubsPlease] The iDOLM@STER Million Live! - 02 (1080p) [0DB80F34].mkv"#2C"key"#3A"Audio File"}#2C{"class"#3A"info"#2C"value"#3A"..\/..\/..\/[SubsPlease] The iDOLM@STER Million Live! - 02 (1080p) [0DB80F34].mkv"#2C"key"#3A"Video File"}#2C{"class"#3A"info"#2C"value"#3A"4"#2C"key"#3A"Video AR Mode"}#2C{"class"#3A"info"#2C"value"#3A"1.777778"#2C"key"#3A"Video AR Value"}#2C{"class"#3A"info"#2C"value"#3A"1.000000"#2C"key"#3A"Video Zoom Percent"}#2C{"class"#3A"info"#2C"value"#3A"16"#2C"key"#3A"Active Line"}#2C{"class"#3A"info"#2C"value"#3A"30031"#2C"key"#3A"Video Position"}]#2C"file"#3A"insert\/insert01.ass"#2C"script_info"#3A[{"class"#3A"info"#2C"value"#3A"New subtitles"#2C"key"#3A"Title"}#2C{"class"#3A"info"#2C"value"#3A"v4.00+"#2C"key"#3A"ScriptType"}#2C{"class"#3A"info"#2C"value"#3A"0"#2C"key"#3A"WrapStyle"}#2C{"class"#3A"info"#2C"value"#3A"1920"#2C"key"#3A"PlayResX"}#2C{"class"#3A"info"#2C"value"#3A"1080"#2C"key"#3A"PlayResY"}#2C{"class"#3A"info"#2C"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"}#2C{"class"#3A"info"#2C"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"}]}]
+Data: 1,myaa.MergeScripts,e[{"extrakeys"#3A{}#2C"sync_line"#3A0#2C"prefix"#3A2#2C"aegisub_garbage"#3A[{"class"#3A"info"#2C"value"#3A"Default"#2C"key"#3A"Last Style Storage"}#2C{"class"#3A"info"#2C"value"#3A"..\/..\/..\/op.mp4"#2C"key"#3A"Audio File"}#2C{"class"#3A"info"#2C"value"#3A"..\/..\/..\/op.mp4"#2C"key"#3A"Video File"}#2C{"class"#3A"info"#2C"value"#3A"4"#2C"key"#3A"Video AR Mode"}#2C{"class"#3A"info"#2C"value"#3A"1.777778"#2C"key"#3A"Video AR Value"}#2C{"class"#3A"info"#2C"value"#3A"0.875000"#2C"key"#3A"Video Zoom Percent"}#2C{"class"#3A"info"#2C"value"#3A"156"#2C"key"#3A"Scroll Position"}#2C{"class"#3A"info"#2C"value"#3A"143"#2C"key"#3A"Active Line"}#2C{"class"#3A"info"#2C"value"#3A"13"#2C"key"#3A"Video Position"}]#2C"file"#3A"..\/op\/op_sc.ass"#2C"script_info"#3A[{"class"#3A"info"#2C"value"#3A"New subtitles"#2C"key"#3A"Title"}#2C{"class"#3A"info"#2C"value"#3A"v4.00+"#2C"key"#3A"ScriptType"}#2C{"class"#3A"info"#2C"value"#3A"0"#2C"key"#3A"WrapStyle"}#2C{"class"#3A"info"#2C"value"#3A"1920"#2C"key"#3A"PlayResX"}#2C{"class"#3A"info"#2C"value"#3A"1080"#2C"key"#3A"PlayResY"}#2C{"class"#3A"info"#2C"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"}#2C{"class"#3A"info"#2C"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"}]}]
+Data: 2,myaa.MergeScripts,e[{"extrakeys"#3A{}#2C"sync_line"#3A0#2C"prefix"#3A3#2C"aegisub_garbage"#3A[{"class"#3A"info"#2C"value"#3A"Default"#2C"key"#3A"Last Style Storage"}#2C{"class"#3A"info"#2C"value"#3A"..\/..\/..\/..\/op.mp4"#2C"key"#3A"Audio File"}#2C{"class"#3A"info"#2C"value"#3A"..\/..\/..\/..\/op.mp4"#2C"key"#3A"Video File"}#2C{"class"#3A"info"#2C"value"#3A"4"#2C"key"#3A"Video AR Mode"}#2C{"class"#3A"info"#2C"value"#3A"1.777778"#2C"key"#3A"Video AR Value"}#2C{"class"#3A"info"#2C"value"#3A"1.000000"#2C"key"#3A"Video Zoom Percent"}#2C{"class"#3A"info"#2C"value"#3A"2100"#2C"key"#3A"Video Position"}]#2C"file"#3A"staff\/stf_kitauji.ass"#2C"script_info"#3A[{"class"#3A"info"#2C"value"#3A"New subtitles"#2C"key"#3A"Title"}#2C{"class"#3A"info"#2C"value"#3A"v4.00+"#2C"key"#3A"ScriptType"}#2C{"class"#3A"info"#2C"value"#3A"0"#2C"key"#3A"WrapStyle"}#2C{"class"#3A"info"#2C"value"#3A"1920"#2C"key"#3A"PlayResX"}#2C{"class"#3A"info"#2C"value"#3A"1080"#2C"key"#3A"PlayResY"}#2C{"class"#3A"info"#2C"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"}#2C{"class"#3A"info"#2C"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"}]}]
+Data: 3,myaa.MergeScripts,e[{"extrakeys"#3A{"_aegi_perspective_ambient_plane"#3A{"362.91;974.56#7C1189.75;790.93#7C1218.88;879.70#7C387.84;1067.70"#3A6#2C"254.97;686.62#7C1743.05;1011.59#7C1710.33;1166.51#7C225.92;837.96"#3A2#2C"254.97;686.62#7C1742.99;1011.58#7C1710.27;1166.49#7C225.93;837.96"#3A5#2C"570.78;679.23#7C1462.88;456.12#7C1472.99;594.04#7C564.18;780.41"#3A1#2C"631.42;585.40#7C1178.57;429.66#7C1182.07;552.39#7C625.68;686.42"#3A0#2C"254.97;686.62#7C1743.00;1011.58#7C1710.28;1166.49#7C225.93;837.96"#3A3}}#2C"prefix"#3A4#2C"aegisub_garbage"#3A[{"class"#3A"info"#2C"value"#3A"Default"#2C"key"#3A"Last Style Storage"}#2C{"class"#3A"info"#2C"value"#3A"G#3A\/ep1.mkv"#2C"key"#3A"Audio File"}#2C{"class"#3A"info"#2C"value"#3A"G#3A\/ep1.mkv"#2C"key"#3A"Video File"}#2C{"class"#3A"info"#2C"value"#3A"4"#2C"key"#3A"Video AR Mode"}#2C{"class"#3A"info"#2C"value"#3A"1.777778"#2C"key"#3A"Video AR Value"}#2C{"class"#3A"info"#2C"value"#3A"1.000000"#2C"key"#3A"Video Zoom Percent"}#2C{"class"#3A"info"#2C"value"#3A"156"#2C"key"#3A"Scroll Position"}#2C{"class"#3A"info"#2C"value"#3A"166"#2C"key"#3A"Active Line"}#2C{"class"#3A"info"#2C"value"#3A"30349"#2C"key"#3A"Video Position"}]#2C"file"#3A"screen\/screen.ass"#2C"script_info"#3A[{"class"#3A"info"#2C"value"#3A"New subtitles"#2C"key"#3A"Title"}#2C{"class"#3A"info"#2C"value"#3A"v4.00+"#2C"key"#3A"ScriptType"}#2C{"class"#3A"info"#2C"value"#3A"0"#2C"key"#3A"WrapStyle"}#2C{"class"#3A"info"#2C"value"#3A"1920"#2C"key"#3A"PlayResX"}#2C{"class"#3A"info"#2C"value"#3A"1080"#2C"key"#3A"PlayResY"}#2C{"class"#3A"info"#2C"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"}#2C{"class"#3A"info"#2C"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"}]}]
+Data: 4,_aegi_perspective_ambient_plane,e254.97;686.62#7C1743.00;1011.58#7C1710.28;1166.49#7C225.93;837.96
+Data: 5,_aegi_perspective_ambient_plane,e254.97;686.62#7C1742.99;1011.58#7C1710.27;1166.49#7C225.93;837.96
+Data: 6,_aegi_perspective_ambient_plane,e631.42;585.40#7C1178.57;429.66#7C1182.07;552.39#7C625.68;686.42
+Data: 7,_aegi_perspective_ambient_plane,e570.78;679.23#7C1462.88;456.12#7C1472.99;594.04#7C564.18;780.41
+Data: 8,_aegi_perspective_ambient_plane,e362.91;974.56#7C1189.75;790.93#7C1218.88;879.70#7C387.84;1067.70
