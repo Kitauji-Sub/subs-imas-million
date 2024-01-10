@@ -15,10 +15,10 @@ Audio File: G:/ep3.mkv
 Video File: G:/ep3.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 385
-Active Line: 407
-Video Position: 31151
+Video Zoom Percent: 0.500000
+Scroll Position: 159
+Active Line: 193
+Video Position: 15255
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -282,7 +282,7 @@ Dialogue: 9,0:10:23.83,0:10:26.65,A-茜,,0,0,70,,目标是销售排行榜{\fscx5
 Dialogue: 9,0:10:26.65,0:10:28.60,A-茜,,0,0,70,,我贴！我贴！
 Dialogue: 9,0:10:28.86,0:10:33.47,A-茜,,0,0,70,,这下 美少女野野原茜的存在就能被世间更多人知道了
 Dialogue: 9,0:10:33.47,0:10:35.67,A-茜,,0,0,70,,太好了{\fscx50} {\fscx100}PRO{\fscx50} {\fscx100}酱
-Dialogue: 9,0:10:36.25,0:10:38.07,P-未来,,0,0,70,,欸嘿嘿
+Dialogue: 9,0:10:36.25,0:10:38.07,P-未来,,0,0,70,,捏嘿嘿
 Dialogue: 9,0:10:38.68,0:10:40.19,P-未来,,0,0,70,,锵
 Dialogue: 9,0:10:40.19,0:10:42.17,A-翼,,0,0,70,,立马就开始上课吗…
 Dialogue: 9,0:10:42.68,0:10:46.04,P-未来,,0,0,70,,啊 百合子前辈不和我们一起吗

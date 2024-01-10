@@ -15,10 +15,10 @@ Audio File: G:/ep5.mkv
 Video File: G:/ep5.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 357
-Active Line: 366
-Video Position: 34132
+Video Zoom Percent: 0.875000
+Scroll Position: 91
+Active Line: 113
+Video Position: 9831
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -202,7 +202,7 @@ Dialogue: 9,0:06:37.32,0:06:40.08,A-女儿,,0,0,70,,诶？这袋子会变成床�
 Dialogue: 9,0:06:40.08,0:06:41.16,A-女儿,,0,0,70,,好厉害
 Dialogue: 9,0:06:46.14,0:06:50.02,P-未来,,0,0,80,,{\an8}哇
 Dialogue: 9,0:06:48.84,0:06:50.02,F-静香,,0,0,70,,等一下 未来
-Dialogue: 9,0:06:50.02,0:06:50.96,P-未来,,0,0,70,,诶嘿嘿
+Dialogue: 9,0:06:50.02,0:06:50.96,P-未来,,0,0,70,,捏嘿嘿
 Dialogue: 9,0:06:50.96,0:06:52.98,P-未来,,0,0,70,,真好玩啊
 Dialogue: 9,0:06:53.72,0:06:55.58,A-翼,,0,0,70,,像毛毛虫一样
 Dialogue: 9,0:06:55.80,0:06:58.58,P-未来,,0,0,80,,{\an8}毛～毛～虫
