@@ -16,9 +16,9 @@ Video File: G:/ep1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 67
-Active Line: 77
-Video Position: 10950
+Scroll Position: 151
+Active Line: 166
+Video Position: 30349
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -189,10 +189,10 @@ Dialogue: 0,0:20:57.45,0:20:57.75,OnScreen,,0,0,0,,{\b0\c&H565656&\an7\fscx126.5
 Dialogue: 0,0:20:57.75,0:20:59.62,OnScreen,,0,0,0,,{\b0\c&H565656&\an7\fscx125.04\fscy119.82\frz12.0016\frx1.3211\fry0.4449\org(-451.93,919.91)\pos(355.63,251.02)}好~那就去\N很早以前就想去的一家咖啡厅吧
 Dialogue: 0,0:20:57.75,0:20:59.62,OnScreen,,0,0,0,,{\b0\c&H565656&\an7\fax0.000001\fscx125.59\fscy122.84\frz12.5211\frx1.3080\fry0.4405\org(-270.49,1114.09)\pos(443.09,522.24)}冰淇凌很可爱也很好吃的样子
 Dialogue: 0,0:20:57.75,0:20:59.62,OnScreen,,0,0,0,,{\b0\c&H565656&\an7\fscx126.16\fscy126.47\frz13.1502\frx1.2932\fry0.4359\org(-46.29,1344.46)\pos(442.68,821.95)}虽然有点贵，但没问题吧。毕竟是工作嘛
-Dialogue: 0,0:21:05.79,0:21:11.21,OnScreen,,0,0,0,,{\c&H565656&\an7\fscx48\fscy48\pos(219,121)}今天辛苦了，非常感谢你能\N答应来当偶像！今后也一起\N加油吧！之后，会有正式的\N手续以及说明，能否在百忙\N之中抽出一点时间来一趟事\N务所呢？也可以在事务所之\N外的别的地方，大概要一个\N小时。怎么样呢？
-Dialogue: 0,0:21:05.79,0:21:11.21,OnScreen,,0,0,0,,{\c&H565656&\an7\fscx48\fscy48\pos(481,351)}好~那就去\N很早以前就想去的一家咖啡厅吧
-Dialogue: 0,0:21:05.79,0:21:11.21,OnScreen,,0,0,0,,{\c&H565656&\an7\fscx48\fscy48\pos(480,472)}冰淇凌很可爱也很好吃的样子
-Dialogue: 0,0:21:05.79,0:21:11.21,OnScreen,,0,0,0,,{\c&H565656&\an7\fscx48\fscy48\pos(443,561)}虽然有点贵，但没问题吧。\N毕竟是工作嘛
+Dialogue: 0,0:21:05.79,0:21:11.21,OnScreen,,0,0,0,,{\c&H565656&\an7\fscx48\fscy48\pos(219,121)\t(4145,4896,\blur10)}今天辛苦了，非常感谢你能\N答应来当偶像！今后也一起\N加油吧！之后，会有正式的\N手续以及说明，能否在百忙\N之中抽出一点时间来一趟事\N务所呢？也可以在事务所之\N外的别的地方，大概要一个\N小时。怎么样呢？
+Dialogue: 0,0:21:05.79,0:21:11.21,OnScreen,,0,0,0,,{\c&H565656&\an7\fscx48\fscy48\pos(481,351)\t(4145,4896,\blur10)}好~那就去\N很早以前就想去的一家咖啡厅吧
+Dialogue: 0,0:21:05.79,0:21:11.21,OnScreen,,0,0,0,,{\c&H565656&\an7\fscx48\fscy48\pos(480,472)\t(4145,4896,\blur10)}冰淇凌很可爱也很好吃的样子
+Dialogue: 0,0:21:05.79,0:21:11.21,OnScreen,,0,0,0,,{\c&H565656&\an7\fscx48\fscy48\pos(443,561)\t(4145,4896,\blur10)}虽然有点贵，但没问题吧。\N毕竟是工作嘛
 
 [Aegisub Extradata]
 Data: 0,_aegi_perspective_ambient_plane,e631.42;585.40#7C1178.57;429.66#7C1182.07;552.39#7C625.68;686.42
