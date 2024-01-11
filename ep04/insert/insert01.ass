@@ -16,7 +16,7 @@ Video File: G:/ep4.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Active Line: 4
+Active Line: 34
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,8 +58,8 @@ Comment: 0,0:23:05.20,0:23:09.96,歌JP,everyone,0,0,0,kara,{\an7\fad(200,200)\bl
 Comment: 0,0:23:09.96,0:23:20.46,歌JP,everyone,0,0,0,kara,{\an7\fad(200,200)\blur3\bord3}始まる予感が花 ひらいていくんだ
 Comment: 0,0:23:21.14,0:23:29.66,歌JP,everyone,0,0,0,kara,{\an7\fad(200,200)\blur3\bord3}まだ出逢ってない夢が また扉叩くから
 Comment: 0,0:20:38.04,0:20:40.04,歌CN,,0,0,0,,=====CN=====
-Dialogue: 0,0:21:34.44,0:21:35.44,歌CN,,0,0,0,,{\move(-40,85,10,85,0,300)\3c&H765BEA&\an7\fade(300,0)\blur3\bord3}♪「Seven Counts」
-Dialogue: 0,0:21:35.44,0:21:36.44,歌CN,,0,0,0,,{\move(10,85,-40,85,680,980)\3c&H765BEA&\an7\fade(0,300)\blur3\bord3}♪「Seven Counts」
+Dialogue: 0,0:21:34.44,0:21:35.44,歌CN,,0,0,0,,{\move(-40,85,10,85,0,300)\3c&H765BEA&\an7\fade(300,0)\blur3\bord3}♪「Seven Count」
+Dialogue: 0,0:21:35.44,0:21:36.44,歌CN,,0,0,0,,{\move(10,85,-40,85,680,980)\3c&H765BEA&\an7\fade(0,300)\blur3\bord3}♪「Seven Count」
 Comment: 0,0:21:36.44,0:21:41.48,歌CN,,0,0,0,kara,{\an7\fad(200,200)\blur3\bord3\3c&H765BEA&}从打盹中醒来之时
 Comment: 0,0:21:41.72,0:21:46.92,歌CN,,0,0,0,kara,{\an7\fad(200,200)\blur3\bord3\3c&H765BEA&}无来由地内心在动摇着
 Comment: 0,0:21:46.92,0:21:53.72,歌CN,,0,0,0,kara,{\an7\fad(200,200)\blur3\bord3\3c&HCF9564&}无法想起 但确实存在过的

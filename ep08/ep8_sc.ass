@@ -17,8 +17,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
 Scroll Position: 927
-Active Line: 932
-Video Position: 34420
+Active Line: 934
+Video Position: 3669
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -869,7 +869,7 @@ Dialogue: 8,0:15:59.85,0:16:02.06,F-桃子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\b
 Dialogue: 8,0:16:02.06,0:16:05.11,A-bba,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}そうね みんな いくわよ！
 Dialogue: 8,0:16:05.11,0:16:06.50,其它,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}お～っ！
 Dialogue: 8,0:16:06.90,0:16:09.97,其它,,0,0,20,,{\an8\fnFOT-TsukuGo Pro E\fs60\bord2.5}まもなく ドリームエリア奥ステージにて
-Dialogue: 8,0:16:09.97,0:16:14.47,其它,,0,0,20,,{\an8\fnFOT-TsukuGo Pro E\fs60\bord2.5}アイドルグループ MILLIONSTARS team4thの定期公演を行ないます 
+Dialogue: 8,0:16:09.97,0:16:14.47,其它,,0,0,20,,{\an8\fnFOT-TsukuGo Pro E\fs60\bord2.5}アイドルグループ MILLIONSTARS team4thの定期公演を行ないます
 Dialogue: 8,0:16:11.55,0:16:14.47,F-千鹤,,0,600,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}キャーッ！ 大変ですわ！
 Dialogue: 8,0:16:12.73,0:16:14.47,其它,,600,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}なんだ
 Dialogue: 8,0:16:14.47,0:16:15.83,P-arisa,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}どうしたんですか!?
@@ -1024,7 +1024,7 @@ Dialogue: 8,0:23:53.72,0:23:54.60,A-梓,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord
 Dialogue: 8,0:23:54.60,0:23:55.56,F-律子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}よし近い
 Dialogue: 8,0:23:55.56,0:23:57.48,A-梓,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}の八丈島です
 Dialogue: 8,0:23:57.48,0:23:59.64,其它,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}八丈島！？
-Comment: 0,0:02:33.00,0:02:33.00,Default,,0,0,0,import-shifted,../op/op_sc.ass
+Comment: 0,0:02:33.01,0:02:33.01,Default,,0,0,0,import-shifted,../op/op_sc.ass
 Comment: 0,0:01:27.06,0:01:27.06,Default,,0,0,0,import,insert/insert01.ass
 Comment: 0,0:01:27.06,0:01:27.06,Default,,0,0,0,import,screen/screen.ass
-Comment: 0,0:01:27.06,0:01:27.06,Default,,0,0,0,import,staff/stf_kitauji.ass
+Comment: 0,0:02:33.01,0:02:33.01,Default,,0,0,0,import-shifted,staff/stf_kitauji.ass
