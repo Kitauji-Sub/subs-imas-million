@@ -20,4 +20,4 @@ Style: STF,思源黑体 Heavy,65,&H00FDFDFD,&H000000FF,&H00505050,&H00000000,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:00.00,STF,,0,0,0,sync,
 Dialogue: 0,0:01:27.57,0:01:28.78,STF,,0,0,0,,{\fn思源黑体 Heavy\fscx60\fscy60\blur3\bord0.3\pos(960,950)}本字幕由 LoliHouse & 北宇治字幕组联合制作发布 仅供交流试看之用 成员招募群: 232487445 欢迎各位小伙伴加入!
-Dialogue: 0,0:01:27.57,0:01:28.78,STF,,0,0,0,,{\fn思源黑体 Heavy\fscx60\fscy60\blur3\bord0.3\pos(960,130)}翻·校·查：283工作室真顺乃@FFU2　轴·后：765工作室炸顺鸡@Scrpr　曲译：961工作室黑顺井@夕灵　压制：LoliHouse
+Dialogue: 0,0:01:27.57,0:01:28.78,STF,,0,0,0,,{\fn思源黑体 Heavy\fscx60\fscy60\blur3\bord0.3\pos(960,130)}翻·校·查：283工作室真顺乃@FFU2　轴·后：765工作室炸顺鸡@Scrpr　曲译：961工作室黑顺井@夕灵　合集：Scrpr　压制：LoliHouse
