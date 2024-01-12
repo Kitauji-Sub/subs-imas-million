@@ -15,9 +15,10 @@ Audio File: G:/ep9.mkv
 Video File: G:/ep9.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Active Line: 5
-Video Position: 2379
+Video Zoom Percent: 0.250000
+Scroll Position: 5
+Active Line: 32
+Video Position: 156
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

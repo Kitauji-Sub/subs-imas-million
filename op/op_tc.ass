@@ -16,8 +16,8 @@ Video File: ../../../op.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 139
-Active Line: 143
+Scroll Position: 127
+Active Line: 144
 Video Position: 1102
 
 [V4+ Styles]
@@ -233,7 +233,7 @@ Dialogue: 0,0:01:27.07,0:01:27.23,OP_JP,,0,0,0,,{\fnSource Han Sans Heavy\blur3\
 Dialogue: 0,0:01:27.23,0:01:27.40,OP_JP,,0,0,0,,{\fnSource Han Sans Heavy\fscx85\fscy85\blur3\bord0.3\pos(960,1030)}思いっきり叩こう！
 Dialogue: 0,0:01:27.40,0:01:27.57,OP_JP,,0,0,0,,{\fnSource Han Sans Heavy\fscx70\fscy70\blur3\bord0.3\pos(960,1000)}思いっきり叩こう！
 Comment: 0,0:00:00.52,0:00:05.69,OP_CN,night,0,0,0,kara,{\an8\fnSource Han Sans TC Heavy\blur3\bord0.3\fad(200,200)}一直在尋找 一直會夢到
-Comment: 0,0:00:05.74,0:00:11.78,OP_CN,night,0,0,0,kara,{\an8\fnSource Han Sans TC Heavy\blur3\bord0.3\fad(200,200)}只有“I（我）”的閃耀世界
+Comment: 0,0:00:05.74,0:00:11.78,OP_CN,night,0,0,0,kara,{\an8\fnSource Han Sans TC Heavy\blur3\bord0.3\fad(200,200)}只屬於我的的閃耀世界
 Comment: 0,0:00:14.70,0:00:19.75,OP_CN,,0,0,0,kara,{\an8\fnSource Han Sans TC Heavy\blur3\bord0.3\fad(200,200)}（Rat A Tat!!!　敲響吧　夢想的門扉　現在開始）
 Comment: 0,0:00:19.79,0:00:24.30,OP_CN,,0,0,0,kara,{\an8\fnSource Han Sans TC Heavy\blur3\bord0.3\fad(200,200)}（Rat A Tat!!!　敲響吧　盡情地敲響吧！）
 Comment: 0,0:00:24.71,0:00:27.26,OP_CN,,0,0,0,kara,{\an8\fnSource Han Sans TC Heavy\blur3\bord0.3\fad(200,200)}咚咚作響的內心深處
