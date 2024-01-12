@@ -16,9 +16,9 @@ Video File: G:/ep2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 222
-Active Line: 244
-Video Position: 21735
+Scroll Position: 260
+Active Line: 273
+Video Position: 27616
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -231,12 +231,12 @@ Dialogue: 9,0:09:12.01,0:09:16.33,A-anna,,0,700,70,,要上了哦 让你们哔哔
 Dialogue: 9,0:09:12.01,0:09:16.33,A-anna,,0,800,70,,{\fscx60\fscy60\fsp20\pos(495,941)}VIVID
 Dialogue: 9,0:09:20.20,0:09:21.00,A-anna,,0,0,70,,Yeah
 Dialogue: 9,0:09:21.41,0:09:24.84,P-奈绪,,0,0,70,,一定很热闹吧 其他的人呢
-Dialogue: 9,0:09:24.84,0:09:26.50,P-百合子,,0,0,70,,在展子工作吧
+Dialogue: 9,0:09:24.84,0:09:26.50,P-百合子,,0,0,70,,在做商场的工作吧
 Dialogue: 9,0:09:27.43,0:09:29.03,P-美奈子,,0,0,70,,Wahoy~
 Dialogue: 9,0:09:30.05,0:09:31.27,P-可胖,,0,0,70,,我们是
 Dialogue: 9,0:09:32.20,0:09:33.86,A-女儿,,0,0,70,,烧卖
 Dialogue: 9,0:09:34.28,0:09:36.62,P-美奈子,,0,0,70,,三{\rP-可胖}姐{\rA-女儿}妹
-Dialogue: 9,0:09:37.02,0:09:38.82,A-女儿,,0,0,70,,走过路过不要错过
+Dialogue: 9,0:09:37.02,0:09:38.82,A-女儿,,0,0,70,,请一定要尝试一下
 Dialogue: 9,0:09:38.82,0:09:40.19,P-可胖,,0,0,70,,-请尝尝 {\rA-女儿}-请尝尝
 Dialogue: 9,0:09:41.64,0:09:43.69,P-百合子,,0,0,70,,啊 好像已经结束了
 Dialogue: 9,0:09:45.45,0:09:49.74,P-奈绪,,0,0,70,,哇浪 恁多啊 接下来三天三夜都吃烧卖啦！
@@ -333,7 +333,7 @@ Dialogue: 9,0:14:55.55,0:14:57.95,A-翼,,0,0,70,,约会 说好了的哦
 Dialogue: 9,0:14:57.95,0:14:59.44,S-赤P源P,,0,0,70,,知道了 知道了
 Dialogue: 9,0:15:00.20,0:15:03.80,S-赤P源P,,0,0,70,,啊 不是的 不是这样的
 Dialogue: 9,0:15:04.44,0:15:06.49,P-未来,,0,0,70,,诶 已经合格了吗
-Dialogue: 9,0:15:06.49,0:15:08.60,A-翼,,0,0,70,,诶嘿嘿 大概是这种感觉吧
+Dialogue: 9,0:15:06.49,0:15:08.60,A-翼,,0,0,70,,诶嘿嘿 大概就是这种感觉吧
 Dialogue: 9,0:15:08.96,0:15:12.28,F-静香,,0,0,70,,这样说的话 那不是没练习课题曲吗
 Dialogue: 9,0:15:12.28,0:15:15.19,A-翼,,0,0,70,,嗯 但是没问题 因为刚才看过视频
 Dialogue: 9,0:15:24.04,0:15:25.28,A-翼,,0,0,70,,大概就这样子？
@@ -361,8 +361,8 @@ Dialogue: 9,0:18:41.52,0:18:45.17,P-未来,,0,0,70,,静香的话 一定能成为
 Dialogue: 9,0:18:45.17,0:18:47.56,P-未来,,0,0,70,,因为我已经…
 Dialogue: 9,0:18:48.31,0:18:50.55,P-未来,,0,0,70,,是静香的粉丝了
 Dialogue: 9,0:18:57.76,0:19:00.21,P-未来,,0,0,70,,上吧 静香
-Dialogue: 9,0:19:06.72,0:19:11.79,F-静香,静香,0,0,70,,{\3c&HBABABA&\4c&HCFCFCF&\t(\3c&HBA9E87&\4c&HCFB096&)}我只能身为我自己
-Dialogue: 9,0:19:11.79,0:19:16.59,F-静香,静香,0,0,70,,{\3c&HBA9E87&\4c&HCFB096&\t(\3c&HBA865A&\4c&HCF9564&)}只不过是一种可能
+Dialogue: 9,0:19:06.72,0:19:11.79,F-静香,静香,0,0,70,,{\3c&HBABABA&\4c&HCFCFCF&\blur6\alpha&HA0&\t(\3c&HBA9E87&\4c&HCFB096&\blur3\alpha&H00&)}「我只能身为我自己」
+Dialogue: 9,0:19:11.79,0:19:16.59,F-静香,静香,0,0,70,,{\3c&HBA9E87&\4c&HCFB096&\blur3\t(\3c&HBA865A&\4c&HCF9564&\blur0)}「只不过是一种可能」
 Dialogue: 9,0:19:33.98,0:19:35.78,F-静香,,0,0,70,,谢谢你 未来
 Dialogue: 9,0:20:18.42,0:20:19.54,F-桃子,,0,0,70,,这是…？
 Dialogue: 9,0:20:20.67,0:20:21.86,F-条纹人,,0,0,70,,我们…
@@ -671,8 +671,8 @@ Dialogue: 8,0:18:41.52,0:18:45.17,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\b
 Dialogue: 8,0:18:45.17,0:18:47.56,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}だって 私がもう
 Dialogue: 8,0:18:48.31,0:18:50.55,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}静香ちゃんのファンなんだもん！
 Dialogue: 8,0:18:57.76,0:19:00.21,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}いっけ～！ 静香ちゃん！
-Dialogue: 8,0:19:06.72,0:19:11.79,F-静香,静香,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\3c&HBABABA&\4c&HCFCFCF&\t(\3c&HBA9E87&\4c&HCFB096&)}私は私でしかない
-Dialogue: 8,0:19:11.79,0:19:16.59,F-静香,静香,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\3c&HBA9E87&\4c&HCFB096&\t(\3c&HBA865A&\4c&HCF9564&)}可能性でしかない
+Dialogue: 8,0:19:06.72,0:19:11.79,F-静香,静香,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\3c&HBABABA&\4c&HCFCFCF&\blur6\alpha&HA0&\t(\3c&HBA9E87&\4c&HCFB096&\blur3\alpha&H00&)}私は私でしかない
+Dialogue: 8,0:19:11.79,0:19:16.59,F-静香,静香,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\3c&HBA9E87&\4c&HCFB096&\blur3\t(\3c&HBA865A&\4c&HCF9564&\blur0)}可能性でしかない
 Dialogue: 8,0:19:33.98,0:19:35.78,F-静香,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ありがとう 未来！
 Dialogue: 8,0:20:18.42,0:20:19.54,F-桃子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}これって…
 Dialogue: 8,0:20:20.67,0:20:21.86,F-条纹人,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}私たち？

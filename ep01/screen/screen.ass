@@ -15,10 +15,10 @@ Audio File: G:/ep1.mkv
 Video File: G:/ep1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 151
-Active Line: 166
-Video Position: 30349
+Video Zoom Percent: 1.125000
+Scroll Position: 75
+Active Line: 85
+Video Position: 23870
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -79,7 +79,7 @@ Dialogue: 0,0:03:47.96,0:03:48.00,OnScreen,,0,0,0,,{\fn思源黑体\b0\alpha&H80
 Dialogue: 0,0:03:48.00,0:03:48.02,OnScreen,,0,0,0,,{\fn思源黑体\b0\alpha&H80&\c&H000000&\fax-0.000002\fscx199.95\fscy200.00\frz-11.5094\frx-0.1478\fry-0.3579\org(1762.42,-100.39)\pos(1200.15,762.82)}谢谢你给我的票，我会去看的！
 Dialogue: 0,0:03:48.02,0:03:48.05,OnScreen,,0,0,0,,{\fn思源黑体\b0\alpha&H80&\c&H000000&\fax0.000002\fscx199.95\fscy200.00\frz-11.5093\frx-0.1477\fry-0.3579\org(1762.25,-108.47)\pos(1200.17,766.78)}谢谢你给我的票，我会去看的！
 Dialogue: 0,0:03:48.05,0:03:48.92,OnScreen,,0,0,0,,{\fn思源黑体\b0\alpha&H80&\c&H000000&\fax-0.000001\fscx199.95\fscy200.00\frz-11.5093\frx-0.1477\fry-0.3578\org(1770.36,-116.61)\pos(1203.2,758.8)}谢谢你给我的票，我会去看的！
-Dialogue: 0,0:05:38.65,0:05:41.55,OnScreen,,0,0,0,,{\fscx101.48\fscy100.48\frz-20.0279\frx0.8182\fry-0.8307\org(935.6,-1991.6)\pos(1751.65,-183.88)\c&H54ACF9&}765{\c&HFFFFFF&}PRO ALLSTARS加油！！
+Dialogue: 0,0:05:38.65,0:05:41.55,OnScreen,,0,0,0,,{\fn思源黑体\b1\fscx101.48\fscy100.48\frz-20.0279\frx0.8182\fry-0.8307\org(935.6,-1991.6)\pos(1751.65,-183.88)\c&H54ACF9&}765{\c&HFFFFFF&}PRO ALLSTARS加油！！
 Dialogue: 0,0:05:41.55,0:05:42.82,OnScreen,,0,0,0,,{=0}{\c&H282025&\fn思源黑体 Medium\b0\fax-0.356608\fscx101.97\fscy134.61\frz14.4631\frx2.8884\fry-7.7934\org(881.46,577.68)\pos(888.73,604.6)}场馆：会展中心
 Dialogue: 0,0:05:42.82,0:05:42.95,OnScreen,,0,0,0,,{=0}{\c&H282025&\fn思源黑体 Medium\b0\fax-0.356608\fscx101.97\fscy134.61\frz14.4631\frx2.8884\fry-7.7934\org(881.46,577.68)\pos(888.73,604.6)\iclip(m 989.71 531.27 l 1010.54 523.95 979 580.26 951.42 574.06)}场馆：会展中心
 Dialogue: 0,0:05:42.95,0:05:43.08,OnScreen,,0,0,0,,{\c&H282025&\fn思源黑体 Medium\b0\fax-0.356608\fscx101.97\fscy134.61\frz14.4631\frx2.8884\fry-7.7934\org(881.46,577.68)\pos(888.73,604.6)\iclip(m 934.8 475.96 l 1110.22 561.9 898.95 610.96 b 904.61 584.61 899.36 543.09 896.91 527.08)}场馆：会展中心
@@ -107,8 +107,12 @@ Dialogue: 0,0:07:29.68,0:07:33.93,OnScreen,,0,0,0,,{=10}{\fn思源宋体\b1\c&HD
 Dialogue: 0,0:07:29.68,0:07:33.93,OnScreen,,0,0,0,,{=12}{\fn思源黑体 Light\blur2\c&HABAEBD&\fax-0.015428\fscx145.08\fscy147.01\frz-2.9032\frx2.2806\fry-0.5722\org(950.95,975.94)\pos(951.4,1005.34)}新人偶像募集
 Dialogue: 0,0:09:36.32,0:09:38.22,OnScreen,,0,0,0,,{\fn思源宋体\b1\fscx218.22\fscy208.62\frz33.2254\frx11.9809\fry-3.5851\org(710.01,718.96)\pos(1058.28,657.97)\c&HD7E3EB&}大型项目启动
 Dialogue: 0,0:09:36.32,0:09:38.22,OnScreen,,0,0,0,,{\fn思源黑体 Light\c&HD7E3EB&\fscx117.48\fscy146.11\frz36.8219\frx10.0325\fry-2.9878\org(986.66,931.7)\pos(1294.39,848.04)}新人偶像募集
-Dialogue: 0,0:09:36.32,0:09:38.22,OnScreen,,0,0,0,,{\c&H89929D&\fscx40.93\fscy47.86\frz38.8767\frx9.2527\fry-2.7520\org(1153.59,1034.65)\pos(1456.86,939.41)}喜欢唱歌，喜欢跳舞，喜欢表演，\N想站在把自己喜欢的事情传达给别人的地方吗？\N我们等着想在娱乐业界闪耀的你
+Dialogue: 0,0:09:36.32,0:09:38.22,OnScreen,,0,0,0,,{\fn思源黑体 Heavy\c&H91979E&\fscx40.93\fscy47.86\frz38.8767\frx9.2527\fry-2.7520\org(1153.59,1034.65)\pos(1456.86,939.41)}喜欢唱歌，喜欢跳舞，喜欢表演，\N想站在把自己喜欢的事情传达给别人的地方吗？\N我们等着想在娱乐业界闪耀的你
 Dialogue: 0,0:09:36.32,0:09:38.22,OnScreen,,0,0,0,,{\c&H1AB0BB&\fax0.000001\fscx137.12\fscy169.95\frz52.7537\frx8.5130\fry-2.5307\org(1450.74,1116.51)\pos(1876.02,840.04)}试镜举办中！！
+Dialogue: 0,0:16:33.85,0:16:35.10,OnScreen,,0,0,0,,{\fad(185,185)\fn思源宋体\b1\fscx218.22\fscy208.62\frz33.2254\frx11.9809\fry-3.5851\org(710.01,718.96)\pos(1058.28,657.97)\c&HD7E3EB&}大型项目启动
+Dialogue: 0,0:16:33.85,0:16:35.10,OnScreen,,0,0,0,,{\fad(185,185)\fn思源黑体 Light\c&HD7E3EB&\fscx117.48\fscy146.11\frz36.8219\frx10.0325\fry-2.9878\org(986.66,931.7)\pos(1294.39,848.04)}新人偶像募集
+Dialogue: 0,0:16:33.85,0:16:35.10,OnScreen,,0,0,0,,{\fad(185,185)\fn思源黑体 Heavy\c&H91979E&\fscx40.93\fscy47.86\frz38.8767\frx9.2527\fry-2.7520\org(1153.59,1034.65)\pos(1456.86,939.41)}喜欢唱歌，喜欢跳舞，喜欢表演，\N想站在把自己喜欢的事情传达给别人的地方吗？\N我们等着想在娱乐业界闪耀的你
+Dialogue: 0,0:16:33.85,0:16:35.10,OnScreen,,0,0,0,,{\fad(185,185)\c&H1AB0BB&\fax0.000001\fscx137.12\fscy169.95\frz52.7537\frx8.5130\fry-2.5307\org(1450.74,1116.51)\pos(1876.02,840.04)}试镜举办中！！
 Dialogue: 0,0:20:22.55,0:20:28.46,OnScreen,,0,0,0,,{\fscx150\fscy200\i1\c&H6BD8EF&\t(1183,2050,\alpha&HAA&)\pos(973.43,339.14)}新人偶像试镜
 Dialogue: 0,0:20:22.55,0:20:28.46,OnScreen,,0,0,0,,{\fn思源黑体 Medium\fscx150\fscy150\frz0.8795\c&HE6E9E5&\t(1183,2050,\alpha&HAA&)\pos(974.57,868.86)}点击此处报名
 Dialogue: 0,0:20:42.95,0:20:48.52,OnScreen,,0,0,0,,{\c&H8B837F&\fscx127.01\fscy133.70\frz14.4107\frx1.2672\fry0.4265\org(419.68,1791.01)\pos(1645.55,643.81)\an7\b0\c&H565656&}今天辛苦了，非常感谢你能\N答应来当偶像！今后也一起\N加油吧！之后，会有正式的\N手续以及说明，能否在百忙\N之中抽出一点时间来一趟事\N务所呢？也可以在事务所之\N外的别的地方，大概要一个\N小时。怎么样呢？

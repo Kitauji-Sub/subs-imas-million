@@ -16,9 +16,9 @@ Video File: G:/ep5.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 580
-Active Line: 587
-Video Position: 20125
+Scroll Position: 458
+Active Line: 467
+Video Position: 13734
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -464,6 +464,7 @@ Dialogue: 0,0:06:09.81,0:06:11.73,OnScreen,dup2,0,0,0,7,{\fn华康翩翩体W5-A\
 Dialogue: 0,0:06:09.81,0:06:11.73,OnScreen,dup2,0,0,0,7,{\fn华康翩翩体W5-A\c&H000000&\fscx150\fscy150\blur1.5\pos(1647.11,684.45)}正式演出！
 Dialogue: 0,0:08:45.42,0:08:47.34,OnScreen,dup,0,0,0,8,{=86}{\fn华康翩翩体W5-A\c&H71706D&\fax-0.230944\fscx314.57\fscy293.21\frz14.3479\frx2.0908\fry-1.9978\org(1028.85,309.98)\pos(1043.37,368.62)}距离试营业活动
 Dialogue: 0,0:08:45.42,0:08:47.34,OnScreen,dup,0,0,0,8,{\fn华康翩翩体W5-A\c&H71706D&\fax-0.266773\fscx303.71\fscy297.80\frz13.6260\frx2.1047\fry-2.0110\org(721.02,548.21)\pos(737.23,607.77)}还有
+Dialogue: 0,0:08:45.42,0:08:47.34,OnScreen,dup,0,0,0,8,{=103}{\fn华康翩翩体W5-A\c&H2E2D29&\fax-0.287967\fscx127.43\fscy127.86\frz13.6065\frx2.1259\fry-2.0313\org(107.15,716.77)\pos(114.49,742.34)}摇滚起来了
 Dialogue: 0,0:08:56.93,0:08:58.85,OnScreen,dup2,0,0,0,9,{\fn华康翩翩体W5-A\c&H000000&\fscx150\fscy150\blur2\pos(1712.9,204.44)}在剧场过夜
 Dialogue: 0,0:08:56.93,0:08:58.85,OnScreen,dup2,0,0,0,9,{\fn华康翩翩体W5-A\c&H000000&\fscx65\fscy65\blur2\pos(1692.44,412.44)}不准枕头大战！
 Dialogue: 0,0:08:56.93,0:08:58.85,OnScreen,dup2,0,0,0,9,{\fn华康翩翩体W5-A\c&H000000&\fscx150\fscy150\blur1\pos(249.78,455.11)}还有
@@ -490,6 +491,7 @@ Dialogue: 0,0:09:04.61,0:09:06.53,OnScreen,,0,0,0,10,{\alpha&A0&\fn思源黑体 
 Dialogue: 0,0:09:04.61,0:09:06.53,OnScreen,,0,0,0,10,{\alpha&A0&\fn思源黑体 Medium\an4\b0\fscx90\fscy90\c&H000000&\pos(180.45,800)}评论
 Dialogue: 0,0:09:06.53,0:09:08.44,OnScreen,dup,0,0,0,11,{=85}{\fn华康翩翩体W5-A\c&H71706D&\fax-0.230656\fscx314.84\fscy293.96\frz14.3019\frx2.0885\fry-1.9955\org(1027.95,320.65)\pos(1042.48,379.44)}距离试营业活动
 Dialogue: 0,0:09:06.53,0:09:08.44,OnScreen,dup,0,0,0,11,{\fn华康翩翩体W5-A\c&H71706D&\fax-0.266773\fscx303.71\fscy297.80\frz13.6260\frx2.1047\fry-2.0110\org(721.02,548.21)\pos(737.23,607.77)}还有
+Dialogue: 0,0:09:06.53,0:09:08.44,OnScreen,dup,0,0,0,11,{=104}{\fn华康翩翩体W5-A\c&H2C2B27&\fax-0.343986\fscx146.09\fscy156.20\frz12.8679\frx2.1626\fry-2.0664\org(178.46,838.6)\pos(188.51,869.84)}不妙啊~
 Dialogue: 0,0:09:32.80,0:09:34.72,OnScreen,,0,0,0,12,{=91}{\fn华康翩翩体W5-A\c&H000000&\blur0\fax0.008792\fscx349.57\fscy252.20\frz-0.0337\frx7.6332\fry0.0279\org(924.54,434.48)\pos(923.93,484.92)}还有
 Dialogue: 0,0:09:32.80,0:09:34.72,OnScreen,,0,0,0,12,{=91}{\fn华康翩翩体W5-A\c&H000000&\blur0\fax-0.107245\fscx204.61\fscy171.78\frz-0.0148\frx6.8985\fry0.0252\org(564.36,684.3)\pos(568.75,718.66)}要赶不上了！
 Dialogue: 0,0:12:33.56,0:12:33.65,OnScreen,track,0,0,0,13,{=100=102}{\alpha&H00&\fn华康翩翩体W5-A\an9\c&H2D2D64&\fax0.195808\frz-11.04\frx-0.1811\fry1.9223\org(1038.2,318.2)\pos(1070.66,286.43)}{\fscx120\fscy120}武道馆\N往此处
@@ -1028,3 +1030,5 @@ Data: 99,_aegi_perspective_ambient_plane,e351.78;122.64#7C1092.67;271.97#7C1091.
 Data: 100,_aegi_perspective_ambient_plane,e351.79;122.64#7C1092.67;271.97#7C1091.19;517.21#7C352.06;388.20
 Data: 101,a-mo,e{"originalText"#3A"{\\fn#E5#8D#8E#E5#BA#B7#E7#BF#A9#E7#BF#A9#E4#BD#93W5-A\\an9\\c&H2D2D64&\\fax0.198010\\fscx79.05\\fscy80.50\\frz-11.2480\\frx-0.1793\\fry1.8967\\org(916.61#2C260.26)\\pos(966.22#2C244.16)}#E6#89#8B#E5#B7#A5#E5#88#B6#E4#BD#9C"#2C"uuid"#3A"0795baed-6fc4-41d6-b681-6345a66cedab"}
 Data: 102,a-mo,e{"originalText"#3A"{\\fn#E5#8D#8E#E5#BA#B7#E7#BF#A9#E7#BF#A9#E4#BD#93W5-A\\an9\\c&H2D2D64&\\fax0.195808\\fscx76.91\\fscy79.44\\frz-11.0444\\frx-0.1811\\fry1.9223\\org(1038.2#2C318.2)\\pos(1070.66#2C286.43)}{\\fscx120\\fscy120}#E6#AD#A6#E9#81#93#E9#A6#86\\N#E5#BE#80#E6#AD#A4#E5#A4#84"#2C"uuid"#3A"3d97c52f-8f69-48f8-b0ad-e7514a047b22"}
+Data: 103,_aegi_perspective_ambient_plane,e-229.17;678.38#7C743.57;432.86#7C751.22;686.55#7C-248.86;918.43
+Data: 104,_aegi_perspective_ambient_plane,e-253.46;-35.24#7C1077.83;-457.45#7C1097.39;1022.27#7C-458.81;1327.86

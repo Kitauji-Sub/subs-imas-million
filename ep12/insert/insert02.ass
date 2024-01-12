@@ -15,10 +15,9 @@ Audio File: G:/ep12.mkv
 Video File: G:/ep12.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 9
-Active Line: 17
-Video Position: 4808
+Video Zoom Percent: 0.750000
+Active Line: 15
+Video Position: 4701
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,22 +41,28 @@ Comment: 0,0:00:00.00,0:00:00.00,歌JP,,0,0,0,mixin char anystyle,!retime("line"
 Comment: 0,0:00:00.00,0:00:00.00,歌JP,,0,0,0,mixin char actor everyone anystyle noblank,{\3c!line_colors[char.ci]!\bord!line_borders[char.ci]!!AutoTagsList(600,0,AddTags(line_colors, "3c"),char.ci)!}
 Comment: 0,0:00:00.00,0:00:00.00,歌JP,,0,0,0,mixin char anystyle noblank,{!AutoTagsList(300,0,AddTags(line_borders, "bord"),char.ci)!}
 Comment: 0,0:00:00.00,0:00:00.00,注释,,0,0,0,,=====INSERT 2：チョー↑元気Show☆アイドルch@ng！=====
-Comment: 0,0:02:51.03,0:02:53.82,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}チョー↑元気Show☆アイドルch@ng!
-Comment: 0,0:02:53.82,0:02:56.78,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}みんなが一番です！
-Comment: 0,0:02:56.78,0:02:59.53,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}1笑ケンメイ全力JUMP!
-Comment: 0,0:02:59.53,0:03:02.29,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}歌声☆に届かそう♪
-Comment: 0,0:03:02.29,0:03:05.12,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}チョー↑元気Show☆アイドルch@ng!
-Comment: 0,0:03:05.12,0:03:07.71,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}笑顔がご褒美です！
-Comment: 0,0:03:07.92,0:03:10.75,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}超情熱級ハイテンション！
-Comment: 0,0:03:10.80,0:03:13.92,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}起・承・転・結、全部クライマックス！
-Comment: 0,0:02:51.03,0:02:53.82,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}超↑活力Show☆偶像ch@ng!
-Comment: 0,0:02:53.82,0:02:56.78,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}大家最棒了！
-Comment: 0,0:02:56.78,0:02:59.53,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}拼尽全力笑着JUMP！
-Comment: 0,0:02:59.53,0:03:02.29,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}将歌声☆传达吧♪
-Comment: 0,0:03:02.29,0:03:05.12,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}超↑活力Show☆偶像ch@ng!
-Comment: 0,0:03:05.12,0:03:07.71,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}笑容是对我的奖励！
-Comment: 0,0:03:07.92,0:03:10.75,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}激情四射情绪高涨！
-Comment: 0,0:03:10.80,0:03:13.92,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}起・承・转・合，全都是故事最高潮！
+Comment: 1,0:02:51.03,0:02:53.82,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}チョー↑元気Show☆アイドルch@ng!
+Dialogue: 0,0:02:52.56,0:02:53.59,歌JP,,0,0,0,,{\fnSource Han Sans\b1\3c&H6144B5&\an7\fade(50,200)\blur3\bord3\move(412,48,422.67,60)}アイドルch@ng!
+Comment: 1,0:02:53.82,0:02:56.78,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}みんなが一番です！
+Dialogue: 0,0:02:55.39,0:02:56.47,歌JP,,0,0,0,,{\fnSource Han Sans\b1\3c&H6144B5&\an7\fade(50,200)\blur3\bord3\move(188,36,199,48)}一番です！
+Comment: 1,0:02:56.78,0:02:59.53,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}1笑ケンメイ全力JUMP!
+Dialogue: 0,0:02:58.18,0:02:59.35,歌JP,,0,0,0,,{\fnSource Han Sans\b1\3c&H6144B5&\an7\fade(50,200)\blur3\bord3\move(241,40,252,52)}全力JUMP!
+Comment: 1,0:02:59.53,0:03:02.29,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}歌声☆に届かそう♪
+Comment: 1,0:03:02.29,0:03:05.12,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}チョー↑元気Show☆アイドルch@ng!
+Dialogue: 0,0:03:03.86,0:03:04.91,歌JP,,0,0,0,,{\fnSource Han Sans\b1\3c&H6144B5&\an7\fade(50,200)\blur3\bord3\move(412,48,422.67,60)}アイドルch@ng!
+Comment: 1,0:03:05.12,0:03:07.71,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}笑顔がご褒美です！
+Dialogue: 0,0:03:06.65,0:03:07.71,歌JP,,0,0,0,,{\fnSource Han Sans\b1\3c&H6144B5&\an7\fade(50,200)\blur3\bord3\move(190,40,201,52)}褒美です！
+Comment: 1,0:03:07.92,0:03:10.75,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}超情熱級ハイテンション！
+Dialogue: 0,0:03:09.49,0:03:10.75,歌JP,,0,0,0,,{\fnSource Han Sans\b1\3c&H6144B5&\an7\fade(50,200)\blur3\bord3\move(185,37,196,49)}ハイテンション！
+Comment: 1,0:03:10.80,0:03:13.92,歌JP,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}起・承・転・結、全部クライマックス！
+Comment: 1,0:02:51.03,0:02:53.82,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}超↑活力Show☆偶像ch@ng!
+Comment: 1,0:02:53.82,0:02:56.78,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}大家最棒了！
+Comment: 1,0:02:56.78,0:02:59.53,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}拼尽全力笑着JUMP！
+Comment: 1,0:02:59.53,0:03:02.29,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}将歌声☆传达吧♪
+Comment: 1,0:03:02.29,0:03:05.12,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}超↑活力Show☆偶像ch@ng!
+Comment: 1,0:03:05.12,0:03:07.71,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}笑容是对我的奖励！
+Comment: 1,0:03:07.92,0:03:10.75,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}激情四射情绪高涨！
+Comment: 1,0:03:10.80,0:03:13.92,歌CN,,0,0,0,kara,{\3c&H6144B5&\an7\fscx80\fscy80\fade(200,200)\blur3\bord3}起・承・转・合，全都是故事最高潮！
 Dialogue: 0,0:02:51.06,0:02:53.85,歌JP,,0,0,0,fx,{\3c&H6144B5&\an9\fade(200,200)\blur3\pos(67.2875,30)\t(0,300,\bord3)\t(300,600,\bord2.8660254037844)\t(600,900,\bord2.5)\t(900,1200,\bord2)\t(1200,1500,\bord1.5)\t(1500,1800,\bord1.1339745962156)\t(1800,2100,\bord1)\t(2100,2400,\bord1.1339745962156)\t(2400,2700,\bord1.5)\t(2700,3000,\bord2)}チ
 Dialogue: 0,0:02:51.09,0:02:53.88,歌JP,,0,0,0,fx,{\3c&H6144B5&\an9\fade(200,200)\blur3\pos(104.575,30)\t(0,300,\bord1.5)\t(300,600,\bord3)\t(600,900,\bord2.8660254037844)\t(900,1200,\bord2.5)\t(1200,1500,\bord2)\t(1500,1800,\bord1.5)\t(1800,2100,\bord1.1339745962156)\t(2100,2400,\bord1)\t(2400,2700,\bord1.1339745962156)\t(2700,3000,\bord1.5)}ョ
 Dialogue: 0,0:02:51.13,0:02:53.92,歌JP,,0,0,0,fx,{\3c&H6144B5&\an9\fade(200,200)\blur3\pos(141.8625,30)\t(0,300,\bord1.1339745962156)\t(300,600,\bord1.5)\t(600,900,\bord3)\t(900,1200,\bord2.8660254037844)\t(1200,1500,\bord2.5)\t(1500,1800,\bord2)\t(1800,2100,\bord1.5)\t(2100,2400,\bord1.1339745962156)\t(2400,2700,\bord1)\t(2700,3000,\bord1.1339745962156)}ー
