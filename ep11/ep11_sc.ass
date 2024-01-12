@@ -10,13 +10,14 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: C:/Users/scree/Desktop/[SubsPlease] The iDOLM@STER Million Live! - 11 (1080p) [D6E9B00C].mkv
-Video File: C:/Users/scree/Desktop/[SubsPlease] The iDOLM@STER Million Live! - 11 (1080p) [D6E9B00C].mkv
+Audio File: G:/ep11.mkv
+Video File: G:/ep11.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Active Line: 6
-Video Position: 34063
+Video Zoom Percent: 0.625000
+Scroll Position: 141
+Active Line: 141
+Video Position: 13021
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -229,7 +230,7 @@ Dialogue: 8,0:08:46.92,0:08:49.18,S-美咲,,0,0,70,,大家都很努力呢
 Dialogue: 8,0:08:49.59,0:08:50.43,S-赤P源P,,0,0,70,,是啊
 Dialogue: 8,0:08:51.01,0:08:55.52,S-赤P源P,,0,0,70,,各个小组所做的事情 仿佛会互相激励一样
 Dialogue: 8,0:08:56.68,0:09:01.65,S-赤P源P,,0,0,70,,能感觉到 我又能看见一个超乎我想象的舞台
-Dialogue: 8,0:09:03.06,0:09:04.48,P-未来,,0,0,70,,一 二
+Dialogue: 8,0:09:03.06,0:09:04.48,P-未来,,0,0,70,,预备
 Dialogue: 8,0:09:04.48,0:09:06.48,其它,,0,0,70,,石头 剪刀 布
 Dialogue: 8,0:09:06.48,0:09:08.40,P-未来,,0,0,70,,诶！！！
 Dialogue: 8,0:09:12.91,0:09:14.74,A-翼,,0,0,70,,所以 至于吗？

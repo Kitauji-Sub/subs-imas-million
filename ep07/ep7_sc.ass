@@ -15,10 +15,10 @@ Audio File: G:/ep7.mkv
 Video File: G:/ep7.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 114
-Active Line: 137
-Video Position: 34067
+Video Zoom Percent: 0.750000
+Scroll Position: 747
+Active Line: 751
+Video Position: 21815
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -406,7 +406,7 @@ Dialogue: 9,0:14:49.74,0:14:51.21,P-法子,,0,0,70,,好帅
 Dialogue: 9,0:14:51.51,0:14:53.99,P-百合子,,0,0,70,,但是 真的能做到吗
 Dialogue: 9,0:14:53.99,0:14:56.63,F-所惠美,,0,0,70,,看起来很有趣不是吗！试一试吧
 Dialogue: 9,0:14:58.08,0:15:01.08,P-琴皇,,0,0,70,,和大家在一起的话…{\fscx50} {\fscx100}一定能做到
-Dialogue: 9,0:15:09.85,0:15:11.98,其它,,0,0,70,,预～备
+Dialogue: 9,0:15:09.85,0:15:11.98,其它,,0,0,70,,预～备！
 Dialogue: 9,0:15:14.85,0:15:16.85,S-美咲,,0,0,70,,什么！居然是木筏
 Dialogue: 9,0:15:16.85,0:15:18.97,S-美咲,,0,0,70,,她们做了个木筏出来
 Dialogue: 9,0:15:19.22,0:15:20.26,S-赤P源P,,0,0,70,,诶！？
