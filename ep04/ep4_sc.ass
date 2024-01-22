@@ -16,8 +16,8 @@ Video File: G:/ep4.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 70
-Active Line: 88
+Scroll Position: 215
+Active Line: 227
 Video Position: 33707
 
 [V4+ Styles]
@@ -316,7 +316,7 @@ Dialogue: 9,0:11:16.56,0:11:18.54,P-未来,,0,0,70,,要在这里唱呢
 Dialogue: 9,0:11:19.34,0:11:21.33,P-未来,,0,0,70,,那么请听
 Dialogue: 9,0:11:22.32,0:11:25.49,P-未来,,0,0,70,,要唱什么来着
 Dialogue: 9,0:11:25.49,0:11:27.31,F-静香,,0,0,70,,这个也要决定好才行呢
-Dialogue: 9,0:11:32.46,0:11:34.64,A-翼,,0,0,70,,唉 这个是
+Dialogue: 9,0:11:32.46,0:11:34.64,A-翼,,0,0,70,,诶 这个是
 Dialogue: 9,0:11:39.57,0:11:41.17,F-静香,,0,0,70,,未来 这边这边
 Dialogue: 9,0:11:41.46,0:11:43.18,F-roco,,0,0,70,,Help
 Dialogue: 9,0:11:41.46,0:11:43.18,F-roco,,0,0,70,,{\fscx60\fscy60\bord3.8\fsp40\pos(968,945)}帮我
