@@ -1,12 +1,13 @@
-# THE IDOLM@STER MILLION LIVE ANIMATION STAGE Fan Subs
+# THE iDOLM@STER MILLION LIVE ANIMATION STAGE Fan Subs
 
-This repo stores fansubs of *THE IDOLM@STER MILLION LIVE ANIMATION STAGE* made by `KitaujiSub`. Read below to get more information.
+This repo stores fansubs of *THE iDOLM@STER MILLION LIVE ANIMATION STAGE* made by `KitaujiSub`. Read below to get more information.
 
 ## Prerequisites
 
 + Aegisub
   + [DependencyControl (optional)](https://github.com/TypesettingTools/DependencyControl)
   + [Merge Scripts](https://github.com/TypesettingTools/Myaamori-Aegisub-Scripts)
+  + [The0x539's templater](https://github.com/The0x539/Aegisub-Scripts/blob/trunk/src/0x.KaraTemplater.moon)
 
 It is strongly advised to install `Merge Scripts` via `DependencyControl`, but you can always manual add all requirements and install the marco.
 
@@ -40,7 +41,7 @@ Insert asses contain insert songs ONLY, so as other asses, except for the main f
 ### Procedure
 
 1. Create a new `epxx_sc.ass`, fill in translated lines, and complete timing. Then copy these lines and fill in Japanese Subs.
-2. Process any screen text or insert song in their independent files, then import them in the main file using `Merge Scripts`. *(Also import OP at this time!)*
+2. Touch any screen text or insert song in their independent files, then import them in the main file using `Merge Scripts`. *(Also import OP at this time!)*
 3. Quality Control for the main file.
 4. Merge all files and save to other place.
 5. Clean up and generate release candidate, ZHT-ization...
