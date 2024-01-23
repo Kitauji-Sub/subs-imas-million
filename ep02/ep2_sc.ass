@@ -11,14 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: G:/ep2.mkv
-Video File: G:/ep2.mkv
+Audio File: D:/VideoEncoding/Working/output/mlan_preprocess_bd_ep2.mkv
+Video File: D:/VideoEncoding/Working/output/mlan_preprocess_bd_ep2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 260
-Active Line: 273
-Video Position: 27616
+Video Zoom Percent: 0.625000
+Scroll Position: 621
+Active Line: 629
+Video Position: 34397
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -708,17 +708,17 @@ Dialogue: 8,0:23:09.76,0:23:14.19,S-社长,,0,0,20,,{\an8}{\fnFOT-TsukuGo Pro E\
 Dialogue: 8,0:23:14.19,0:23:18.78,S-社长,,0,0,20,,{\an8}{\fnFOT-TsukuGo Pro E\fs60\bord2.5}その輝きを 命の鼓動を解き放つ場所
 Dialogue: 8,0:23:18.78,0:23:22.67,S-社长,,0,0,20,,{\an8}{\fnFOT-TsukuGo Pro E\fs60\bord2.5}それが ここだ～！
 Dialogue: 8,0:23:26.58,0:23:29.46,P-未来,,0,0,20,,{\an8}{\fnFOT-TsukuGo Pro E\fs60\bord2.5}は… 原っぱ～!?
-Dialogue: 8,0:23:32.00,0:23:36.06,P-奈绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}多分そろそろ動き出すぜ 新ポロジェクト！
-Dialogue: 8,0:23:36.06,0:23:38.20,P-美奈子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}てことは デビューも近いかも
+Dialogue: 8,0:23:32.00,0:23:36.06,P-奈绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}多分そろそろ動き出すで 新プロジェクト！
+Dialogue: 8,0:23:36.06,0:23:38.20,P-美奈子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ってことは デビューも近いかも
 Dialogue: 8,0:23:38.20,0:23:41.18,A-女儿,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}え 私たちはもうデビューしてるんですよね
-Dialogue: 8,0:23:41.40,0:23:42.28,P-美奈子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}どうゆうこと？
+Dialogue: 8,0:23:41.40,0:23:42.28,P-美奈子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}どういうこと？
 Dialogue: 8,0:23:42.28,0:23:45.16,P-可胖,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}だってほら 結成したじゃないですか
-Dialogue: 8,0:23:45.16,0:23:48.56,P-可胖,,0,0,20,,{\rA-女儿\fnFOT-TsukuGo Pro E\fs60\bord2.5}シュマイザー三姉{\r\fnFOT-TsukuGo Pro E\fs60\bord2.5}妹まいまい
+Dialogue: 8,0:23:45.16,0:23:48.56,P-可胖,,0,0,20,,{\rA-女儿\fnFOT-TsukuGo Pro E\fs60\bord2.5}シューマイさんし{\r\fnFOT-TsukuGo Pro E\fs60\bord2.5}マイマイマーイ
 Dialogue: 8,0:23:48.56,0:23:49.22,P-奈绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}は？
 Dialogue: 8,0:23:49.22,0:23:50.42,P-美奈子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}あれデビューなの？
 Dialogue: 8,0:23:50.42,0:23:51.58,A-女儿,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}違うんですか？
-Dialogue: 8,0:23:51.58,0:23:54.62,P-百合子,,0,900,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}デビューとしたらかなり悩ましいですね
-Dialogue: 8,0:23:54.62,0:23:57.80,P-百合子,,0,900,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}設定として人間なのが シュマイザーなのが
+Dialogue: 8,0:23:51.58,0:23:54.62,P-百合子,,0,900,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}デビューだとしたらかなり悩ましいですね
+Dialogue: 8,0:23:54.62,0:23:57.80,P-百合子,,0,900,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}設定として人間なのか シューマイなのかが…
 Dialogue: 8,0:23:57.80,0:23:58.92,P-奈绪,,0,900,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}そこなん？
 Comment: 0,0:23:58.92,0:24:00.02,P-奈绪,,0,0,0,,=====END=====
 Comment: 0,0:00:00.00,0:00:00.00,注释,,0,0,0,,=====IMPORT=====

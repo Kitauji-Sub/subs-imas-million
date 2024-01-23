@@ -11,14 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [KitaujiSub] THE iDOLM@STER MILLION LIVE! [04][WebRip][HEVC_AAC][CHS_JP].mp4
-Video File: [KitaujiSub] THE iDOLM@STER MILLION LIVE! [04][WebRip][HEVC_AAC][CHS_JP].mp4
+Audio File: D:/VideoEncoding/Working/output/mlan_preprocess_bd_ep4.mkv
+Video File: D:/VideoEncoding/Working/output/mlan_preprocess_bd_ep4.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 816
-Active Line: 825
-Video Position: 34101
+Video Zoom Percent: 0.500000
+Scroll Position: 813
+Active Line: 821
+Video Position: 34353
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -910,17 +910,17 @@ Dialogue: 8,0:23:17.70,0:23:19.39,A-丽花,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\b
 Dialogue: 8,0:23:19.39,0:23:20.99,P-马自立,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}ナイス普通で すてきです！
 Dialogue: 8,0:23:20.99,0:23:25.86,F-莉绪,,0,30,20,,{\fnFOT-TsukuGo Pro E\fs55\bord2.5\an9}そうだ！ お客さんなら 私たちのセクシーポーズで集められるんじゃない？
 Dialogue: 8,0:23:25.86,0:23:28.96,A-风花,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5\an8}私は清楚な方向で…
-Dialogue: 8,0:23:32.02,0:23:34.52,A-bba,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}こんな夜は屋上で飲んちゃいましょう
+Dialogue: 8,0:23:32.02,0:23:34.52,A-bba,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}こんな夜は屋上で飲んじゃいましょう
 Dialogue: 8,0:23:35.18,0:23:38.24,F-莉绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}夜景が素敵な私たちのビアガーデンね
 Dialogue: 8,0:23:38.24,0:23:39.82,A-日向,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ここにするべさ
 Dialogue: 8,0:23:39.82,0:23:42.26,P-育,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}うん 日当たりも良さそうだね
 Dialogue: 8,0:23:42.26,0:23:43.90,A-bba,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}あら なにをしてるの
 Dialogue: 8,0:23:43.90,0:23:46.06,A-环,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ここに畑作るんだぞ
 Dialogue: 8,0:23:46.06,0:23:47.22,F-莉绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}畑？！
-Dialogue: 8,0:23:47.22,0:23:49.78,P-马自立,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ハイホー 姫はこちに作るのです
+Dialogue: 8,0:23:47.22,0:23:49.78,P-马自立,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ハイホー 姫はこっちに作るのです
 Dialogue: 8,0:23:49.78,0:23:51.40,F-莉绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}まつりちゃんは何を
 Dialogue: 8,0:23:51.40,0:23:52.80,P-马自立,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}厩舎なのです
-Dialogue: 8,0:23:52.80,0:23:54.50,A-bba,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}厩舎？！
+Dialogue: 8,0:23:52.80,0:23:54.50,A-bba,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}きゅ 厩舎？！
 Dialogue: 8,0:23:54.50,0:23:56.70,P-马自立,,500,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}本物のお馬さんを飼うのです
 Dialogue: 8,0:23:56.70,0:23:58.82,A-bba,,500,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}上には上がいるのね
 Comment: 0,0:02:27.42,0:02:27.42,其它,,0,0,0,,=====IMPORT=====

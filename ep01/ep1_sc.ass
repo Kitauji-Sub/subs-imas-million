@@ -11,13 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: G:/Main Disc/BNEI-00104-1/BDMV/STREAM/00003.m4a
-Video File: D:/VideoEncoding/Working/output/mlan_preprocess_bd_ep1.hevc
+Audio File: D:/VideoEncoding/Working/output/mlan_preprocess_bd_ep1.mkv
+Video File: D:/VideoEncoding/Working/output/mlan_preprocess_bd_ep1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 276
-Active Line: 279
+Video Zoom Percent: 0.625000
+Scroll Position: 531
+Active Line: 268
+Video Position: 33941
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -356,7 +357,7 @@ Dialogue: 9,0:21:37.31,0:21:40.83,S-社长,,0,0,70,,嘛 这是我写的格言就
 Dialogue: 9,0:21:53.71,0:21:55.91,P-未来,,0,0,70,,试镜的课题曲
 Dialogue: 9,0:21:57.19,0:21:58.09,P-未来,,0,0,70,,就是这个
 Dialogue: 9,0:23:32.12,0:23:35.60,P-未来,,0,0,70,,静香今天的便当是三明治呢
-Dialogue: 9,0:23:35.60,0:23:39.47,F-静香,,0,0,70,,诶 虽然尝试做了别的但没做成
+Dialogue: 9,0:23:35.60,0:23:39.47,F-静香,,0,0,70,,唉 虽然尝试做了别的但没做成
 Dialogue: 9,0:23:39.47,0:23:42.04,P-未来,,0,0,70,,诶 做失败了吗
 Dialogue: 9,0:23:42.04,0:23:43.90,F-静香,,0,0,70,,虽然不是失败
 Dialogue: 9,0:23:43.90,0:23:45.54,F-静香,,0,0,70,,先用脚踩
@@ -629,7 +630,7 @@ Dialogue: 8,0:21:37.31,0:21:40.83,S-社长,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\b
 Dialogue: 8,0:21:53.71,0:21:55.91,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}オーディションの課題曲は…
 Dialogue: 8,0:21:57.19,0:21:58.09,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}これだ！
 Dialogue: 8,0:23:32.12,0:23:35.60,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}静香ちゃんのお弁当 今日はサンドイッチなんだね
-Dialogue: 8,0:23:35.60,0:23:39.47,F-静香,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}えっど 作ったんだけど でき上がらなくて
+Dialogue: 8,0:23:35.60,0:23:39.47,F-静香,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}えっと 作ったんだけど でき上がらなくて
 Dialogue: 8,0:23:39.47,0:23:42.04,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}え？失敗しちゃったとか？
 Dialogue: 8,0:23:42.04,0:23:43.90,F-静香,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}失敗じゃないだけど…
 Dialogue: 8,0:23:43.90,0:23:45.54,F-静香,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}足で踏み込んで
