@@ -11,14 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: G:/ep4.mkv
-Video File: G:/ep4.mkv
+Audio File: [KitaujiSub] THE iDOLM@STER MILLION LIVE! [04][WebRip][HEVC_AAC][CHS_JP].mp4
+Video File: [KitaujiSub] THE iDOLM@STER MILLION LIVE! [04][WebRip][HEVC_AAC][CHS_JP].mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 215
-Active Line: 227
-Video Position: 33707
+Video Zoom Percent: 0.625000
+Scroll Position: 816
+Active Line: 825
+Video Position: 34101
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -515,7 +515,7 @@ Dialogue: 9,0:23:47.22,0:23:49.78,P-马自立,,0,0,70,,Hiho 公主我要用这�
 Dialogue: 9,0:23:49.78,0:23:51.40,F-莉绪,,0,0,70,,茉莉要做什么
 Dialogue: 9,0:23:51.40,0:23:52.80,P-马自立,,0,0,70,,马厩的说
 Dialogue: 9,0:23:52.80,0:23:54.50,A-bba,,0,0,70,,马厩？！
-Dialogue: 9,0:23:54.50,0:23:56.70,P-马自立,,500,0,70,,因为买了真的马的说
+Dialogue: 9,0:23:54.50,0:23:56.70,P-马自立,,500,0,70,,因为我要养真正的马的说
 Dialogue: 9,0:23:56.70,0:23:58.82,A-bba,,500,0,70,,真所谓人外有人啊…
 Comment: 0,0:01:26.43,0:01:26.43,注释,,0,0,0,,=====TEXT JP=====
 Dialogue: 8,0:00:01.10,0:00:07.85,S-社长,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}君たち MILLIONSTARSがその輝きを 命の鼓動を解き放つ場所！
@@ -915,13 +915,13 @@ Dialogue: 8,0:23:35.18,0:23:38.24,F-莉绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\b
 Dialogue: 8,0:23:38.24,0:23:39.82,A-日向,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ここにするべさ
 Dialogue: 8,0:23:39.82,0:23:42.26,P-育,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}うん 日当たりも良さそうだね
 Dialogue: 8,0:23:42.26,0:23:43.90,A-bba,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}あら なにをしてるの
-Dialogue: 8,0:23:43.90,0:23:46.06,A-环,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ここに畑つけるんだぞ
+Dialogue: 8,0:23:43.90,0:23:46.06,A-环,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ここに畑作るんだぞ
 Dialogue: 8,0:23:46.06,0:23:47.22,F-莉绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}畑？！
 Dialogue: 8,0:23:47.22,0:23:49.78,P-马自立,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ハイホー 姫はこちに作るのです
 Dialogue: 8,0:23:49.78,0:23:51.40,F-莉绪,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}まつりちゃんは何を
 Dialogue: 8,0:23:51.40,0:23:52.80,P-马自立,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}厩舎なのです
 Dialogue: 8,0:23:52.80,0:23:54.50,A-bba,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}厩舎？！
-Dialogue: 8,0:23:54.50,0:23:56.70,P-马自立,,500,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}本物のお馬さんを買うのです
+Dialogue: 8,0:23:54.50,0:23:56.70,P-马自立,,500,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}本物のお馬さんを飼うのです
 Dialogue: 8,0:23:56.70,0:23:58.82,A-bba,,500,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}上には上がいるのね
 Comment: 0,0:02:27.42,0:02:27.42,其它,,0,0,0,,=====IMPORT=====
 Comment: 0,0:01:17.00,0:01:17.00,Default,,0,0,0,import-shifted,../op/op_sc.ass
