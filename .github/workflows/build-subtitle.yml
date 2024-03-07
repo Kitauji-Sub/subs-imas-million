@@ -50,6 +50,7 @@ jobs:
             const releaseid = response.data.id
             if (!releaseid) {return}
             await github.rest.repos.deleteRelease({ owner, repo, "release_id": releaseid })
+            await github.rest.git.deleteRef({ owner, repo, ref: 'tags/latest' })
       - name: Publish
         uses: "softprops/action-gh-release@v1"
         with:
