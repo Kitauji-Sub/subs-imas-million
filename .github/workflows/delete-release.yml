@@ -1,0 +1,19 @@
+name: Delete Latest Release
+
+on: [workflow_dispatch]
+
+
+jobs:
+  Delete-Latest-Release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete latest release
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const { owner, repo } = context.repo
+            const response = await github.rest.repos.getReleaseByTag({ owner, repo, tag:'latest' } )
+            const releaseid = response.data.id
+            if (!releaseid) {return}
+            await github.rest.repos.deleteRelease({ owner, repo, "release_id": releaseid })
