@@ -3,7 +3,7 @@
 该仓库存放以`北宇治字幕组`名义制作的TV动画《偶像大师 百万现场！》 字幕。
 
 > [!NOTE]  
-> [点击此处](https://github.com/Kitauji-Sub/MILLION-Subs/releases)下载最新CI构建。
+> 对于一般观众，请[点击此处](https://github.com/Kitauji-Sub/MILLION-Subs/releases)下载最新CI构建文件。
 
 # 开发
 
@@ -20,9 +20,7 @@
 >
 > 参见https://github.com/TypesettingTools/Myaamori-Aegisub-Scripts/issues/26
 
-## 开发
-
-### 文件结构
+## 文件结构
 
 对于每个单集的文件结构如下图所示：
 
@@ -46,7 +44,7 @@ epxx → 主目录
 
 `insert`下的文件应该仅包含插入曲部分，其它文件也以此类推。`epxx_sc.ass`为主文件，包含`import`语句。其它文件应使用 `Merge Scripts` 经由`import`语句导入到主文件中，最后导出发布文件。
 
-### 手动编译
+## 手动合并
 
 1. 克隆本仓库到本地
 2. 使用[zhconvert.org](zhconvert.org)将各个文件进行繁化。对于主文件，还需更改import语句中的文件名。将繁化后的文件命名为`*_tc.ass`
