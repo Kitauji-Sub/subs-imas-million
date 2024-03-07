@@ -1,0 +1,61 @@
+name: Build Subtitles
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - 'main'
+    paths:
+      - '**.ass'
+
+env:
+      PYTHONUNBUFFERED: "1"
+
+jobs:
+  Build-CI-Versions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Setup Python Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install wine64
+          pip install --user git+https://github.com/FichteForks/Myaamori-Aegisub-Scripts.git@pr/fix-style-deduplication#subdirectory=scripts/sub-digest
+          pip install requests
+          winecfg
+      - name: Install custom fonts
+        run: |
+          sudo mv Fonts/* /usr/share/fonts/
+          fc-cache -fv
+      - name: Build substitles
+        run: |
+          python build.py
+      - name: Pack files
+        run: |
+          export now=$(date +"%Y%m%d%H%M")
+          zip -r mlan_subs_${now}.zip build/output/*
+      - name: Delete latest release
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const { owner, repo } = context.repo
+            const response = await github.rest.repos.getReleaseByTag({ owner, repo, tag:'latest' } )
+            const releaseid = response.data.id
+            if (!releaseid) {return}
+            await github.rest.repos.deleteRelease({ owner, repo, "release_id": releaseid })
+      - name: Publish
+        uses: "softprops/action-gh-release@v1"
+        with:
+          tag_name: "latest"
+          fail_on_unmatched_files: true
+          prerelease: true
+          draft: false
+          name: "自动生成构建 Automatic CI Build"
+          files: |
+            mlan_subs_*.zip
