@@ -57,7 +57,7 @@ def traditionalize_ass(input_file, output_file, user_pre_replace=""):
             traditionalized_slice = traditionalize_text(slice_texts, user_pre_replace)
             new_texts += json.loads(traditionalized_slice)
         for i in range(len(new_texts)):
-            doc.events[i].text = new_texts[i].replace("思源黑体", "Source Han Sans TC").replace("思源宋体", "Source Han Serif TC").replace("Source Han Sans SC", "Source Han Sans TC").replace("Source Han Sans TC", "Source Han Serif TC")
+            doc.events[i].text = new_texts[i].replace("思源黑体", "Source Han Sans TC").replace("思源宋体", "Source Han Serif TC").replace("Source Han Sans SC", "Source Han Sans TC").replace("Source Han Serif SC", "Source Han Serif TC")
             # replace import commands
             if doc.events[i].effect.startswith("import"):
                 doc.events[i].text = doc.events[i].text.replace(".ass", "_tc.ass").replace("_sc_tc.ass", "_tc.ass")
@@ -66,7 +66,7 @@ def traditionalize_ass(input_file, output_file, user_pre_replace=""):
         for i in range(len(doc.styles)):
             if doc.styles[i].fontname == "方正FW筑紫黑 简 E":
                 doc.styles[i].fontsize = "75"
-            doc.styles[i].fontname = doc.styles[i].fontname.replace("方正FW筑紫黑 简 E", "Source Han Sans TC").replace("思源黑体", "Source Han Sans TC").replace("思源宋体", "Source Han Serif TC").replace("Source Han Sans SC", "Source Han Sans TC").replace("Source Han Sans TC", "Source Han Serif TC")
+            doc.styles[i].fontname = doc.styles[i].fontname.replace("方正FW筑紫黑 简 E", "Source Han Sans TC").replace("思源黑体", "Source Han Sans TC").replace("思源宋体", "Source Han Serif TC").replace("Source Han Sans SC", "Source Han Sans TC").replace("Source Han Serif SC", "Source Han Serif TC")
 
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
         with open(output_file, encoding='utf-8-sig', mode='w+') as f_out:
@@ -101,7 +101,7 @@ def traverse_files(folder_path):
                     continue
 
                 cleanup_ass_file(input_file, output_file)
-                traditionalize_ass(output_file, output_tc_file)
+                traditionalize_ass(output_file, output_tc_file, user_pre_replace='艾米莉=艾蜜莉\n斯图亚特=司徒亚特\n试镜=甄选会\n埃琳娜=艾琳娜')
 
 def merge_files(input_file, output_file):
     with open(input_file, encoding='utf-8-sig', mode='r') as f:
@@ -111,5 +111,3 @@ def merge_files(input_file, output_file):
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
         with open(output_file, encoding='utf-8-sig', mode='w+') as f_out:
             subs.dump_file(f_out)
-
-traverse_files('F:/Git/MILLION-Subs')
