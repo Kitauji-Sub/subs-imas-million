@@ -7,6 +7,7 @@ on:
       - 'main'
     paths:
       - '**.ass'
+      - 'utils.py'
 
 env:
       PYTHONUNBUFFERED: "1"
