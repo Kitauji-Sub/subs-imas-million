@@ -15,10 +15,9 @@ Audio File: D:/VideoEncoding/Working/output/mlan_preprocess_bd_ep1.mkv
 Video File: D:/VideoEncoding/Working/output/mlan_preprocess_bd_ep1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 531
-Active Line: 268
-Video Position: 33941
+Video Zoom Percent: 0.875000
+Active Line: 5
+Video Position: 34541
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -296,7 +295,7 @@ Dialogue: 9,0:16:55.83,0:16:59.62,P-未来,,0,0,70,,这样啊 那我就去参加
 Dialogue: 9,0:17:00.10,0:17:02.29,P-未来,,0,0,70,,静香也一起参加吧
 Dialogue: 9,0:17:02.29,0:17:05.18,F-静香,,0,0,70,,诶 这…{\fscx50} {\fscx100}所以啊
 Dialogue: 9,0:17:06.02,0:17:08.30,F-静香,,0,0,70,,这不是这么容易就能决定的吧
-Dialogue: 9,0:17:09.02,0:17:10.86,F-静香,,0,0,70,,不管你多想当偶像...
+Dialogue: 9,0:17:09.02,0:17:10.86,F-静香,,0,0,70,,不管你多想当偶像…
 Dialogue: 9,0:17:12.44,0:17:15.00,其它,,0,0,70,,偶像？别说傻话了
 Dialogue: 9,0:17:16.60,0:17:18.04,F-静香,,0,0,70,,仅凭这样…
 Dialogue: 9,0:17:19.16,0:17:20.52,P-未来,,0,0,70,,这样吗
@@ -304,7 +303,7 @@ Dialogue: 9,0:17:20.52,0:17:24.80,P-未来,,0,0,70,,那成为偶像不是静香�
 Dialogue: 9,0:17:26.12,0:17:27.20,F-静香,,0,0,70,,梦想…
 Dialogue: 9,0:17:29.72,0:17:30.97,F-静香,,0,0,70,,是我的梦想
 Dialogue: 9,0:17:31.83,0:17:34.49,F-静香,,0,0,70,,成为偶像是我的梦想
-Dialogue: 9,0:17:35.29,0:17:36.67,F-静香,,0,0,70,,虽然是我的梦想...
+Dialogue: 9,0:17:35.29,0:17:36.67,F-静香,,0,0,70,,虽然是我的梦想…
 Dialogue: 9,0:17:37.30,0:17:40.79,P-未来,,0,0,70,,虽然是梦想 但不是最想实现的梦想吗
 Dialogue: 9,0:17:42.26,0:17:45.38,F-静香,,0,0,70,,最想实现的…{\fscx50} {\fscx100}梦想…
 Dialogue: 9,0:17:53.62,0:17:56.22,F-静香,,0,0,70,,确实 是我最重要的梦想
