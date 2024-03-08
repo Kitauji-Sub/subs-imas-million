@@ -3,11 +3,9 @@ name: Build Subtitles
 on:
   workflow_dispatch:
   push:
-    branches:
-      - 'main'
-    paths-ignore:
-      - '.github/**'
-      - 'README.md'
+    tags:
+      - tv-**
+      - bd-**
 
 env:
       PYTHONUNBUFFERED: "1"
@@ -40,25 +38,12 @@ jobs:
         run: |
           export now=$(date +"%Y%m%d%H%M")
           zip -r -j mlan_subs_${now}.zip build/output/*
-      - name: Delete latest release
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
-          script: |
-            const { owner, repo } = context.repo
-            const response = await github.rest.repos.getReleaseByTag({ owner, repo, tag:'latest' } )
-            const releaseid = response.data.id
-            if (!releaseid) {return}
-            await github.rest.repos.deleteRelease({ owner, repo, "release_id": releaseid })
-            await github.rest.git.deleteRef({ owner, repo, ref: 'tags/latest' })
       - name: Publish
         uses: "softprops/action-gh-release@v1"
         with:
-          tag_name: "latest"
           fail_on_unmatched_files: true
-          prerelease: true
+          prerelease: false
           draft: false
           generate_release_notes: true
-          name: "自动生成构建 Automatic CI Build"
           files: |
             mlan_subs_*.zip
