@@ -3,6 +3,9 @@ name: Build Subtitles
 on:
   workflow_dispatch:
   push:
+    paths-ignore:
+      - '.github/**'
+      - 'README.md'
     tags:
       - tv-**
       - bd-**
