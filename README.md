@@ -3,14 +3,15 @@
 该仓库存放以`北宇治字幕组`名义制作的TV动画《偶像大师 百万现场！》 字幕。
 
 ## 下载字幕
+
 > [!NOTE]
 > 由于项目结构原因，字幕文件并非即取即用，故在此提供预构建文件方便观众取用。
 
-|版本|说明|下载|
+|分支|说明|下载|
 |-|-|:-:|
-|`latest`|最新提交的分支，改动期间部分字幕显示可能会不正常|[点此下载](https://github.com/Kitauji-Sub/MILLION-Subs/releases/tag/latest)|
-|`tv`|适配tv播放源(网络放送版)的稳定版|[点此下载](https://github.com/Kitauji-Sub/MILLION-Subs/releases/tag/tv-0.1-fix)|
-|~~`bd`~~|~~适配bd源的稳定版~~|~~暂无下载~~|
+|`latest`|`main`持续集成的分支，拥有最新改动，部分显示可能会不正常|[点此下载](https://github.com/Kitauji-Sub/MILLION-Subs/releases/tag/latest)|
+|`tv`|适配网络放送版TV播放源（例如CR）的稳定分支|[点此下载](https://github.com/Kitauji-Sub/MILLION-Subs/releases/tag/tv-0.1-fix)|
+|~~`bd`~~|~~适配BD源的稳定分支~~|~~暂无下载~~|
 
 ## 开发
 
