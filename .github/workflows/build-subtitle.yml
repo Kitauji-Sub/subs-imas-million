@@ -58,6 +58,7 @@ jobs:
           fail_on_unmatched_files: true
           prerelease: true
           draft: false
+          generate_release_notes: true
           name: "自动生成构建 Automatic CI Build"
           files: |
             mlan_subs_*.zip
