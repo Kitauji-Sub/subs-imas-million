@@ -36,8 +36,7 @@ jobs:
           python build.py
       - name: Pack files
         run: |
-          export now=$(date +"%Y%m%d%H%M")
-          zip -r -j mlan_subs_${now}.zip build/output/*
+          zip -r -j mlan_subs_${GITHUB_REF_NAME}.zip build/output/*
       - name: Publish
         uses: "softprops/action-gh-release@v1"
         with:
