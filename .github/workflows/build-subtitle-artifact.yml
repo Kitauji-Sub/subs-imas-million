@@ -1,0 +1,41 @@
+name: Build Subtitles With Artifacts
+
+on:
+  workflow_dispatch:
+
+env:
+      PYTHONUNBUFFERED: "1"
+
+jobs:
+  Build-CI-Versions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Setup Python Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install wine64
+          pip install --user git+https://github.com/FichteForks/Myaamori-Aegisub-Scripts.git@pr/fix-style-deduplication#subdirectory=scripts/sub-digest
+          pip install requests
+          winecfg
+      - name: Install custom fonts
+        run: |
+          sudo mv Fonts/* /usr/share/fonts/
+          fc-cache -fv
+      - name: Build substitles
+        run: |
+          python build.py
+      - name: Pack files
+        run: |
+          export now=$(date +"%Y%m%d%H%M")
+          zip -r -j mlan_subs.zip build/output/*
+      - name: Publish
+        uses: actions/upload-artifact@v4
+        with:
+          name: mlan_subs_built
+          path: mlan_subs.zip
