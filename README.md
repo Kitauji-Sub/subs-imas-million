@@ -2,17 +2,26 @@
 
 该仓库存放以`北宇治字幕组`名义制作的TV动画《偶像大师 百万现场！》 字幕。
 
-> [!NOTE]  
-> 对于一般观众，请[点击此处](https://github.com/Kitauji-Sub/MILLION-Subs/releases)下载最新CI构建文件。
+## 下载字幕
+> [!NOTE]
+> 由于项目结构原因，字幕文件并非即取即用，故在此提供预构建文件方便观众取用。
 
-# 开发
+|版本|说明|下载|
+|-|-|:-:|
+|`latest`|最新提交的分支，改动期间部分字幕显示可能会不正常|[点此下载](https://github.com/Kitauji-Sub/MILLION-Subs/releases/tag/latest)|
+|`tv`|适配tv播放源(网络放送版)的稳定版|[点此下载](https://github.com/Kitauji-Sub/MILLION-Subs/releases/tag/tv-0.1-fix)|
+|~~`bd`~~|~~适配bd源的稳定版~~|~~暂无下载~~|
 
-## 前提条件
+## 开发
+
+### 环境需求
 
 + Aegisub
   + [DependencyControl (optional)](https://github.com/TypesettingTools/DependencyControl)
   + [Merge Scripts](https://github.com/TypesettingTools/Myaamori-Aegisub-Scripts)
   + [The0x539's templater](https://github.com/The0x539/Aegisub-Scripts/blob/trunk/src/0x.KaraTemplater.moon)
++ Python 3.x
+  + SubDigest
 
 建议通过`DependencyControl`安装`Merge Scripts`。
 > [!CAUTION]
@@ -20,9 +29,9 @@
 >
 > 参见https://github.com/TypesettingTools/Myaamori-Aegisub-Scripts/issues/26
 
-## 文件结构
+### 目录结构
 
-对于每个单集的文件结构如下图所示：
+对于每个单集的目录结构如下图所示：
 
 ```
 epxx → 主目录
@@ -44,7 +53,7 @@ epxx → 主目录
 
 `insert`下的文件应该仅包含插入曲部分，其它文件也以此类推。`epxx_sc.ass`为主文件，包含`import`语句。其它文件应使用 `Merge Scripts` 经由`import`语句导入到主文件中，最后导出发布文件。
 
-## 手动合并
+### 手动合并
 
 1. 克隆本仓库到本地
 2. 使用[zhconvert.org](zhconvert.org)将各个文件进行繁化。对于主文件，还需更改import语句中的文件名。将繁化后的文件命名为`*_tc.ass`
