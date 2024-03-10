@@ -1,5 +1,7 @@
 # THE iDOLM@STER MILLION LIVE ANIMATION STAGE 偶像大师 百万现场！ 字幕仓库
 
+![menu_logo](https://github.com/Kitauji-Sub/subs-imas-million/assets/46473171/23b114ef-15e0-48ef-b1b8-a26224eb6402)
+
 该仓库存放以`北宇治字幕组`名义制作的TV动画《偶像大师 百万现场！》 字幕。
 
 ## 下载字幕
