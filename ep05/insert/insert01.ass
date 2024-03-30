@@ -11,13 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: G:/scripts/output/ep5.aac
-Video File: ?dummy:24000/1001:300000:1920:1080:182:190:193:c
+Audio File: I:/ep5_00003.m2ts
+Video File: I:/ep5_00003.m2ts
+Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 39
-Active Line: 53
-Video Position: 20783
+Video Zoom Percent: 1.125000
+Scroll Position: 60
+Active Line: 30
+Video Position: 22627
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,7 +58,7 @@ Comment: 0,0:14:38.10,0:14:43.46,歌JP_9,,0,0,0,kara,{\3c&H976171&\an9\fade(200,
 Comment: 0,0:14:43.70,0:14:48.56,歌JP_9,,0,0,0,kara,{\3c&H6D7236&\an9\fade(200,200)\blur3\bord3}いつでも動き出せる準備怠らない
 Comment: 0,0:14:48.56,0:14:53.90,歌JP_9,everyone,0,0,0,kara,{\an7\fade(200,200)\blur3\bord3}もし素敵な出会いとかに ハートときめいて
 Comment: 0,0:14:53.90,0:14:59.06,歌JP_9,everyone,0,0,0,kara,{\an7\fade(200,200)\blur3\bord3}一時的に普通の娘に変わっても
-Dialogue: 0,0:14:58.38,0:15:00.08,歌JP_9,,0,0,0,,{\move(-90,30,10,30,0,200)\an7\fade(200,200)\blur3\bord3}We Have A Dream!
+Dialogue: 0,0:14:58.38,0:15:00.08,歌JP_9,,0,0,0,,{\move(1980,150,1890,150,0,200)\an9\fade(200,200)\blur3\bord3}We Have A Dream!
 Comment: 0,0:14:59.36,0:15:04.78,歌JP_9,everyone,0,0,0,kara,{\an7\fade(200,200)\blur3\bord3}私たちは皆アイドルだよ 正真正銘のアイドル
 Comment: 0,0:15:04.78,0:15:06.56,歌JP_9,,0,0,0,kara,{\3c&H236E77&}仕事が第一
 Comment: 0,0:15:06.56,0:15:07.91,歌JP_9,,0,0,0,kara,{\3c&HA781D5&}恋は禁止
