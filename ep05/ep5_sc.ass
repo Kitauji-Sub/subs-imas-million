@@ -15,8 +15,8 @@ Audio File: I:/ep5_00003.m2ts
 Video File: I:/ep5_00003.m2ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 714
+Video Zoom Percent: 0.375000
+Scroll Position: 721
 Active Line: 733
 Video Position: 34439
 
@@ -814,15 +814,15 @@ Dialogue: 8,0:23:31.98,0:23:35.82,A-茜,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord
 Dialogue: 8,0:23:35.82,0:23:38.06,A-茜,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}収益化申請レッツゴー
 Dialogue: 8,0:23:38.06,0:23:39.62,A-美也,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}やっぱり完全に
 Dialogue: 8,0:23:39.62,0:23:40.88,A-丽花,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}お金ちゃんだね
-Dialogue: 8,0:23:40.88,0:23:43.58,S-美咲,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}そのチャンネルのアカウントを教えられますか
+Dialogue: 8,0:23:40.88,0:23:43.58,S-美咲,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}そのチャンネルのアカウントを教えてもらえますか
 Dialogue: 8,0:23:43.58,0:23:44.82,A-梓,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}パスワードも
 Dialogue: 8,0:23:44.82,0:23:45.88,A-茜,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ニャンで　ニャンで
 Dialogue: 8,0:23:45.88,0:23:48.30,S-美咲,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}茜ちゃんねるは生まれ変わるんです
-Dialogue: 8,0:23:48.30,0:23:50.38,S-美咲,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}公式の765プロチャンネルに
+Dialogue: 8,0:23:48.30,0:23:50.38,S-美咲,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}公式のナムコプロチャンネルに
 Dialogue: 8,0:23:50.38,0:23:51.74,A-茜,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}え？！そニャンの？！
 Dialogue: 8,0:23:51.74,0:23:53.50,F-律子,,900,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}私がお願いしたの
 Dialogue: 8,0:23:53.50,0:23:56.38,F-律子,,1100,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}すべてナムコプロの著作物だから…でしょう？
-Dialogue: 8,0:23:56.38,0:23:58.66,A-茜,,900,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}律子さん…
+Dialogue: 8,0:23:56.38,0:23:58.66,A-茜,,900,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}り、律子さん…
 Comment: 0,0:01:12.98,0:01:12.98,Default,,0,0,0,import-shifted,../op/op_sc.ass
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,insert/insert01.ass
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,insert/insert02.ass

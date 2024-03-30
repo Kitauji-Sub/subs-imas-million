@@ -11,14 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: G:/ep8.mkv
-Video File: G:/ep8.mkv
+Audio File: I:/ep8_00006.m2ts
+Video File: I:/ep8_00006.m2ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 112
-Active Line: 136
-Video Position: 3669
+Video Zoom Percent: 0.625000
+Scroll Position: 918
+Active Line: 933
+Video Position: 34466
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1009,16 +1009,16 @@ Dialogue: 8,0:21:53.35,0:21:54.02,S-赤P源P,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60
 Dialogue: 8,0:21:54.73,0:21:55.91,A-bba,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}プロデューサー
 Dialogue: 8,0:21:57.23,0:21:59.77,A-bba,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}私をアイドルにしてくれて
 Dialogue: 8,0:21:59.77,0:22:01.12,A-bba,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ありがとうね！
-Dialogue: 8,0:23:32.00,0:23:35.32,P-阁下,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}私たち765プロオールスターズはツアー中
-Dialogue: 8,0:23:35.32,0:23:38.48,F-72,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}グループに別れて 全国を回っているのよね
+Dialogue: 8,0:23:32.00,0:23:35.32,P-阁下,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}私たちナムコプロオールスターズはツアー中
+Dialogue: 8,0:23:35.32,0:23:38.48,F-72,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}グループに分かれて 全国を回っているのよね
 Dialogue: 8,0:23:38.48,0:23:40.66,A-yayoi,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}今日は横浜でライブです
 Dialogue: 8,0:23:40.66,0:23:42.00,A-miki,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}あれ 梓は
 Dialogue: 8,0:23:42.00,0:23:43.68,F-贵音,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}もう集合時間ですが
 Dialogue: 8,0:23:43.68,0:23:45.20,P-雪步,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}まだ来てないね
-Dialogue: 8,0:23:45.20,0:23:47.04,P-响,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}これでもしかして
+Dialogue: 8,0:23:45.20,0:23:47.04,P-响,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}これってもしかして
 Dialogue: 8,0:23:47.04,0:23:48.68,P-真哥,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}うん まずいかも
 Dialogue: 8,0:23:48.68,0:23:50.96,F-伊织,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}もしもし 梓 今どこ
-Dialogue: 8,0:23:50.96,0:23:52.76,A-梓,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}えっど 今は
+Dialogue: 8,0:23:50.96,0:23:52.76,A-梓,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}えっと 今は
 Dialogue: 8,0:23:52.76,0:23:53.72,A-亚美真美,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ドキドキ
 Dialogue: 8,0:23:53.72,0:23:54.60,A-梓,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}東京
 Dialogue: 8,0:23:54.60,0:23:55.56,F-律子,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}よし近い
