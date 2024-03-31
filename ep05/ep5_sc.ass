@@ -15,10 +15,10 @@ Audio File: I:/ep5_00003.m2ts
 Video File: I:/ep5_00003.m2ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 721
-Active Line: 733
-Video Position: 34439
+Video Zoom Percent: 0.500000
+Scroll Position: 214
+Active Line: 224
+Video Position: 18722
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -313,7 +313,7 @@ Dialogue: 9,0:12:47.48,0:12:50.67,P-奈绪,,0,0,70,,大…{\fscx50} {\fscx100}�
 Dialogue: 9,0:12:50.94,0:12:53.32,A-日向,,0,0,70,,来一个苹果糖怎么样？
 Dialogue: 9,0:12:53.32,0:12:54.96,A-美也,,0,0,70,,怎么～样？
 Dialogue: 9,0:12:57.90,0:12:59.16,F-静香,,0,0,70,,就要开始了呢
-Dialogue: 9,0:12:59.16,0:13:02.00,P-未来,,0,0,70,,嗯！我们第一次的舞台
+Dialogue: 9,0:12:59.16,0:13:02.00,P-未来,,0,0,70,,嗯！我们的初次演出
 Dialogue: 9,0:13:02.00,0:13:03.36,P-未来,,0,0,70,,一起加油吧
 Dialogue: 9,0:13:04.46,0:13:05.86,其它,,0,0,70,,哦！！！
 Dialogue: 9,0:13:06.42,0:13:07.82,其它,,0,0,70,,会有什么呢
