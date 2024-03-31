@@ -16,7 +16,7 @@ Video File: C:/Users/scree/Desktop/mlan_preprocess_act1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 68
+Scroll Position: 61
 Active Line: 78
 Video Position: 131002
 
@@ -158,15 +158,15 @@ Dialogue: 0,1:33:16.43,1:33:21.28,ED_CN,,0,0,0,,{\pos(1890,540)\fad(200,200)}绝
 Dialogue: 0,1:33:21.44,1:33:26.54,ED_CN,,0,0,0,,{\pos(1890,540)\fad(200,200)}传达吧 传达吧 “希望”的声音
 Dialogue: 0,1:33:26.79,1:33:31.57,ED_CN,,0,0,0,,{\pos(1890,540)\fad(200,200)}Rat A Tat!!! 敲响吧 梦想的门扉 现在开始
 Dialogue: 0,1:33:31.73,1:33:36.09,ED_CN,,0,0,0,,{\pos(1890,540)\fad(200,200)}Rat A Tat!!! 敲响吧 尽情地敲响吧！
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep01/ep1_sc.ass
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep01/section1_sc.ass
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep01/insert/insert01.ass
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep01/screen/screen.ass
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep02/ep2_sc.ass
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep02/section2_sc.ass
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep02/insert/insert01.ass
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep02/screen/screen.ass
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep03/ep3_sc.ass
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep03/section3_sc.ass
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep03/screen/screen.ass
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep04/ep4_sc.ass
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep04/section4_sc.ass
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep04/insert/insert01.ass
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,ep04/screen/screen.ass
 Comment: 0,1:29:21.73,1:29:21.73,Default,,0,0,0,import-shifted,../../op/op_sc.ass
