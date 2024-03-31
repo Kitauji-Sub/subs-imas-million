@@ -15,8 +15,8 @@ Video File: C:/Users/scree/Desktop/ova.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 147
-Active Line: 163
+Scroll Position: 296
+Active Line: 315
 Video Position: 17600
 
 [V4+ Styles]
@@ -164,10 +164,10 @@ Dialogue: 9,0:06:40.77,0:06:42.46,A-elena,,0,0,70,,嗯 很适合哦
 Dialogue: 9,0:06:42.46,0:06:44.47,F-昴,,0,0,70,,谢 谢啦
 Dialogue: 9,0:06:45.06,0:06:47.06,F-昴,,0,0,70,,说起来 刚刚这球…
 Dialogue: 9,0:06:48.40,0:06:50.13,A-elena,,0,0,70,,两位 欢迎回来
-Dialogue: 9,0:06:50.13,0:06:51.87,P-马自立,,0,0,70,,哦 发生什么了的说
+Dialogue: 9,0:06:50.13,0:06:51.87,P-马自立,,0,0,70,,Ho 发生什么了的说
 Dialogue: 9,0:06:52.27,0:06:55.25,A-日向,,0,0,70,,我们在屋顶遇到了{\fn思源黑体\b1\fs70\fscx105}䌷{\r}
 Dialogue: 9,0:06:55.25,0:06:59.10,P-emily,,0,0,70,,她把她宝贵的信念讲给我们听了
-Dialogue: 9,0:06:59.10,0:06:59.58,P-马自立,,0,0,70,,哦
+Dialogue: 9,0:06:59.10,0:06:59.58,P-马自立,,0,0,70,,Ho?
 Dialogue: 9,0:07:00.51,0:07:02.14,P-emily,,0,0,70,,这座剧场
 Dialogue: 9,0:07:04.06,0:07:06.54,F-紬,,0,0,70,,剧场对我来说
 Dialogue: 9,0:07:06.54,0:07:08.30,F-紬,,0,0,70,,就是宝贵的家啊
@@ -404,10 +404,10 @@ Dialogue: 8,0:06:40.77,0:06:42.46,A-elena,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bo
 Dialogue: 8,0:06:42.46,0:06:44.47,F-昴,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}サ サンキュー
 Dialogue: 8,0:06:45.06,0:06:47.06,F-昴,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}つか今のボ…
 Dialogue: 8,0:06:48.40,0:06:50.13,A-elena,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}二人ともおかえり
-Dialogue: 8,0:06:50.13,0:06:51.87,P-马自立,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}おっ どうしたのです
+Dialogue: 8,0:06:50.13,0:06:51.87,P-马自立,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ほっ どうしたのです
 Dialogue: 8,0:06:52.27,0:06:55.25,A-日向,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}屋上で紬さんに会ってね
 Dialogue: 8,0:06:55.25,0:06:59.10,P-emily,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}大切な思いを教えてくださいました
-Dialogue: 8,0:06:59.10,0:06:59.58,P-马自立,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}おっ
+Dialogue: 8,0:06:59.10,0:06:59.58,P-马自立,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ほ?
 Dialogue: 8,0:07:00.51,0:07:02.14,P-emily,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}この劇場は
 Dialogue: 8,0:07:04.06,0:07:06.54,F-紬,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}シアターは私にとって
 Dialogue: 8,0:07:06.54,0:07:08.30,F-紬,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}大切なおうちなんです
