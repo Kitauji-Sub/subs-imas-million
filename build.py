@@ -21,13 +21,12 @@ def main():
 
     for root, dirs, files in os.walk(build_dir):
         for file in files:
-            if file.endswith(".ass"):
+            if file.endswith(".ass") and (file.startswith("ep") or file.startswith("act") or file.startswith("ova")):
                 input_path = os.path.join(root, file)
                 output_path = os.path.join(build_dir, "output", file)
-                if file.startswith("ep"):
-                    os.chdir(root)
-                    utils.merge_files(input_path, output_path)
-                    print(f"Merged {file}")
+                os.chdir(root)
+                utils.merge_files(input_path, output_path)
+                print(f"Merged {file}")
 
 if __name__ == "__main__":
     main()
