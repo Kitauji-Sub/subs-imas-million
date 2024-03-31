@@ -57,7 +57,7 @@ def traditionalize_ass(input_file, output_file, user_pre_replace=""):
             traditionalized_slice = traditionalize_text(slice_texts, user_pre_replace)
             new_texts += json.loads(traditionalized_slice)
         for i in range(len(new_texts)):
-            doc.events[i].text = new_texts[i].replace("思源黑体", "Source Han Sans TC").replace("思源宋体", "Source Han Serif TC").replace("Source Han Sans SC", "Source Han Sans TC").replace("Source Han Serif SC", "Source Han Serif TC")
+            doc.events[i].text = new_texts[i].replace("思源黑体", "Source Han Sans TC").replace("思源宋体", "Source Han Serif TC").replace("Source Han Sans SC", "Source Han Sans TC").replace("Source Han Serif SC", "Source Han Serif TC").replace("{\\fn思源黑体\\b1\\fs70\\fscx105}䌷","䌷")
             # replace import commands
             if doc.events[i].effect.startswith("import"):
                 doc.events[i].text = doc.events[i].text.replace(".ass", "_tc.ass").replace("_sc_tc.ass", "_tc.ass")
