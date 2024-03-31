@@ -15,8 +15,8 @@ Video File: G:/ep12.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 151
-Active Line: 165
+Scroll Position: 91
+Active Line: 112
 Video Position: 34213
 
 [V4+ Styles]
@@ -201,7 +201,7 @@ Dialogue: 8,0:11:14.07,0:11:15.07,S-赤P源P,,0,0,70,,演出继续
 Dialogue: 8,0:11:15.82,0:11:16.61,A-咯吱,,0,0,70,,好的
 Dialogue: 8,0:11:17.16,0:11:18.03,F-紬,,0,0,70,,咱…
 Dialogue: 8,0:11:19.58,0:11:21.29,F-紬,,0,0,70,,咱要传递下去
-Dialogue: 8,0:11:22.66,0:11:25.00,A-咯吱,,0,0,70,,{\fn思源黑体\b1\fs70\fscx105}䌷？
+Dialogue: 8,0:11:22.66,0:11:25.00,A-咯吱,,0,0,70,,{\fn思源黑体\b1\fs70\fscx105}䌷{\r}？
 Dialogue: 8,0:11:25.50,0:11:26.71,其它,,0,0,70,,要上升了
 Dialogue: 8,0:12:21.26,0:12:22.60,P-未来,,0,0,70,,{\fn思源黑体\b1\fs70\fscx105}䌷
 Dialogue: 8,0:13:14.86,0:13:17.44,A-咯吱,,0,0,70,,{\fn思源黑体\b1\fs70\fscx105}䌷{\r} 我接住了
