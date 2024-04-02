@@ -80,8 +80,8 @@ def traverse_files(folder_path):
         shutil.rmtree(build_dir)
     
     for root, dirs, files in os.walk(folder_path):
-        # Skip movies folder
-        if "Movies" in root:
+        # Scan movies folder only
+        if not "Movies" in root:
             continue
         for file in files:
             if file.endswith(".ass") and not file.endswith("_tc.ass"):

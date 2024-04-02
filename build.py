@@ -21,7 +21,7 @@ def main():
 
     for root, dirs, files in os.walk(build_dir):
         for file in files:
-            if file.endswith(".ass") and (file.startswith("ep") or file.startswith("Act") or file.startswith("ova")):
+            if file.endswith(".ass") and file.startswith("act"):
                 input_path = os.path.join(root, file)
                 output_path = os.path.join(build_dir, "output", file)
                 os.chdir(root)
