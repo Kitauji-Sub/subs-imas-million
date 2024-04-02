@@ -10,14 +10,14 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: G:/ep12.mkv
-Video File: G:/ep12.mkv
+Audio File: I:/ep12_00006.m2ts
+Video File: I:/ep12_00006.m2ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 91
-Active Line: 112
-Video Position: 34213
+Video Zoom Percent: 0.750000
+Scroll Position: 90
+Active Line: 113
+Video Position: 16436
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -152,7 +152,7 @@ Dialogue: 8,0:07:50.33,0:07:54.45,A-anna,,0,0,70,,「一定会是真的」
 Dialogue: 8,0:07:57.79,0:08:02.50,A-anna,,0,0,70,,「去迎接它吧」
 Dialogue: 8,0:07:55.58,0:07:57.50,P-奈绪,,0,0,70,,预～备！
 Dialogue: 8,0:08:03.42,0:08:05.84,A-anna,,0,0,70,,谢谢大家
-Dialogue: 8,0:08:12.14,0:08:13.60,A-miki,,0,0,70,,她们做到了呢
+Dialogue: 8,0:08:12.14,0:08:13.60,A-miki,,0,0,70,,她们做到了呢…
 Dialogue: 8,0:08:14.35,0:08:15.73,P-阁下,,0,0,70,,千早！
 Dialogue: 8,0:08:16.23,0:08:17.44,其它,,0,0,70,,到底发生什么事了
 Dialogue: 8,0:08:17.73,0:08:18.56,其它,,0,0,70,,是有什么故障吗
@@ -202,7 +202,7 @@ Dialogue: 8,0:11:15.82,0:11:16.61,A-咯吱,,0,0,70,,好的
 Dialogue: 8,0:11:17.16,0:11:18.03,F-紬,,0,0,70,,咱…
 Dialogue: 8,0:11:19.58,0:11:21.29,F-紬,,0,0,70,,咱要传递下去
 Dialogue: 8,0:11:22.66,0:11:25.00,A-咯吱,,0,0,70,,{\fn思源黑体\b1\fs70\fscx105}䌷{\r}？
-Dialogue: 8,0:11:25.50,0:11:26.71,其它,,0,0,70,,要上升了
+Dialogue: 8,0:11:25.50,0:11:26.71,其它,,0,0,70,,要升上去了
 Dialogue: 8,0:12:21.26,0:12:22.60,P-未来,,0,0,70,,{\fn思源黑体\b1\fs70\fscx105}䌷
 Dialogue: 8,0:13:14.86,0:13:17.44,A-咯吱,,0,0,70,,{\fn思源黑体\b1\fs70\fscx105}䌷{\r} 我接住了
 Dialogue: 8,0:13:19.49,0:13:20.49,A-咯吱,,0,0,80,,{\an8}我
