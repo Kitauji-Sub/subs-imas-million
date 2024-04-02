@@ -11,13 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: G:/ep11.mkv
-Video File: G:/ep11.mkv
+Audio File: I:/ep11_00005.m2ts
+Video File: I:/ep11_00005.m2ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Active Line: 8
-Video Position: 877
+Video Zoom Percent: 1.000000
+Scroll Position: 633
+Active Line: 641
+Video Position: 24403
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,7 +36,7 @@ Dialogue: 0,0:03:05.71,0:03:07.63,OnScreen,,0,0,0,,{\fs25\an4\c&H6B7164&\pos(140
 Dialogue: 0,0:03:05.71,0:03:07.63,OnScreen,,0,0,0,,{\fs25\an4\c&H6B7164&\pos(1405.714,466.714)}向琴叶确认
 Comment: 0,0:04:52.02,0:04:54.94,OnScreen,,0,0,0,,目标百万现场！
 Dialogue: 0,0:05:46.62,0:05:52.79,OnScreen,,0,0,0,,{=4}{\blur0.7\fn@华康翩翩体W5-A\an1\c&H4D4746&\fax-0.082885\fscx38.16\fscy37.59\frz-90.5384\frx3.3906\fry6.1448\org(567.65,698.36)\pos(532.09,720.92)}用过的餐具\N请自己收拾好\N整理整顿
-Dialogue: 0,0:06:21.65,0:06:23.32,OnScreen,,0,0,0,,{\fs50\fax0.114593\fscx107.72\fscy128.49\frz-4.7576\frx0.0511\fry3.3210\org(802.69,743.15)\pos(799.6,775.27)\c&HF0E0D4&}淋浴间
+Dialogue: 0,0:06:21.65,0:06:23.32,OnScreen,,0,0,0,,{\fs50\c&HF0E0D4&\fax0.102452\fscx113.49\fscy121.44\frz-4.7391\frx0.0511\fry3.3229\org(805.75,745.15)\pos(802.84,775.51)}淋浴间
 Dialogue: 0,0:06:40.67,0:06:43.59,OnScreen,,0,0,0,,{\fs33\fn华康翩翩体W5-A\c&H100C09&\fax0.027952\fscx100\fscy100\frz-6.3999\frx3.4275\fry8.1698\pos(673.91,423.49)\org(658.38,374.35)}落成公演加油哦~！
 Dialogue: 0,0:06:40.67,0:06:43.59,OnScreen,,0,0,0,,{\fs33\fn华康翩翩体W5-A\c&H100C09&\fax0.037766\fscx106.88\fscy99.87\frz-3.5570\frx1.3633\fry-1.8341\org(856.48,660.05)\pos(677.82,678.53)}请把行李放到里面的房间去
 Dialogue: 0,0:06:40.67,0:06:43.59,OnScreen,,0,0,0,,{\fs33\fn华康翩翩体W5-A\c&H100C09&\fax0.037766\fscx106.88\fscy99.87\frz-3.5570\frx1.3633\fry-1.8341\pos(618,754)\org(760,721)}会提供睡袋给大家
