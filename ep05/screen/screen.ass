@@ -16,8 +16,7 @@ Video File: G:/ep5.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 458
-Active Line: 467
+Active Line: 604
 Video Position: 13734
 
 [V4+ Styles]
@@ -630,9 +629,9 @@ Dialogue: 0,0:13:59.36,0:14:02.82,OnScreen,fbf,0,0,0,14,{\an1\c&H7D7775&\b0\fscx
 Dialogue: 0,0:13:59.36,0:14:02.82,OnScreen,fbf,0,0,0,14,{\an1\c&H7D7775&\b0\fscx60\fscy60\pos(1420,801.2)}magari: 这是什么样的活动，真不错啊
 Dialogue: 0,0:13:59.36,0:14:02.82,OnScreen,fbf,0,0,0,14,{\an1\c&H7D7775&\b0\fscx60\fscy60\pos(1420,834)}Ozawa: 有这么多人吗
 Dialogue: 0,0:14:55.33,0:14:58.09,OnScreen,track,0,0,0,15,
-Comment: 0,0:15:46.80,0:15:48.80,OnScreen,,0,0,0,code once,function GetTags(text)    local tagTable = {}    tagTable.pos, tagTable.fsc, tagTable.fr, tagTable.fa, tagTable.color, tagTable.alpha, tagTable.move = {}, {}, {}, {}, {}, {}, {}    tagTable.italics = text:match("\\i(%d)")    tagTable.bold = text:match("\\b(%d+)%p")    tagTable.underlined = text:match("\\u(%d)")    tagTable.striked = text:match("\\s(%d)")    tagTable.bord = text:match("\\bord(%d+%p*%d*)%p")    tagTable.shad = text:match("\\shad(%d+%p*%d*)%p")    tagTable.be = text:match("\\be(%d+)%p")    tagTable.blur = text:match("\\blur(%d+%p*%d*)%p")    tagTable.fs = text:match("\\fs(%d+)%p")    tagTable.fsc.x, tagTable.fsc.y = text:match("\\fscx(%d+%p*%d*)%p"), text:match("\\fscy(%d+%p*%d*)%p")    tagTable.fsp = text:match("\\fsp(%p*%d+%p*%d*)%p")    tagTable.fr.x, tagTable.fr.y, tagTable.fr.z = text:match("\\frx(%p*%d+%p*%d*)%p"), text:match("\\fry(%p*%d+%p*%d*)%p"), text:match("\\frz(%p*%d+%p*%d*)%p")    tagTable.fa.x, tagTable.fa.y = text:match("\\fax(%p*%d+%p*%d*)%p"), text:match("\\fay(%p*%d+%p*%d*)%p")    tagTable.color.primary = text:match("\\c(&H%w%w%w%w%w%w&)") and text:match("\\c(&H%w%w%w%w%w%w&)") or text:match("\\1c(&H%w%w%w%w%w%w&)")    tagTable.color.secondary = text:match("\\2c(&H%w%w%w%w%w%w&)")    tagTable.color.border = text:match("\\3c(&H%w%w%w%w%w%w&)")    tagTable.color.shadow = text:match("\\4c(&H%w%w%w%w%w%w&)")    tagTable.alpha = {}    tagTable.alpha.all, tagTable.alpha.primary, tagTable.alpha.secondary, tagTable.alpha.border, tagTable.alpha.shadow = text:match("\\alpha(&H%w%w)"), text:match("\\1a(&H%w%w)"), text:match("\\2a(&H%w%w)"), text:match("\\3a(&H%w%w)"), text:match("\\4a(&H%w%w)")    tagTable.an = text:match("\\an(%d)")    tagTable.a = text:match("\\a(%d)")    tagTable.pos.x, tagTable.pos.y = text:match("\\pos%p(%d+%.*%d*)%p(%d+%.*%d*)%p")    tagTable.move.x1, tagTable.move.y1, tagTable.move.x2, tagTable.move.y2,tagTable.move.t1,tagTable.move.t2 = text:match("\\move%p(%-*%d+%.*%d*)%p(%-*%d+%.*%d*)%p(%-*%d+%.*%d*)%p(%-*%d+%.*%d*)%p(%-*%d*%.*%d*)%p(%-*%d*%.*%d*)%p")    return tagTable end
-Comment: 0,0:15:46.80,0:15:48.80,OnScreen,,0,0,0,code line,tags_table = GetTags(orgline.raw) offset = {134, 2, 2, 2, 2,2, 137, 2, 2, 2, 2, 134, 2, 2, 2, 2, 2, 136, 2, 2, 2, 2, 137, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2} offset_now = tags_table.pos.y
-Comment: 0,0:15:46.80,0:15:48.80,OnScreen,,0,0,0,template line,{!util.fbf("line", 0, 0, 1, "fbf")!\an1\c&H7D7775&\b0\fscx120\fscy120\pos(!tags_table.pos.x!,!offset_now - offset[loopctx.state.fbf]!)!set("offset_now", offset_now - offset[loopctx.state.fbf])!}
+Comment: 0,0:15:46.80,0:15:48.80,OnScreen,,0,0,0,nocode once,function GetTags(text)    local tagTable = {}    tagTable.pos, tagTable.fsc, tagTable.fr, tagTable.fa, tagTable.color, tagTable.alpha, tagTable.move = {}, {}, {}, {}, {}, {}, {}    tagTable.italics = text:match("\\i(%d)")    tagTable.bold = text:match("\\b(%d+)%p")    tagTable.underlined = text:match("\\u(%d)")    tagTable.striked = text:match("\\s(%d)")    tagTable.bord = text:match("\\bord(%d+%p*%d*)%p")    tagTable.shad = text:match("\\shad(%d+%p*%d*)%p")    tagTable.be = text:match("\\be(%d+)%p")    tagTable.blur = text:match("\\blur(%d+%p*%d*)%p")    tagTable.fs = text:match("\\fs(%d+)%p")    tagTable.fsc.x, tagTable.fsc.y = text:match("\\fscx(%d+%p*%d*)%p"), text:match("\\fscy(%d+%p*%d*)%p")    tagTable.fsp = text:match("\\fsp(%p*%d+%p*%d*)%p")    tagTable.fr.x, tagTable.fr.y, tagTable.fr.z = text:match("\\frx(%p*%d+%p*%d*)%p"), text:match("\\fry(%p*%d+%p*%d*)%p"), text:match("\\frz(%p*%d+%p*%d*)%p")    tagTable.fa.x, tagTable.fa.y = text:match("\\fax(%p*%d+%p*%d*)%p"), text:match("\\fay(%p*%d+%p*%d*)%p")    tagTable.color.primary = text:match("\\c(&H%w%w%w%w%w%w&)") and text:match("\\c(&H%w%w%w%w%w%w&)") or text:match("\\1c(&H%w%w%w%w%w%w&)")    tagTable.color.secondary = text:match("\\2c(&H%w%w%w%w%w%w&)")    tagTable.color.border = text:match("\\3c(&H%w%w%w%w%w%w&)")    tagTable.color.shadow = text:match("\\4c(&H%w%w%w%w%w%w&)")    tagTable.alpha = {}    tagTable.alpha.all, tagTable.alpha.primary, tagTable.alpha.secondary, tagTable.alpha.border, tagTable.alpha.shadow = text:match("\\alpha(&H%w%w)"), text:match("\\1a(&H%w%w)"), text:match("\\2a(&H%w%w)"), text:match("\\3a(&H%w%w)"), text:match("\\4a(&H%w%w)")    tagTable.an = text:match("\\an(%d)")    tagTable.a = text:match("\\a(%d)")    tagTable.pos.x, tagTable.pos.y = text:match("\\pos%p(%d+%.*%d*)%p(%d+%.*%d*)%p")    tagTable.move.x1, tagTable.move.y1, tagTable.move.x2, tagTable.move.y2,tagTable.move.t1,tagTable.move.t2 = text:match("\\move%p(%-*%d+%.*%d*)%p(%-*%d+%.*%d*)%p(%-*%d+%.*%d*)%p(%-*%d+%.*%d*)%p(%-*%d*%.*%d*)%p(%-*%d*%.*%d*)%p")    return tagTable end
+Comment: 0,0:15:46.80,0:15:48.80,OnScreen,,0,0,0,nocode line,tags_table = GetTags(orgline.raw) offset = {134, 2, 2, 2, 2,2, 137, 2, 2, 2, 2, 134, 2, 2, 2, 2, 2, 136, 2, 2, 2, 2, 137, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2} offset_now = tags_table.pos.y
+Comment: 0,0:15:46.80,0:15:48.80,OnScreen,,0,0,0,notemplate line,{!util.fbf("line", 0, 0, 1, "fbf")!\an1\c&H7D7775&\b0\fscx120\fscy120\pos(!tags_table.pos.x!,!offset_now - offset[loopctx.state.fbf]!)!set("offset_now", offset_now - offset[loopctx.state.fbf])!}
 Dialogue: 0,0:15:48.80,0:15:49.01,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,80.22)}糟糕好可爱
 Dialogue: 0,0:15:48.80,0:15:49.01,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,225)}啪Zee：呀
 Dialogue: 0,0:15:48.80,0:15:49.01,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,369)}samucho：春香！！
@@ -640,13 +639,13 @@ Dialogue: 0,0:15:48.80,0:15:49.01,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx12
 Dialogue: 0,0:15:48.80,0:15:49.01,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,657)}ONI猎人：粗线了！传统艺能！
 Dialogue: 0,0:15:48.80,0:15:49.01,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,801)}Ojitan：原谅你！会原谅你的！因为很可爱
 Dialogue: 0,0:15:48.80,0:15:49.01,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,945)}今古陶材：allstars LOVE!
-Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,kara,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,80.22)}糟糕好可爱
-Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,kara,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,225)}啪Zee：呀
-Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,kara,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,369)}samucho：春香！！
-Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,kara,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,513)}偶像电：美希 好可爱w 好漂亮w
-Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,kara,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,657)}ONI猎人：粗线了！传统艺能！
-Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,kara,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,801)}Ojitan：原谅你！会原谅你的！因为很可爱
-Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,kara,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,945)}今古陶材：allstars LOVE!
+Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,80.22)}糟糕好可爱
+Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,225)}啪Zee：呀
+Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,369)}samucho：春香！！
+Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,513)}偶像电：美希 好可爱w 好漂亮w
+Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,657)}ONI猎人：粗线了！传统艺能！
+Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,801)}Ojitan：原谅你！会原谅你的！因为很可爱
+Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,945)}今古陶材：allstars LOVE!
 Dialogue: 0,0:15:48.80,0:15:49.01,OnScreen,fbf,0,0,0,16,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1089)}milky：今天的Live！我在现地看哦！最喜欢AS了
 Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,16,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(136,955)}milky：今天的Live！我在现地看哦！最喜欢AS了
 Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,16,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(136,953)}milky：今天的Live！我在现地看哦！最喜欢AS了
@@ -675,312 +674,312 @@ Dialogue: 0,0:15:48.80,0:15:49.01,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx12
 Dialogue: 0,0:15:48.80,0:15:49.01,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1377)}西回岸：喜欢765PRO ALLSTARS的歌呢
 Dialogue: 0,0:15:48.80,0:15:49.01,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1521)}派森：贵音姐姐 真漂酿————♥
 Dialogue: 0,0:15:48.80,0:15:49.01,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1665)}JuHoSt：美少女偶像祭！我赚到了
-Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,kara,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1233)}W龙：放送事故草wwwwww 好棒的笑容
-Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,kara,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1377)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,kara,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1521)}派森：贵音姐姐 真漂酿————♥
-Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,kara,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1665)}JuHoSt：美少女偶像祭！我赚到了
-Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,kara,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1809)}RUUKIIs：今天没拍到门票，但还是很高兴
+Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1233)}W龙：放送事故草wwwwww 好棒的笑容
+Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1377)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1521)}派森：贵音姐姐 真漂酿————♥
+Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1665)}JuHoSt：美少女偶像祭！我赚到了
+Comment: 0,0:15:49.01,0:15:50.05,OnScreen,fbf,0,0,0,,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1809)}RUUKIIs：今天没拍到门票，但还是很高兴
 Dialogue: 0,0:16:48.99,0:16:51.41,OnScreen,,0,0,0,17,
-Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-53.78)}糟糕好可爱
-Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-55.78)}糟糕好可爱
-Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-57.78)}糟糕好可爱
-Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-59.78)}糟糕好可爱
-Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-61.78)}糟糕好可爱
-Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-63.78)}糟糕好可爱
-Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-200.78)}糟糕好可爱
-Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-202.78)}糟糕好可爱
-Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-204.78)}糟糕好可爱
-Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-206.78)}糟糕好可爱
-Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-208.78)}糟糕好可爱
-Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-342.78)}糟糕好可爱
-Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-344.78)}糟糕好可爱
-Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-346.78)}糟糕好可爱
-Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-348.78)}糟糕好可爱
-Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-350.78)}糟糕好可爱
-Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-352.78)}糟糕好可爱
-Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-488.78)}糟糕好可爱
-Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-490.78)}糟糕好可爱
-Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-492.78)}糟糕好可爱
-Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-494.78)}糟糕好可爱
-Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-496.78)}糟糕好可爱
-Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-633.78)}糟糕好可爱
-Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-635.78)}糟糕好可爱
-Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-637.78)}糟糕好可爱
-Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,91)}啪Zee：呀
-Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,89)}啪Zee：呀
-Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,87)}啪Zee：呀
-Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,85)}啪Zee：呀
-Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,83)}啪Zee：呀
-Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,81)}啪Zee：呀
-Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-56)}啪Zee：呀
-Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-58)}啪Zee：呀
-Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-60)}啪Zee：呀
-Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-62)}啪Zee：呀
-Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-64)}啪Zee：呀
-Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-198)}啪Zee：呀
-Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-200)}啪Zee：呀
-Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-202)}啪Zee：呀
-Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-204)}啪Zee：呀
-Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-206)}啪Zee：呀
-Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-208)}啪Zee：呀
-Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-344)}啪Zee：呀
-Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-346)}啪Zee：呀
-Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-348)}啪Zee：呀
-Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-350)}啪Zee：呀
-Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-352)}啪Zee：呀
-Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-489)}啪Zee：呀
-Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-491)}啪Zee：呀
-Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-493)}啪Zee：呀
-Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,235)}samucho：春香！！
-Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,233)}samucho：春香！！
-Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,231)}samucho：春香！！
-Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,229)}samucho：春香！！
-Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,227)}samucho：春香！！
-Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,225)}samucho：春香！！
-Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,88)}samucho：春香！！
-Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,86)}samucho：春香！！
-Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,84)}samucho：春香！！
-Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,82)}samucho：春香！！
-Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,80)}samucho：春香！！
-Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-54)}samucho：春香！！
-Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-56)}samucho：春香！！
-Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-58)}samucho：春香！！
-Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-60)}samucho：春香！！
-Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-62)}samucho：春香！！
-Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-64)}samucho：春香！！
-Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-200)}samucho：春香！！
-Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-202)}samucho：春香！！
-Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-204)}samucho：春香！！
-Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-206)}samucho：春香！！
-Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-208)}samucho：春香！！
-Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-345)}samucho：春香！！
-Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-347)}samucho：春香！！
-Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-349)}samucho：春香！！
-Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,379)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,377)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,375)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,373)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,371)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,369)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,232)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,230)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,228)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,226)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,224)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,90)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,88)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,86)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,84)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,82)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,80)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-56)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-58)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-60)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-62)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-64)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-201)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-203)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-205)}偶像电：美希 好可爱w 好漂亮w
-Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,523)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,521)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,519)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,517)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,515)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,513)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,376)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,374)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,372)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,370)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,368)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,234)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,232)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,230)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,228)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,226)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,224)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,88)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,86)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,84)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,82)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,80)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-57)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-59)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-61)}ONI猎人：粗线了！传统艺能！
-Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,667)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,665)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,663)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,661)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,659)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,657)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,520)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,518)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,516)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,514)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,512)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,378)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,376)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,374)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,372)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,370)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,368)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,232)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,230)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,228)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,226)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,224)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,87)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,85)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,83)}Ojitan：原谅你！会原谅你的！因为很可爱
-Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,811)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,809)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,807)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,805)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,803)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,801)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,664)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,662)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,660)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,658)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,656)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,522)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,520)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,518)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,516)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,514)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,512)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,376)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,374)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,372)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,370)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,368)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,231)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,229)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,227)}今古陶材：allstars LOVE!
-Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1099)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1097)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1095)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1093)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1091)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1089)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,952)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,950)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,948)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,946)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,944)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,810)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,808)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,806)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,804)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,802)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,800)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,664)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,662)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,660)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,658)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,656)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,519)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,517)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,515)}W龙：放送事故草wwwwww 好棒的笑容
-Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1243)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1241)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1239)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1237)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1235)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1233)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1096)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1094)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1092)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1090)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1088)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,954)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,952)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,950)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,948)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,946)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,944)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,808)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,806)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,804)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,802)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,800)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,663)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,661)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,659)}西回岸：喜欢765PRO ALLSTARS的歌呢
-Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1387)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1385)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1383)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1381)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1379)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1377)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1240)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1238)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1236)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1234)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1232)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1098)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1096)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1094)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1092)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1090)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1088)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,952)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,950)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,948)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,946)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,944)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,807)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,805)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,803)}派森：贵音姐姐 真漂酿————♥
-Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1531)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1529)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1527)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1525)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1523)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1521)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1384)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1382)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1380)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1378)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1376)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1242)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1240)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1238)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1236)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1234)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1232)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1096)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1094)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1092)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1090)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1088)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,951)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,949)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,947)}JuHoSt：美少女偶像祭！我赚到了
-Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1675)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1673)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1671)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1669)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1667)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1665)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1528)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1526)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1524)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1522)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1520)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1386)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1384)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1382)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1380)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1378)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1376)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1240)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1238)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1236)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1234)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1232)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1095)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1093)}RUUKIIs：今天没拍到门票，但还是很高兴
-Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fx,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1091)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-53.78)}糟糕好可爱
+Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-55.78)}糟糕好可爱
+Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-57.78)}糟糕好可爱
+Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-59.78)}糟糕好可爱
+Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-61.78)}糟糕好可爱
+Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-63.78)}糟糕好可爱
+Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-200.78)}糟糕好可爱
+Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-202.78)}糟糕好可爱
+Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-204.78)}糟糕好可爱
+Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-206.78)}糟糕好可爱
+Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-208.78)}糟糕好可爱
+Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-342.78)}糟糕好可爱
+Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-344.78)}糟糕好可爱
+Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-346.78)}糟糕好可爱
+Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-348.78)}糟糕好可爱
+Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-350.78)}糟糕好可爱
+Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-352.78)}糟糕好可爱
+Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-488.78)}糟糕好可爱
+Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-490.78)}糟糕好可爱
+Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-492.78)}糟糕好可爱
+Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-494.78)}糟糕好可爱
+Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-496.78)}糟糕好可爱
+Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-633.78)}糟糕好可爱
+Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-635.78)}糟糕好可爱
+Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(360.44,-637.78)}糟糕好可爱
+Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,91)}啪Zee：呀
+Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,89)}啪Zee：呀
+Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,87)}啪Zee：呀
+Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,85)}啪Zee：呀
+Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,83)}啪Zee：呀
+Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,81)}啪Zee：呀
+Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-56)}啪Zee：呀
+Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-58)}啪Zee：呀
+Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-60)}啪Zee：呀
+Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-62)}啪Zee：呀
+Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-64)}啪Zee：呀
+Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-198)}啪Zee：呀
+Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-200)}啪Zee：呀
+Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-202)}啪Zee：呀
+Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-204)}啪Zee：呀
+Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-206)}啪Zee：呀
+Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-208)}啪Zee：呀
+Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-344)}啪Zee：呀
+Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-346)}啪Zee：呀
+Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-348)}啪Zee：呀
+Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-350)}啪Zee：呀
+Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-352)}啪Zee：呀
+Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-489)}啪Zee：呀
+Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-491)}啪Zee：呀
+Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-493)}啪Zee：呀
+Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,235)}samucho：春香！！
+Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,233)}samucho：春香！！
+Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,231)}samucho：春香！！
+Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,229)}samucho：春香！！
+Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,227)}samucho：春香！！
+Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,225)}samucho：春香！！
+Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,88)}samucho：春香！！
+Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,86)}samucho：春香！！
+Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,84)}samucho：春香！！
+Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,82)}samucho：春香！！
+Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,80)}samucho：春香！！
+Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-54)}samucho：春香！！
+Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-56)}samucho：春香！！
+Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-58)}samucho：春香！！
+Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-60)}samucho：春香！！
+Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-62)}samucho：春香！！
+Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-64)}samucho：春香！！
+Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-200)}samucho：春香！！
+Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-202)}samucho：春香！！
+Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-204)}samucho：春香！！
+Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-206)}samucho：春香！！
+Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-208)}samucho：春香！！
+Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-345)}samucho：春香！！
+Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-347)}samucho：春香！！
+Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-349)}samucho：春香！！
+Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,379)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,377)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,375)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,373)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,371)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,369)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,232)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,230)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,228)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,226)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,224)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,90)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,88)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,86)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,84)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,82)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,80)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-56)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-58)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-60)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-62)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-64)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-201)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-203)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-205)}偶像电：美希 好可爱w 好漂亮w
+Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,523)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,521)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,519)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,517)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,515)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,513)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,376)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,374)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,372)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,370)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,368)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,234)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,232)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,230)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,228)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,226)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,224)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,88)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,86)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,84)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,82)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,80)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-57)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-59)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,-61)}ONI猎人：粗线了！传统艺能！
+Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,667)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,665)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,663)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,661)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,659)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,657)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,520)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,518)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,516)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,514)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,512)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,378)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,376)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,374)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,372)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,370)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,368)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,232)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,230)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,228)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,226)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,224)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,87)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,85)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,83)}Ojitan：原谅你！会原谅你的！因为很可爱
+Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,811)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,809)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,807)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,805)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,803)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,801)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,664)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,662)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,660)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,658)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,656)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,522)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,520)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,518)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,516)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,514)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,512)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,376)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,374)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,372)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,370)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,368)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,231)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,229)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,227)}今古陶材：allstars LOVE!
+Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1099)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1097)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1095)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1093)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1091)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1089)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,952)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,950)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,948)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,946)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,944)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,810)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,808)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,806)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,804)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,802)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,800)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,664)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,662)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,660)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,658)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,656)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,519)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,517)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,515)}W龙：放送事故草wwwwww 好棒的笑容
+Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1243)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1241)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1239)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1237)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1235)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1233)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1096)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1094)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1092)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1090)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1088)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,954)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,952)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,950)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,948)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,946)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,944)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,808)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,806)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,804)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,802)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,800)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,663)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,661)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,659)}西回岸：喜欢765PRO ALLSTARS的歌呢
+Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1387)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1385)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1383)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1381)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1379)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1377)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1240)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1238)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1236)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1234)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1232)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1098)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1096)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1094)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1092)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1090)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1088)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,952)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,950)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,948)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,946)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,944)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,807)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,805)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,803)}派森：贵音姐姐 真漂酿————♥
+Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1531)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1529)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1527)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1525)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1523)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1521)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1384)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1382)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1380)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1378)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1376)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1242)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1240)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1238)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1236)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1234)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1232)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1096)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1094)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1092)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1090)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1088)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,951)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,949)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,947)}JuHoSt：美少女偶像祭！我赚到了
+Dialogue: 0,0:15:49.01,0:15:49.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1675)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.05,0:15:49.10,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1673)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.10,0:15:49.14,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1671)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.14,0:15:49.18,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1669)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.18,0:15:49.22,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1667)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.22,0:15:49.26,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1665)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.26,0:15:49.30,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1528)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.30,0:15:49.35,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1526)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.35,0:15:49.39,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1524)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.39,0:15:49.43,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1522)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.43,0:15:49.47,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1520)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.47,0:15:49.51,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1386)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.51,0:15:49.55,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1384)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.55,0:15:49.60,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1382)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.60,0:15:49.64,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1380)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.64,0:15:49.68,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1378)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.68,0:15:49.72,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1376)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.72,0:15:49.76,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1240)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.76,0:15:49.80,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1238)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.80,0:15:49.85,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1236)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.85,0:15:49.89,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1234)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.89,0:15:49.93,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1232)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.93,0:15:49.97,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1095)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:49.97,0:15:50.01,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1093)}RUUKIIs：今天没拍到门票，但还是很高兴
+Dialogue: 0,0:15:50.01,0:15:50.05,OnScreen,fbf,0,0,0,fbf,{\an1\c&H7D7775&\b0\fscx120\fscy120\pos(140,1091)}RUUKIIs：今天没拍到门票，但还是很高兴
 
 [Aegisub Extradata]
 Data: 16,_aegi_perspective_ambient_plane,e374.31;137.05#7C3147.12;-439.33#7C3270.61;1716.16#7C238.79;1721.24
