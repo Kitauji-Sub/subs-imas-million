@@ -81,7 +81,7 @@ def traverse_files(folder_path):
     
     for root, dirs, files in os.walk(folder_path):
         # Scan movies folder only
-        if not "Movies" in root:
+        if "Movies" not in root and "op" not in root:
             continue
         for file in files:
             if file.endswith(".ass") and not file.endswith("_tc.ass"):
