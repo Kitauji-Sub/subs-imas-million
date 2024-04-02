@@ -14,6 +14,7 @@
 |`latest`|`main`持续集成的分支，拥有最新改动，部分显示可能会不正常|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/latest)|
 |`tv`|适配网络放送版TV播放源（例如CR）的稳定分支|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/tv-0.1-fix)|
 |`bd`|适配BD源的稳定分支|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/bd-1.0)|
+|`movie`|专为剧场先行上映的三幕制作的字幕|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/movie-1.1.0)|
 
 ## 开发
 
