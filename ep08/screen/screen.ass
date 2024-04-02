@@ -15,10 +15,10 @@ Audio File: C:/Users/scree/Desktop/ep8.mkv
 Video File: C:/Users/scree/Desktop/ep8.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 1394
-Active Line: 1413
-Video Position: 28427
+Video Zoom Percent: 1.125000
+Scroll Position: 1753
+Active Line: 1767
+Video Position: 28518
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,7 +26,7 @@ Style: OnScreen,思源黑体,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:04:46.39,0:04:46.43,OnScreen,,0,0,0,track,{=357}{\alpha&H00&\fn思源黑体 Heavy\fscx130.01\fscy130.01\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(915.75,138.45)\frz12.54}童
+Dialogue: 0,0:04:46.35,0:04:46.43,OnScreen,,0,0,0,track,{=357}{\alpha&H00&\fn思源黑体 Heavy\fscx130.01\fscy130.01\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(915.75,138.45)\frz12.54}童
 Dialogue: 0,0:04:46.43,0:04:46.47,OnScreen,,0,0,0,track,{=357}{\alpha&H00&\fn思源黑体 Heavy\fscx130\fscy130\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(916.12,137.34)\frz12.54}童
 Dialogue: 0,0:04:46.47,0:04:46.52,OnScreen,,0,0,0,track,{=357}{\alpha&H00&\fn思源黑体 Heavy\fscx130\fscy130\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(916.17,137.3)\frz12.54}童
 Dialogue: 0,0:04:46.52,0:04:46.56,OnScreen,,0,0,0,track,{=357}{\alpha&H00&\fn思源黑体 Heavy\fscx130\fscy130\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(916.1,138.02)\frz12.55}童
@@ -114,7 +114,7 @@ Dialogue: 0,0:04:49.89,0:04:49.94,OnScreen,,0,0,0,track,{=357}{\alpha&H00&\fn思
 Dialogue: 0,0:04:49.94,0:04:49.98,OnScreen,,0,0,0,track,{=357}{\alpha&H00&\fn思源黑体 Heavy\fscx129.93\fscy129.93\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(916.33,136.48)\frz12.53}童
 Dialogue: 0,0:04:49.98,0:04:50.02,OnScreen,,0,0,0,track,{=357}{\alpha&H00&\fn思源黑体 Heavy\fscx129.94\fscy129.94\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(916.36,136.49)\frz12.52}童
 Dialogue: 0,0:04:50.02,0:04:50.10,OnScreen,,0,0,0,track,{=357}{\alpha&H00&\fn思源黑体 Heavy\fscx129.93\fscy129.93\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(916,136.71)\frz12.53}童
-Dialogue: 0,0:04:46.39,0:04:46.43,OnScreen,,0,0,0,track,{=356}{\frz0\alpha&H00&\fn思源黑体 Heavy\fscx130.01\fscy130.01\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(968.75,133.45)}星
+Dialogue: 0,0:04:46.35,0:04:46.43,OnScreen,,0,0,0,track,{=356}{\frz0\alpha&H00&\fn思源黑体 Heavy\fscx130.01\fscy130.01\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(968.75,133.45)}星
 Dialogue: 0,0:04:46.43,0:04:46.47,OnScreen,,0,0,0,track,{=356}{\frz0\alpha&H00&\fn思源黑体 Heavy\fscx130\fscy130\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(969.12,132.34)}星
 Dialogue: 0,0:04:46.47,0:04:46.52,OnScreen,,0,0,0,track,{=356}{\frz0\alpha&H00&\fn思源黑体 Heavy\fscx130\fscy130\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(969.17,132.3)}星
 Dialogue: 0,0:04:46.52,0:04:46.56,OnScreen,,0,0,0,track,{=356}{\frz0.01\alpha&H00&\fn思源黑体 Heavy\fscx130\fscy130\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(969.1,133.01)}星
@@ -202,7 +202,7 @@ Dialogue: 0,0:04:49.89,0:04:49.94,OnScreen,,0,0,0,track,{=356}{\frz-0.02\alpha&H
 Dialogue: 0,0:04:49.94,0:04:49.98,OnScreen,,0,0,0,track,{=356}{\frz-0.01\alpha&H00&\fn思源黑体 Heavy\fscx129.93\fscy129.93\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(969.31,131.5)}星
 Dialogue: 0,0:04:49.98,0:04:50.02,OnScreen,,0,0,0,track,{=356}{\frz-0.02\alpha&H00&\fn思源黑体 Heavy\fscx129.94\fscy129.94\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(969.33,131.51)}星
 Dialogue: 0,0:04:50.02,0:04:50.10,OnScreen,,0,0,0,track,{=356}{\frz-0.01\alpha&H00&\fn思源黑体 Heavy\fscx129.93\fscy129.93\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(968.97,131.73)}星
-Dialogue: 0,0:04:46.39,0:04:46.43,OnScreen,,0,0,0,track,{=355}{\alpha&H00&\fn思源黑体 Heavy\fscx130.01\fscy130.01\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(1023.76,136.45)\frz348.9}侦
+Dialogue: 0,0:04:46.35,0:04:46.43,OnScreen,,0,0,0,track,{=355}{\alpha&H00&\fn思源黑体 Heavy\fscx130.01\fscy130.01\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(1023.76,136.45)\frz348.9}侦
 Dialogue: 0,0:04:46.43,0:04:46.47,OnScreen,,0,0,0,track,{=355}{\alpha&H00&\fn思源黑体 Heavy\fscx130\fscy130\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(1024.12,135.34)\frz348.9}侦
 Dialogue: 0,0:04:46.47,0:04:46.52,OnScreen,,0,0,0,track,{=355}{\alpha&H00&\fn思源黑体 Heavy\fscx130\fscy130\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(1024.17,135.3)\frz348.9}侦
 Dialogue: 0,0:04:46.52,0:04:46.56,OnScreen,,0,0,0,track,{=355}{\alpha&H00&\fn思源黑体 Heavy\fscx130\fscy130\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(1024.1,136)\frz348.91}侦
@@ -290,7 +290,7 @@ Dialogue: 0,0:04:49.89,0:04:49.94,OnScreen,,0,0,0,track,{=355}{\alpha&H00&\fn思
 Dialogue: 0,0:04:49.94,0:04:49.98,OnScreen,,0,0,0,track,{=355}{\alpha&H00&\fn思源黑体 Heavy\fscx129.93\fscy129.93\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(1024.28,134.51)\frz348.89}侦
 Dialogue: 0,0:04:49.98,0:04:50.02,OnScreen,,0,0,0,track,{=355}{\alpha&H00&\fn思源黑体 Heavy\fscx129.94\fscy129.94\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(1024.3,134.52)\frz348.88}侦
 Dialogue: 0,0:04:50.02,0:04:50.10,OnScreen,,0,0,0,track,{=355}{\alpha&H00&\fn思源黑体 Heavy\fscx129.93\fscy129.93\c&HF8A630&\bord3.5\3c&HFFFFFF&\pos(1023.94,134.74)\frz348.89}侦
-Dialogue: 0,0:04:46.39,0:04:46.43,OnScreen,,0,0,0,track,{=354}{\alpha&H00&\fn思源黑体 Heavy\fscx130.01\fscy130.01\c&HF8A630&\bord3.5\3c&HFFFFFF&\frz330.8\pos(1078.76,155.44)}探
+Dialogue: 0,0:04:46.35,0:04:46.43,OnScreen,,0,0,0,track,{=354}{\alpha&H00&\fn思源黑体 Heavy\fscx130.01\fscy130.01\c&HF8A630&\bord3.5\3c&HFFFFFF&\frz330.8\pos(1078.76,155.44)}探
 Dialogue: 0,0:04:46.43,0:04:46.47,OnScreen,,0,0,0,track,{=354}{\alpha&H00&\fn思源黑体 Heavy\fscx130\fscy130\c&HF8A630&\bord3.5\3c&HFFFFFF&\frz330.8\pos(1079.12,154.34)}探
 Dialogue: 0,0:04:46.47,0:04:46.52,OnScreen,,0,0,0,track,{=354}{\alpha&H00&\fn思源黑体 Heavy\fscx130\fscy130\c&HF8A630&\bord3.5\3c&HFFFFFF&\frz330.8\pos(1079.17,154.3)}探
 Dialogue: 0,0:04:46.52,0:04:46.56,OnScreen,,0,0,0,track,{=354}{\alpha&H00&\fn思源黑体 Heavy\fscx130\fscy130\c&HF8A630&\bord3.5\3c&HFFFFFF&\frz330.81\pos(1079.1,154.99)}探
@@ -1421,14 +1421,14 @@ Dialogue: 0,0:08:12.56,0:08:12.68,OnScreen,,0,0,0,fbf,{=265}{\c&H625D5C&\fax-0.0
 Dialogue: 0,0:08:12.68,0:08:12.81,OnScreen,,0,0,0,fbf,{=265}{\c&H625D5C&\fax-0.068102\fscx62.74\fscy65.17\frz-5.3003\frx0.6489\fry-1.7710\org(1201.08,489.06)\pos(1201.93,502.09)\iclip(m 979 200 l 1187 184 1241 1000 979 998)}由于设备器材故障
 Dialogue: 0,0:08:12.81,0:08:12.93,OnScreen,,0,0,0,fbf,{=265}{\c&H625D5C&\fax-0.068102\fscx62.74\fscy65.17\frz-5.3003\frx0.6489\fry-1.7710\org(1201.08,489.06)\pos(1201.93,502.09)\iclip(629,694,1077,1058)}由于设备器材故障
 Dialogue: 0,0:08:12.93,0:08:15.18,OnScreen,,0,0,0,fbf,{=265}{\c&H625D5C&\fax-0.068102\fscx62.74\fscy65.17\frz-5.3003\frx0.6489\fry-1.7710\org(1201.08,489.06)\pos(1201.93,502.09)}由于设备器材故障
-Dialogue: 0,0:08:11.26,0:08:12.05,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)}暂{\fscx130\fscy130\c&H4C57EC&}更改会场
-Dialogue: 0,0:08:12.05,0:08:12.18,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)\iclip(m 1301.69 245.62 l 1458.61 261.5 1400.3 374.18 b 1348.34 356.11 1288.5 326 1282.53 319.98)}暂{\fscx130\fscy130\c&H4C57EC&}更改会场
-Dialogue: 0,0:08:12.18,0:08:12.30,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)\iclip(1111.11,199.11,1226.67,277.33)}暂{\fscx130\fscy130\c&H4C57EC&}更改会场
-Dialogue: 0,0:08:12.30,0:08:12.56,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)\iclip(719,188,1540,1062)}暂{\fscx130\fscy130\c&H4C57EC&}更改会场
-Dialogue: 0,0:08:12.56,0:08:12.68,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)\iclip(728,146,1506,828)}暂{\fscx130\fscy130\c&H4C57EC&}更改会场
-Dialogue: 0,0:08:12.68,0:08:12.81,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)\iclip(m 979 200 l 1187 184 1241 1000 979 998)}暂{\fscx130\fscy130\c&H4C57EC&}更改会场
-Dialogue: 0,0:08:12.81,0:08:12.93,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)\iclip(629,694,1077,1058)}暂{\fscx130\fscy130\c&H4C57EC&}更改会场
-Dialogue: 0,0:08:12.93,0:08:15.18,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)}暂{\fscx130\fscy130\c&H4C57EC&}更改会场
+Dialogue: 0,0:08:11.26,0:08:12.05,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)}{\fscx130\fscy130\c&H4C57EC&}更改会场
+Dialogue: 0,0:08:12.05,0:08:12.18,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)\iclip(m 1301.69 245.62 l 1458.61 261.5 1400.3 374.18 b 1348.34 356.11 1288.5 326 1282.53 319.98)}{\fscx130\fscy130\c&H4C57EC&}更改会场
+Dialogue: 0,0:08:12.18,0:08:12.30,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)\iclip(1111.11,199.11,1226.67,277.33)}{\fscx130\fscy130\c&H4C57EC&}更改会场
+Dialogue: 0,0:08:12.30,0:08:12.56,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)\iclip(719,188,1540,1062)}{\fscx130\fscy130\c&H4C57EC&}更改会场
+Dialogue: 0,0:08:12.56,0:08:12.68,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)\iclip(728,146,1506,828)}{\fscx130\fscy130\c&H4C57EC&}更改会场
+Dialogue: 0,0:08:12.68,0:08:12.81,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)\iclip(m 979 200 l 1187 184 1241 1000 979 998)}{\fscx130\fscy130\c&H4C57EC&}更改会场
+Dialogue: 0,0:08:12.81,0:08:12.93,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)\iclip(629,694,1077,1058)}{\fscx130\fscy130\c&H4C57EC&}更改会场
+Dialogue: 0,0:08:12.93,0:08:15.18,OnScreen,,0,0,0,fbf,{=268}{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)}{\fscx130\fscy130\c&H4C57EC&}更改会场
 Dialogue: 0,0:08:11.26,0:08:12.05,OnScreen,,0,0,0,fbf,{=269}{\fax-0.012965\fscx120.41\fscy129.64\frz-8.6278\frx0.6563\fry-1.7939\org(879.89,1016.93)\pos(880.2,1042.86)\c&H282DCA&}会场往此处
 Dialogue: 0,0:08:12.05,0:08:12.18,OnScreen,,0,0,0,fbf,{=269}{\fax-0.012965\fscx120.41\fscy129.64\frz-8.6278\frx0.6563\fry-1.7939\org(879.89,1016.93)\pos(880.2,1042.86)\c&H282DCA&\iclip(m 1301.69 245.62 l 1458.61 261.5 1400.3 374.18 b 1348.34 356.11 1288.5 326 1282.53 319.98)}会场往此处
 Dialogue: 0,0:08:12.18,0:08:12.30,OnScreen,,0,0,0,fbf,{=269}{\fax-0.012965\fscx120.41\fscy129.64\frz-8.6278\frx0.6563\fry-1.7939\org(879.89,1016.93)\pos(880.2,1042.86)\c&H282DCA&\iclip(1111.11,199.11,1226.67,277.33)}会场往此处
@@ -1784,7 +1784,7 @@ Dialogue: 0,0:15:51.51,0:15:51.55,OnScreen,,0,0,0,track,{=364=365}{\alpha&H00&\\
 Dialogue: 0,0:15:51.55,0:15:51.59,OnScreen,,0,0,0,track,{=364=365}{\alpha&H00&\\c&HD5D6D3&\fax-0.036738\fscx98.32\fscy92.82\frz-17.37\frx-0.9215\fry0.5378\org(575.31,292.29)\pos(576.79,329.41)}发售纪念Live\N暨签名会
 Dialogue: 0,0:17:44.04,0:17:44.46,OnScreen,repeat,0,0,0,fbf,{\fn思源黑体 Heavy\fax-0.088188\fscx124.92\fscy128.32\frz-4.1423\frx0.6505\fry-1.7778\org(1233.76,292.42)\pos(1235.96,318.08)\c&HBB82E6&\3c&HFEFEFC&\bord6}出道活动
 Dialogue: 0,0:17:44.04,0:17:44.46,OnScreen,repeat,0,0,0,fbf,{\c&H625D5C&\fax-0.068102\fscx62.74\fscy65.17\frz-5.3003\frx0.6489\fry-1.7710\org(1201.08,489.06)\pos(1201.93,502.09)}由于设备器材故障
-Dialogue: 0,0:17:44.04,0:17:44.46,OnScreen,repeat,0,0,0,fbf,{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)}暂{\fscx130\fscy130\c&H4C57EC&}更改会场
+Dialogue: 0,0:17:44.04,0:17:44.46,OnScreen,repeat,0,0,0,fbf,{\c&H625D5C&\fax-0.056930\fscx78.71\fscy79.51\frz-5.8875\frx0.6446\fry-1.7631\org(1204.41,590.62)\pos(1205.3,606.53)}{\fscx130\fscy130\c&H4C57EC&}更改会场
 Dialogue: 0,0:17:44.04,0:17:44.46,OnScreen,repeat,0,0,0,fbf,{\fax-0.012965\fscx120.41\fscy129.64\frz-8.6278\frx0.6563\fry-1.7939\org(879.89,1016.93)\pos(880.2,1042.86)\c&H282DCA&}会场往此处
 Dialogue: 1,0:19:45.12,0:19:45.62,OnScreen,,0,0,0,,{=378}{\fad(482,0)\an7\b0\fn@MiSans\c&H636363&\fax-0.044139\fscx83.51\fscy73.49\frz-106.1795\frx0.3852\fry-1.7099\org(868.82,594.26)\pos(590.27,138.62)}地板地下藏着的桃子登场，利用等候室里的黑色窗帘。\N\N\N桃子「桃子是偶像 但 我并非仅仅是一个偶像！\N偶像侦探 小桃子！」\N漂亮地摆出动作\N亚利沙、ROCO、千鹤\N大家看到小桃子侦探时的反应\N「偶像侦探 小桃子?」\N桃子\N「这次事件 桃子我来了 一下子就能解决哦」\N\N\N千鹤\N「但是 犯人消失不见了啊」\N桃子\N「并非如此 犯人在那里！」\N指向舞台左边奈绪藏的地方*与ROCO商量一下\NROCO{\alpha&HFF&}路子\N{\alpha&H00&}「在那个里面！？」\N大家向奈绪接近\N桃子\N「嗯 理论上来讲确实不会在这里」\N千鹤\N「确实 太好懂了嘛毕竟」\N大家糊弄过去了。\N\N\N奈绪\N「就这样走了？」\N奈绪冲出来 登场！\N大家进行反应\N\N\N奈绪\N「不会交给你的！」\N奈绪准备跑路。\N亚利沙\N「这样的话又会被她逃走了！」 |
 Dialogue: 1,0:19:45.62,0:19:46.12,OnScreen,,0,0,0,,{=348}{\an7\an7\b0\fn@MiSans\c&H636363&\fax-0.044139\fscx83.51\fscy73.49\frz-106.1795\frx0.3852\fry-1.7099\org(868.82,594.26)\pos(590.27,138.62)}地板地下藏着的桃子登场，利用等候室里的黑色窗帘。\N\N\N桃子「桃子是偶像 但 我并非仅仅是一个偶像！\N偶像侦探 小桃子！」\N漂亮地摆出动作\N亚利沙、ROCO、千鹤\N大家看到小桃子侦探时的反应\N「偶像侦探 小桃子?」\N桃子\N「这次事件 桃子我来了 一下子就能解决哦」\N\N\N千鹤\N「但是 犯人消失不见了啊」\N桃子\N「并非如此 犯人在那里！」\N指向舞台左边奈绪藏的地方*与ROCO商量一下\NROCO{\alpha&HFF&}路子\N{\alpha&H00&}「在那个里面！？」\N大家向奈绪接近\N桃子\N「嗯 理论上来讲确实不会在这里」\N千鹤\N「确实 太好懂了嘛毕竟」\N大家糊弄过去了。\N\N\N奈绪\N「就这样走了？」\N奈绪冲出来 登场！\N大家进行反应\N\N\N奈绪\N「不会交给你的！」\N奈绪准备跑路。\N亚利沙\N「这样的话又会被她逃走了！」
