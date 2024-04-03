@@ -103,7 +103,7 @@ def traverse_files(folder_path):
                     continue
 
                 cleanup_ass_file(input_file, output_file)
-                traditionalize_ass(output_file, output_tc_file, user_pre_replace='艾米莉=艾蜜莉\n斯图亚特=司徒亚特\n试镜=甄选会\n埃琳娜=艾琳娜', user_protect_replace='华康翩翩体\n獅尾圓體')
+                traditionalize_ass(output_file, output_tc_file, user_pre_replace='艾米莉=艾蜜莉\n斯图亚特=司徒亚特\n试镜=甄选会\n埃琳娜=艾琳娜\n百万现场=百万人演唱会', user_protect_replace='华康翩翩体\n獅尾圓體')
 
 def merge_files(input_file, output_file):
     with open(input_file, encoding='utf-8-sig', mode='r') as f:
