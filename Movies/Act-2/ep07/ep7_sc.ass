@@ -16,8 +16,7 @@ Video File: I:/ep7_00005.m2ts
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 856
-Active Line: 858
+Active Line: 4
 Video Position: 98769
 
 [V4+ Styles]
@@ -92,7 +91,6 @@ Style: OP_CN,思源黑体 Heavy,65,&H00F0F0F0,&H000000FF,&H004A4A4A,&H00000000,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:46:33.65,0:46:33.65,注释,,0,0,0,,=====TITLE=====
 Dialogue: 0,0:48:07.28,0:48:12.33,Title,,0,0,0,,{\fad(720,720)\pos(1438,935)}心跳！仲夏之海的出道对决！
-Dialogue: 0,1:10:27.29,1:10:33.63,Title,,0,0,0,,{\fs60\blur5\bord.3\3c&H292929&\pos(442.66,937)}为了改变而生的舞台
 Comment: 0,0:46:33.65,0:46:33.65,注释,,0,0,0,,=====NOTE=====
 Dialogue: 0,0:46:39.65,0:46:41.65,注释,,0,0,0,,泳装出自游戏卡面\N気合充填！　高坂海美\Nメラメラサラマンダー　大神 環
 Dialogue: 0,0:46:47.66,0:46:49.66,注释,,0,0,0,,泳装出自游戏卡面\N恥じらいセクシーレディ　田中琴叶\N魅惑のアクアヴィーナス　所 恵美
