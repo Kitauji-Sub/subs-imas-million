@@ -9,12 +9,12 @@
 > [!NOTE]
 > 由于项目结构原因，字幕文件并非即取即用，故在此提供预构建文件方便观众取用。
 
-|分支|说明|下载|
-|-|-|:-:|
-|`latest`|`main`持续集成的分支，拥有最新改动，部分显示可能会不正常|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/latest)|
-|`tv`|适配网络放送版TV播放源（例如CR）的稳定分支|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/tv-0.1-fix)|
-|`bd`|适配BD源的稳定分支|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/bd-1.1)|
-|`movie`|专为剧场先行上映的三幕制作的字幕|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/movie-1.1.2)|
+|分支|说明|下载|状态|
+|-|-|:-:|-|
+|`latest`|`main`持续集成的分支，拥有最新改动，部分显示可能会不正常|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/latest)|![status badge main branch](https://github.com/Kitauji-Sub/subs-imas-million/actions/workflows/build-subtitle.yml/badge.svg?branch=main)|
+|`tv`|适配网络放送版TV播放源（例如CR）的稳定分支|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/tv-0.1-fix)|![tv tags](https://img.shields.io/github/v/tag/Kitauji-Sub/subs-imas-million?filter=tv*&label=version)|
+|`bd`|适配BD源的稳定分支|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/bd-1.1)|![bd tags](https://img.shields.io/github/v/tag/Kitauji-Sub/subs-imas-million?filter=bd*&label=version)|
+|`movie`|专为剧场先行上映的三幕制作的字幕|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/movie-1.1.2)|![movie tags](https://img.shields.io/github/v/tag/Kitauji-Sub/subs-imas-million?filter=movie*&label=version)|
 
 ## 开发
 
