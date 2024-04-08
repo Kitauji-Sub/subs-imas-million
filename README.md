@@ -2,6 +2,9 @@
 
 ![menu_logo](https://github.com/Kitauji-Sub/subs-imas-million/assets/46473171/23b114ef-15e0-48ef-b1b8-a26224eb6402)
 
+
+![status badge main branch](https://github.com/Kitauji-Sub/subs-imas-million/actions/workflows/build-subtitle.yml/badge.svg?branch=main) ![tv tags](https://img.shields.io/github/v/tag/Kitauji-Sub/subs-imas-million?filter=tv*&label=version) ![bd tags](https://img.shields.io/github/v/tag/Kitauji-Sub/subs-imas-million?filter=bd*&label=version) ![movie tags](https://img.shields.io/github/v/tag/Kitauji-Sub/subs-imas-million?filter=movie*&label=version)
+
 该仓库存放以`北宇治字幕组`名义制作的TV动画《偶像大师 百万现场！》 字幕。
 
 ## 下载字幕
@@ -9,12 +12,12 @@
 > [!NOTE]
 > 由于项目结构原因，字幕文件并非即取即用，故在此提供预构建文件方便观众取用。
 
-|分支|说明|下载|状态|
-|-|-|:-:|-|
-|`latest`|`main`持续集成的分支，拥有最新改动，部分显示可能会不正常|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/latest)|![status badge main branch](https://github.com/Kitauji-Sub/subs-imas-million/actions/workflows/build-subtitle.yml/badge.svg?branch=main)|
-|`tv`|适配网络放送版TV播放源（例如CR）的稳定分支|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/tv-0.1-fix)|![tv tags](https://img.shields.io/github/v/tag/Kitauji-Sub/subs-imas-million?filter=tv*&label=version)|
-|`bd`|适配BD源的稳定分支|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/bd-1.1)|![bd tags](https://img.shields.io/github/v/tag/Kitauji-Sub/subs-imas-million?filter=bd*&label=version)|
-|`movie`|专为剧场先行上映的三幕制作的字幕|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/movie-1.1.2)|![movie tags](https://img.shields.io/github/v/tag/Kitauji-Sub/subs-imas-million?filter=movie*&label=version)|
+|标签|说明|下载|
+|:-:|-|:-:|
+|`latest`|`main`持续集成的分支，拥有最新改动，部分显示可能会不正常|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/latest)|
+|`tv`|适配网络放送版TV播放源（例如CR）的稳定分支|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/tv-0.1-fix)|
+|`bd`|适配BD源的稳定分支|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/bd-1.1)|
+|`movie`|专为剧场先行上映的三幕制作的字幕|[点此下载](https://github.com/Kitauji-Sub/subs-imas-million/releases/tag/movie-1.1.2)|
 
 ## 开发
 
@@ -63,3 +66,11 @@ epxx → 主目录
 2. 使用[zhconvert.org](zhconvert.org)将各个文件进行繁化。对于主文件，还需更改import语句中的文件名。将繁化后的文件命名为`*_tc.ass`
 3. 使用`The0x539's templater`将模板应用到`insert`文件夹中的文件并保存，注意该脚本与aegisub自带的auto4模板运行器不完全兼容
 4. 依次打开各个主文件，使用`Merge Scripts`的`Generate release candidate`生成发布文件
+
+## 声明
+
+![site image](https://zhconvert.org/build/assets/images/logo_h36.1306fa53.png)
+
+本仓库字幕在繁体中文化流程中，使用了繁化姬（[zhconvert.org](https://zhconvert.org/)）提供的 API 服务。
+
+繁化姬API仅供个人学习研究使用，商业用途请参考[繁化姬说明文件](https://docs.zhconvert.org/commercial/)
