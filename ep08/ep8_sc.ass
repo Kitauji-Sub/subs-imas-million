@@ -16,8 +16,8 @@ Video File: I:/ep8_00006.m2ts
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 176
-Active Line: 201
+Scroll Position: 123
+Active Line: 152
 Video Position: 33934
 
 [V4+ Styles]
@@ -242,7 +242,7 @@ Dialogue: 9,0:07:33.46,0:07:35.98,F-roco,,0,0,70,,Retro Taste{\fscx50} {\fscx100
 Dialogue: 9,0:07:33.46,0:07:35.98,F-roco,,0,0,70,,{\fscx60\fscy60\bord3.8\pos(939,945)}复古风
 Dialogue: 9,0:07:37.74,0:07:39.12,P-奈绪,,0,0,70,,要小心啊
 Dialogue: 9,0:07:39.12,0:07:41.32,其它,,0,0,70,,虽然这里已经很久没用过了
-Dialogue: 9,0:07:41.32,0:07:43.38,其它,,0,0,70,,但音响还…活着
+Dialogue: 9,0:07:41.32,0:07:43.38,其它,,0,0,70,,但音响设备还能用
 Dialogue: 9,0:07:44.90,0:07:47.06,S-赤P源P,,0,0,70,,刚才我也接到那边的消息了
 Dialogue: 9,0:07:47.06,0:07:48.50,S-赤P源P,,0,0,70,,舞台相当破旧吧
 Dialogue: 9,0:07:48.94,0:07:50.58,A-bba,,0,0,70,,嗯 是呢
