@@ -26,7 +26,10 @@ def traditionalize_text(input_text, user_pre_replace="", user_protect_replace=""
         "userProtectReplace": user_protect_replace
     }
     
-    retry_strategy = Retry(total=max_tries, backoff_factor=0.3)
+    retry_strategy = Retry(
+        total=max_tries,
+        backoff_factor=0.3,
+        status_forcelist=[429, 500, 502, 503, 504])
     adapter = HTTPAdapter(max_retries=retry_strategy)
     session = requests.Session()
     session.mount("https://", adapter)
