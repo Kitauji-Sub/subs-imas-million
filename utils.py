@@ -7,6 +7,7 @@ import shutil
 import requests
 from requests.exceptions import RequestException
 from requests.adapters import HTTPAdapter, Retry
+import time
 
 def cleanup_ass_file(input_file, output_file):
     with open(input_file, encoding='utf-8-sig', mode='r') as f:
@@ -38,6 +39,7 @@ def traditionalize_text(input_text, user_pre_replace="", user_protect_replace=""
         response.raise_for_status()
         result = response.json()
         if "data" in result and "text" in result["data"]:
+            time.sleep(0.5)
             return result["data"]["text"]
         else:
             raise Exception("Error: Unexpected response format")
