@@ -17,7 +17,7 @@ def cleanup_ass_file(input_file, output_file):
         with open(output_file, encoding='utf-8-sig', mode='w+') as f_out:
             subs.dump_file(f_out)
 
-def traditionalize_text(input_text, user_pre_replace="", user_protect_replace="", timeout=10, max_tries=3):
+def traditionalize_text(input_text, user_pre_replace="", user_protect_replace="", timeout=10, max_tries=8):
     url = "https://api.zhconvert.org/convert"
     data = {
         "text": input_text,
