@@ -10,14 +10,14 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: I:/ep12_00006.m2ts
-Video File: I:/ep12_00006.m2ts
+Audio File: D:/Anime/Torrent/[KitaujiSub] THE iDOLM@STER MILLION LIVE! Act-3 [BDRip][HEVC_AC3_DTS-HD MA 3.1]/[KitaujiSub] THE iDOLM@STER MILLION LIVE! Act-3 [BDRip][HEVC_AC3_DTS-HD MA 3.1][CHS_JP&CHT_JP].mkv
+Video File: D:/Anime/Torrent/[KitaujiSub] THE iDOLM@STER MILLION LIVE! Act-3 [BDRip][HEVC_AC3_DTS-HD MA 3.1]/[KitaujiSub] THE iDOLM@STER MILLION LIVE! Act-3 [BDRip][HEVC_AC3_DTS-HD MA 3.1][CHS_JP&CHT_JP].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 150
-Active Line: 158
-Video Position: 127998
+Video Zoom Percent: 0.875000
+Scroll Position: 302
+Active Line: 308
+Video Position: 126004
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -235,12 +235,12 @@ Dialogue: 8,1:25:44.16,1:25:45.87,P-未来,,0,0,70,,竭尽全力地歌唱！
 Dialogue: 8,1:25:46.41,1:25:48.37,P-未来,,0,0,70,,这是我们的出道曲
 Dialogue: 8,1:25:48.71,1:25:50.29,P-未来,,0,0,70,,请听
 Dialogue: 8,1:25:50.88,1:25:52.75,P-未来,,0,0,70,,「REFRAIN REL@TION」
-Dialogue: 8,1:27:29.77,1:27:31.10,P-未来,,0,0,70,,谢谢大家
-Dialogue: 8,1:27:31.10,1:27:34.06,P-未来,,0,0,70,,来看我们的第一次演出
-Dialogue: 8,1:27:34.06,1:27:36.44,P-未来,,0,0,70,,鼓起掌声等待着我们
-Dialogue: 8,1:27:36.44,1:27:39.53,P-未来,,0,0,70,,一起把接力棒传递了下去！
-Dialogue: 8,1:27:39.53,1:27:42.82,P-未来,,0,0,70,,从今往后 在这之后的未来也要永远地…
-Dialogue: 8,1:27:42.82,1:27:46.03,P-未来,,0,0,70,,在这剧场将大家连接起来！
+Dialogue: 8,1:27:29.77,1:27:31.10,P-未来,,0,800,70,,谢谢大家
+Dialogue: 8,1:27:31.10,1:27:34.06,P-未来,,0,800,70,,来看我们的第一次演出
+Dialogue: 8,1:27:34.06,1:27:36.44,P-未来,,0,800,70,,鼓起掌声等待着我们
+Dialogue: 8,1:27:36.44,1:27:39.53,P-未来,,0,800,70,,一起把接力棒传递了下去！
+Dialogue: 8,1:27:39.53,1:27:42.82,P-未来,,0,800,70,,从今往后 在这之后的未来也要永远地…
+Dialogue: 8,1:27:42.82,1:27:46.03,P-未来,,0,800,70,,在这剧场将大家连接起来！
 Dialogue: 8,1:27:46.03,1:27:47.07,P-未来,,0,0,70,,所以
 Dialogue: 8,1:27:47.07,1:27:49.58,P-未来,,0,0,70,,请让我们{\fscx50} {\fscx100}39{\fscx50} {\fscx100}人的思绪
 Dialogue: 8,1:27:53.83,1:27:56.13,P-未来,,0,0,70,,传达到吧！
@@ -397,12 +397,12 @@ Dialogue: 7,1:25:44.16,1:25:45.87,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\b
 Dialogue: 7,1:25:46.41,1:25:48.37,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}私たちのデビュー曲です
 Dialogue: 7,1:25:48.71,1:25:50.29,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}聴いてください！
 Dialogue: 7,1:25:50.88,1:25:52.75,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}『REFRAIN REL@TION』
-Dialogue: 7,1:27:29.77,1:27:31.10,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ありがとう
-Dialogue: 7,1:27:31.10,1:27:34.06,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}私たちの 初めてを見にきてくれて
-Dialogue: 7,1:27:34.06,1:27:36.44,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}手拍子で待っててくれて！
-Dialogue: 7,1:27:36.44,1:27:39.53,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}一緒に バトンをつないでくれて！
-Dialogue: 7,1:27:39.53,1:27:42.82,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}これから ずっと ずっと先の未来まで…
-Dialogue: 7,1:27:42.82,1:27:46.03,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}このシアターをみんなでつないでいきます！
+Dialogue: 7,1:27:29.77,1:27:31.10,P-未来,,0,800,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}ありがとう
+Dialogue: 7,1:27:31.10,1:27:34.06,P-未来,,0,800,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}私たちの 初めてを見にきてくれて
+Dialogue: 7,1:27:34.06,1:27:36.44,P-未来,,0,800,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}手拍子で待っててくれて！
+Dialogue: 7,1:27:36.44,1:27:39.53,P-未来,,0,800,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}一緒に バトンをつないでくれて！
+Dialogue: 7,1:27:39.53,1:27:42.82,P-未来,,0,800,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}これから ずっと ずっと先の未来まで…
+Dialogue: 7,1:27:42.82,1:27:46.03,P-未来,,0,800,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}このシアターをみんなでつないでいきます！
 Dialogue: 7,1:27:46.03,1:27:47.07,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}だから
 Dialogue: 7,1:27:47.07,1:27:49.58,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}私たち{\fscx50} {\fscx100}39{\fscx50} {\fscx100}人からの！
 Dialogue: 7,1:27:53.83,1:27:56.13,P-未来,,0,0,20,,{\fnFOT-TsukuGo Pro E\fs60\bord2.5}届けさせてください！
