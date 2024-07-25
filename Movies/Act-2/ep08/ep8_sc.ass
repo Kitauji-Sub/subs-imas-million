@@ -15,10 +15,10 @@ Audio File: I:/ep8_00006.m2ts
 Video File: I:/ep8_00006.m2ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 682
-Active Line: 699
-Video Position: 128531
+Video Zoom Percent: 0.500000
+Scroll Position: 149
+Active Line: 150
+Video Position: 107824
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -240,7 +240,7 @@ Dialogue: 9,1:14:49.30,1:14:51.80,F-roco,,0,0,70,,Retro Taste{\fscx50} {\fscx100
 Dialogue: 9,1:14:49.30,1:14:51.80,F-roco,,0,0,70,,{\fscx60\fscy60\bord3.8\pos(939,945)}复古风
 Dialogue: 9,1:14:53.55,1:14:54.93,P-奈绪,,0,0,70,,要小心啊
 Dialogue: 9,1:14:54.93,1:14:57.14,其它,,0,0,70,,虽然这里已经很久没用过了
-Dialogue: 9,1:14:57.14,1:14:59.22,其它,,0,0,70,,但音响还…活着
+Dialogue: 9,1:14:57.14,1:14:59.22,其它,,0,0,70,,但音响设备还能用
 Dialogue: 9,1:15:00.73,1:15:02.89,S-赤P源P,,0,0,70,,刚才我也接到那边的消息了
 Dialogue: 9,1:15:02.89,1:15:04.31,S-赤P源P,,0,0,70,,舞台相当破旧吧
 Dialogue: 9,1:15:04.77,1:15:06.40,A-bba,,0,0,70,,嗯 是呢
@@ -289,7 +289,7 @@ Dialogue: 9,1:17:04.72,1:17:06.02,P-育,,0,0,70,,也很糟糕
 Dialogue: 9,1:17:06.02,1:17:10.23,P-育,,0,0,70,,我们这边 签名会要用的{\fscx50} {\fscx100}CD{\fscx50} {\fscx100}现在还没送到
 Dialogue: 9,1:17:10.23,1:17:11.82,P-育,,0,0,70,,好像说是因为堵车了
 Dialogue: 9,1:17:14.07,1:17:18.15,P-育,,0,0,70,,在{\fscx50} {\fscx100}CD{\fscx50} {\fscx100}送到之前 必须得在舞台上做些什么才行
-Dialogue: 9,1:17:18.15,1:17:21.66,A-美也,,0,0,70,,小茜谜题 小茜搞笑表演
+Dialogue: 9,1:17:18.15,1:17:21.66,A-美也,,0,0,70,,小茜猜谜 小茜大喜利
 Dialogue: 9,1:17:21.66,1:17:24.62,A-美也,,0,0,70,,小茜狼人杀怎么样啊
 Dialogue: 9,1:17:24.62,1:17:28.12,A-茜,,0,0,70,,那什么…{\fscx50} {\fscx100}虽然小茜很乐意在舞台上表现
 Dialogue: 9,1:17:28.12,1:17:30.50,A-茜,,0,0,70,,但美也一起来会更好哦
