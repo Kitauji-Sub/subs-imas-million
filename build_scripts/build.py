@@ -8,13 +8,37 @@ from pathlib import Path
 from build_scripts.utils import FileManager, SubtitleProcessor
 
 
+VALIDATION_FALSE_MARKER = "validation function returned false"
+
+
+def _relay_output(output: str) -> None:
+    if output:
+        print(output, end="" if output.endswith(("\n", "\r")) else "\n")
+
+
 def run_templater(work_folder: Path, input_path: Path) -> None:
     aegisub_cli = work_folder / "aegisub-cli" / "aegisub-cli.exe"
     automation = work_folder / "aegisub-cli" / "automation" / "autoload" / "0x.KaraTemplater.moon"
     command = [str(aegisub_cli), "--automation", str(automation), str(input_path), str(input_path), "0x539's Templater"]
     if os.name != "nt":
         command = ["wine", *command]
-    subprocess.run(command, check=True)
+    result = subprocess.run(command, check=False, capture_output=True, text=True, errors="replace")
+    _relay_output(result.stdout)
+    _relay_output(result.stderr)
+    if result.returncode == 0:
+        return
+
+    combined_output = "\n".join(part for part in (result.stdout, result.stderr) if part)
+    if VALIDATION_FALSE_MARKER in combined_output.lower():
+        print(f"Skipping templater for {input_path}: validation returned false")
+        return
+
+    raise subprocess.CalledProcessError(
+        result.returncode,
+        result.args,
+        output=result.stdout,
+        stderr=result.stderr,
+    )
 
 
 def main(work_folder: str, line: str = "preview", version: str = "local-dev") -> None:
