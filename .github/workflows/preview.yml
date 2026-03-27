@@ -1,0 +1,97 @@
+name: Preview Release
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+    paths-ignore:
+      - ".github/**"
+      - "README.md"
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+jobs:
+  preview:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Resolve preview version
+        id: version
+        shell: pwsh
+        run: |
+          python .github/scripts/release_version.py --mode preview --repo-root . --github-output $env:GITHUB_OUTPUT
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          pip install --user git+https://github.com/FichteForks/Myaamori-Aegisub-Scripts.git@pr/fix-style-deduplication#subdirectory=scripts/sub-digest
+          pip install requests urllib3
+      - name: Download Aegisub-cli
+        shell: pwsh
+        run: |
+          Invoke-WebRequest -Uri "https://github.com/scrpr/aegisub-cli/releases/download/disable_unique_path/aegisub-cli.zip" -OutFile "aegisub-cli.zip"
+          Expand-Archive -Path "aegisub-cli.zip" -DestinationPath "aegisub-cli" -Force
+      - name: Install custom fonts
+        shell: pwsh
+        run: |
+          $fontSourceFolder = "Fonts\"
+          $SystemFontsPath = "C:\Windows\Fonts\"
+          foreach($FontFile in Get-ChildItem $fontSourceFolder -Include '*.ttf','*.ttc','*.otf' -recurse ) {
+            $targetPath = Join-Path $SystemFontsPath $FontFile.Name
+            if(Test-Path -Path $targetPath) {
+              $FontFile.Name + " already installed"
+            }
+            else {
+              $ShellFolder = (New-Object -COMObject Shell.Application).Namespace($FontFile.Directory.FullName)
+              $ShellFile = $ShellFolder.ParseName($FontFile.Name)
+              $ShellFileType = $ShellFolder.GetDetailsOf($ShellFile, 2)
+              if ($ShellFileType -Like '*TrueType font file*') { $FontType = '(TrueType)' } else { $FontType = '' }
+              $RegName = $ShellFolder.GetDetailsOf($ShellFile, 21) + ' ' + $FontType
+              $null = New-ItemProperty -Name $RegName -Path "HKLM:\Software\Microsoft\Windows NT\CurrentVersion\Fonts" -PropertyType string -Value $FontFile.Name -Force
+              Copy-Item $FontFile.FullName -Destination $SystemFontsPath
+            }
+          }
+      - name: Build subtitles
+        run: |
+          python build.py --line preview --version "${{ steps.version.outputs.version }}"
+      - name: Pack files
+        shell: pwsh
+        run: |
+          $version = "${{ steps.version.outputs.version }}"
+          Compress-Archive -Path "build\output\*" -DestinationPath "mlan_subs_$version.zip" -Force
+      - name: Delete latest release
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { owner, repo } = context.repo;
+            try {
+              const response = await github.rest.repos.getReleaseByTag({ owner, repo, tag: "latest" });
+              await github.rest.repos.deleteRelease({ owner, repo, release_id: response.data.id });
+              await github.rest.git.deleteRef({ owner, repo, ref: "tags/latest" });
+            } catch (error) {
+              if (error.status !== 404) throw error;
+            }
+      - name: Publish preview release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: ${{ steps.version.outputs.display_name }}
+          prerelease: true
+          draft: false
+          generate_release_notes: true
+          fail_on_unmatched_files: true
+          files: |
+            mlan_subs_*.zip
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: mlan_subs_preview_built
+          path: mlan_subs_*.zip

@@ -1,2 +1,5 @@
-build
-__pycache__
+build/
+__pycache__/
+aegisub-cli/
+aegisub-cli.zip
+.ace-tool/

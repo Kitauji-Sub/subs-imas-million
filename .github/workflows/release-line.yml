@@ -1,0 +1,114 @@
+name: Stable Release
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "tv"
+      - "bd"
+      - "movie"
+    paths-ignore:
+      - ".github/**"
+      - "README.md"
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+jobs:
+  release:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Resolve stable version
+        id: version
+        shell: pwsh
+        run: |
+          python .github/scripts/release_version.py --mode stable --branch "${{ github.ref_name }}" --repo-root . --github-output $env:GITHUB_OUTPUT
+      - name: Configure git identity
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Check if version exists
+        id: version_check
+        shell: bash
+        run: |
+          if git tag -l "${{ steps.version.outputs.version_tag }}" | grep -q .; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Tag release commit
+        if: steps.version_check.outputs.skip == 'false'
+        shell: bash
+        run: |
+          git tag "${{ steps.version.outputs.version_tag }}"
+      - name: Install git-cliff
+        if: steps.version_check.outputs.skip == 'false'
+        uses: taiki-e/install-action@git-cliff
+      - name: Generate changelog
+        if: steps.version_check.outputs.skip == 'false'
+        shell: bash
+        run: |
+          git-cliff --verbose --latest -c cliff.toml -o CHANGELOG.md --github-repo ${{ github.repository }}
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          pip install --user git+https://github.com/FichteForks/Myaamori-Aegisub-Scripts.git@pr/fix-style-deduplication#subdirectory=scripts/sub-digest
+          pip install requests urllib3
+      - name: Download Aegisub-cli
+        shell: pwsh
+        run: |
+          Invoke-WebRequest -Uri "https://github.com/scrpr/aegisub-cli/releases/download/disable_unique_path/aegisub-cli.zip" -OutFile "aegisub-cli.zip"
+          Expand-Archive -Path "aegisub-cli.zip" -DestinationPath "aegisub-cli" -Force
+      - name: Install custom fonts
+        shell: pwsh
+        run: |
+          $fontSourceFolder = "Fonts\"
+          $SystemFontsPath = "C:\Windows\Fonts\"
+          foreach($FontFile in Get-ChildItem $fontSourceFolder -Include '*.ttf','*.ttc','*.otf' -recurse ) {
+            $targetPath = Join-Path $SystemFontsPath $FontFile.Name
+            if(Test-Path -Path $targetPath) {
+              $FontFile.Name + " already installed"
+            }
+            else {
+              $ShellFolder = (New-Object -COMObject Shell.Application).Namespace($FontFile.Directory.FullName)
+              $ShellFile = $ShellFolder.ParseName($FontFile.Name)
+              $ShellFileType = $ShellFolder.GetDetailsOf($ShellFile, 2)
+              if ($ShellFileType -Like '*TrueType font file*') { $FontType = '(TrueType)' } else { $FontType = '' }
+              $RegName = $ShellFolder.GetDetailsOf($ShellFile, 21) + ' ' + $FontType
+              $null = New-ItemProperty -Name $RegName -Path "HKLM:\Software\Microsoft\Windows NT\CurrentVersion\Fonts" -PropertyType string -Value $FontFile.Name -Force
+              Copy-Item $FontFile.FullName -Destination $SystemFontsPath
+            }
+          }
+      - name: Build subtitles
+        run: |
+          python build.py --line "${{ github.ref_name }}" --version "${{ steps.version.outputs.version_tag }}"
+      - name: Pack files
+        shell: pwsh
+        run: |
+          $version = "${{ steps.version.outputs.version_tag }}"
+          Compress-Archive -Path "build\output\*" -DestinationPath "mlan_subs_$version.zip" -Force
+      - name: Publish stable release
+        if: steps.version_check.outputs.skip == 'false'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.version_tag }}
+          name: ${{ steps.version.outputs.display_name }}
+          prerelease: false
+          draft: false
+          body_path: CHANGELOG.md
+          fail_on_unmatched_files: true
+          files: |
+            mlan_subs_*.zip
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: mlan_subs_${{ github.ref_name }}_built
+          path: mlan_subs_*.zip
