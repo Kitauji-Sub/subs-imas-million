@@ -20,7 +20,7 @@ USER_PRE_REPLACE = (
     "百万现场=百万人演唱会"
 )
 
-USER_PROTECT_REPLACE = "华康翩翩体\n獅尾圓體"
+USER_PROTECT_REPLACE = "华康翩翩体\n獅尾圓體\n马自立\n"
 
 SKIP_DIR_NAMES = {
     ".git",
