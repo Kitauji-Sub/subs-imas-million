@@ -41,21 +41,36 @@ jobs:
       - name: Install custom fonts
         shell: pwsh
         run: |
+          Invoke-WebRequest -Uri "https://github.com/Kitauji-Sub/subs-imas-million/releases/download/typeface/fonts.7z" -OutFile "fonts.7z"
+          7z e fonts.7z -oFonts
           $fontSourceFolder = "Fonts\"
           $SystemFontsPath = "C:\Windows\Fonts\"
+          
           foreach($FontFile in Get-ChildItem $fontSourceFolder -Include '*.ttf','*.ttc','*.otf' -recurse ) {
             $targetPath = Join-Path $SystemFontsPath $FontFile.Name
-            if(Test-Path -Path $targetPath) {
+          
+              if(![System.IO.Path]::IsPathRooted($fontSourceFolder)){
+                  $fontSourceFolder = $FontFile.Directory.FullName
+              }
+            if(Test-Path -Path $targetPath){
               $FontFile.Name + " already installed"
             }
             else {
-              $ShellFolder = (New-Object -COMObject Shell.Application).Namespace($FontFile.Directory.FullName)
-              $ShellFile = $ShellFolder.ParseName($FontFile.Name)
+              "Installing font " + $FontFile.Name
+              
+              #Extract Font information for Reqistry 
+              $ShellFolder = (New-Object -COMObject Shell.Application).Namespace($fontSourceFolder)
+              $ShellFile = $ShellFolder.ParseName($FontFile.name)
               $ShellFileType = $ShellFolder.GetDetailsOf($ShellFile, 2)
-              if ($ShellFileType -Like '*TrueType font file*') { $FontType = '(TrueType)' } else { $FontType = '' }
+          
+              #Set the $FontType Variable
+              If ($ShellFileType -Like '*TrueType font file*') {$FontType = '(TrueType)'}
+                
+              #Update Registry and copy font to font directory
               $RegName = $ShellFolder.GetDetailsOf($ShellFile, 21) + ' ' + $FontType
-              $null = New-ItemProperty -Name $RegName -Path "HKLM:\Software\Microsoft\Windows NT\CurrentVersion\Fonts" -PropertyType string -Value $FontFile.Name -Force
-              Copy-Item $FontFile.FullName -Destination $SystemFontsPath
+              $null = New-ItemProperty -Name $RegName -Path "HKLM:\Software\Microsoft\Windows NT\CurrentVersion\Fonts" -PropertyType string -Value $FontFile.name -Force
+              Copy-item $FontFile.FullName -Destination $SystemFontsPath
+              "Done"
             }
           }
       - name: Build subtitles
