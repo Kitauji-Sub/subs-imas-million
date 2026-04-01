@@ -10,6 +10,7 @@ FONT_REPLACEMENTS = {
     "思源宋体": "Source Han Serif TC",
     "Source Han Sans SC": "Source Han Sans TC",
     "Source Han Serif SC": "Source Han Serif TC",
+    "FOT-TsukuGo Pro E": "Source Han Sans Medium",
 }
 
 USER_PRE_REPLACE = (
@@ -20,7 +21,7 @@ USER_PRE_REPLACE = (
     "百万现场=百万人演唱会"
 )
 
-USER_PROTECT_REPLACE = "华康翩翩体\n獅尾圓體\n马自立\n"
+USER_PROTECT_REPLACE = "华康翩翩体\n獅尾圓體\n马自立\n霞鹜文楷"
 
 SKIP_DIR_NAMES = {
     ".git",
