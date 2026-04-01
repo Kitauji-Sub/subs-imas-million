@@ -11,14 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: C:/Users/scree/Desktop/ova2/ml_preprocess_bd_ova2.mkv
-Video File: C:/Users/scree/Desktop/ova2/ml_preprocess_bd_ova2.mkv
+Audio File: C:/Users/scree/Desktop/ova2/ova2.mkv
+Video File: C:/Users/scree/Desktop/ova2/ova2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.125000
-Scroll Position: 49
-Active Line: 51
-Video Position: 14474
+Video Zoom Percent: 0.875000
+Scroll Position: 477
+Active Line: 499
+Video Position: 14365
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -424,97 +424,97 @@ Dialogue: 0,0:10:02.83,0:10:02.91,OnScreen,track-14462,0,0,0,,{=251}{\frz0\alpha
 Dialogue: 0,0:10:02.91,0:10:02.95,OnScreen,track-14462,0,0,0,,{=251}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx100\fscy100\c&H4151EB&\pos(1551.28,725.25)}文化部的展出
 Dialogue: 0,0:10:02.95,0:10:03.08,OnScreen,track-14462,0,0,0,,{=251}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx100\fscy100\c&H4151EB&\pos(1551.29,725.25)}文化部的展出
 Dialogue: 0,0:10:03.08,0:10:03.20,OnScreen,track-14462,0,0,0,,{=251}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx100\fscy100\c&H4151EB&\pos(1551.28,725.25)}文化部的展出
-Dialogue: 0,0:09:58.70,0:09:58.74,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx125.03\fscy125.03\c&H66555F&\pos(1755.6,-0.07)\3c&HE2E3DF&\bord4.17}章鱼烧
-Dialogue: 0,0:09:58.74,0:09:58.78,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx124.51\fscy124.51\c&H66555F&\pos(1752.33,2.3)\3c&HE2E3DF&\bord4.15}章鱼烧
-Dialogue: 0,0:09:58.78,0:09:58.82,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx123.95\fscy123.95\c&H66555F&\pos(1748.71,4.7)\3c&HE2E3DF&\bord4.13}章鱼烧
-Dialogue: 0,0:09:58.82,0:09:58.86,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx123.37\fscy123.37\c&H66555F&\pos(1745.03,7.3)\3c&HE2E3DF&\bord4.11}章鱼烧
-Dialogue: 0,0:09:58.86,0:09:58.91,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx122.77\fscy122.77\c&H66555F&\pos(1741.2,9.98)\3c&HE2E3DF&\bord4.09}章鱼烧
-Dialogue: 0,0:09:58.91,0:09:58.95,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx122.15\fscy122.15\c&H66555F&\pos(1737.31,12.8)\3c&HE2E3DF&\bord4.07}章鱼烧
-Dialogue: 0,0:09:58.95,0:09:58.99,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx121.52\fscy121.52\c&H66555F&\pos(1733.27,15.57)\3c&HE2E3DF&\bord4.05}章鱼烧
-Dialogue: 0,0:09:58.99,0:09:59.03,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx120.87\fscy120.87\c&H66555F&\pos(1729.15,18.41)\3c&HE2E3DF&\bord4.03}章鱼烧
-Dialogue: 0,0:09:59.03,0:09:59.07,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx120.23\fscy120.23\c&H66555F&\pos(1725.05,21.25)\3c&HE2E3DF&\bord4.01}章鱼烧
-Dialogue: 0,0:09:59.07,0:09:59.11,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx119.58\fscy119.58\c&H66555F&\pos(1720.9,24.15)\3c&HE2E3DF&\bord3.99}章鱼烧
-Dialogue: 0,0:09:59.11,0:09:59.16,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx118.93\fscy118.93\c&H66555F&\pos(1716.79,27.06)\3c&HE2E3DF&\bord3.96}章鱼烧
-Dialogue: 0,0:09:59.16,0:09:59.20,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx118.27\fscy118.27\c&H66555F&\pos(1712.57,29.98)\3c&HE2E3DF&\bord3.94}章鱼烧
-Dialogue: 0,0:09:59.20,0:09:59.24,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx117.6\fscy117.6\c&H66555F&\pos(1708.27,32.94)\3c&HE2E3DF&\bord3.92}章鱼烧
-Dialogue: 0,0:09:59.24,0:09:59.28,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx116.94\fscy116.94\c&H66555F&\pos(1704.05,35.83)\3c&HE2E3DF&\bord3.9}章鱼烧
-Dialogue: 0,0:09:59.28,0:09:59.32,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx116.27\fscy116.27\c&H66555F&\pos(1699.79,38.83)\3c&HE2E3DF&\bord3.88}章鱼烧
-Dialogue: 0,0:09:59.32,0:09:59.37,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx115.61\fscy115.61\c&H66555F&\pos(1695.58,41.77)\3c&HE2E3DF&\bord3.85}章鱼烧
-Dialogue: 0,0:09:59.37,0:09:59.41,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx114.95\fscy114.95\c&H66555F&\pos(1691.4,44.72)\3c&HE2E3DF&\bord3.83}章鱼烧
-Dialogue: 0,0:09:59.41,0:09:59.45,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx114.29\fscy114.29\c&H66555F&\pos(1687.28,47.67)\3c&HE2E3DF&\bord3.81}章鱼烧
-Dialogue: 0,0:09:59.45,0:09:59.49,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx113.63\fscy113.63\c&H66555F&\pos(1683.08,50.6)\3c&HE2E3DF&\bord3.79}章鱼烧
-Dialogue: 0,0:09:59.49,0:09:59.53,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx112.97\fscy112.97\c&H66555F&\pos(1678.86,53.53)\3c&HE2E3DF&\bord3.77}章鱼烧
-Dialogue: 0,0:09:59.53,0:09:59.57,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx112.32\fscy112.32\c&H66555F&\pos(1674.73,56.43)\3c&HE2E3DF&\bord3.74}章鱼烧
-Dialogue: 0,0:09:59.57,0:09:59.62,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx111.67\fscy111.67\c&H66555F&\pos(1670.59,59.31)\3c&HE2E3DF&\bord3.72}章鱼烧
-Dialogue: 0,0:09:59.62,0:09:59.66,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx111.02\fscy111.02\c&H66555F&\pos(1666.41,62.22)\3c&HE2E3DF&\bord3.7}章鱼烧
-Dialogue: 0,0:09:59.66,0:09:59.70,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx110.38\fscy110.38\c&H66555F&\pos(1662.31,65.05)\3c&HE2E3DF&\bord3.68}章鱼烧
-Dialogue: 0,0:09:59.70,0:09:59.74,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx109.73\fscy109.73\c&H66555F&\pos(1658.21,67.89)\3c&HE2E3DF&\bord3.66}章鱼烧
-Dialogue: 0,0:09:59.74,0:09:59.78,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx109.1\fscy109.1\c&H66555F&\pos(1654.18,70.73)\3c&HE2E3DF&\bord3.64}章鱼烧
-Dialogue: 0,0:09:59.78,0:09:59.82,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx108.46\fscy108.46\c&H66555F&\pos(1650.1,73.56)\3c&HE2E3DF&\bord3.62}章鱼烧
-Dialogue: 0,0:09:59.82,0:09:59.87,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx107.84\fscy107.84\c&H66555F&\pos(1646.22,76.39)\3c&HE2E3DF&\bord3.59}章鱼烧
-Dialogue: 0,0:09:59.87,0:09:59.91,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx107.22\fscy107.22\c&H66555F&\pos(1642.2,79.13)\3c&HE2E3DF&\bord3.57}章鱼烧
-Dialogue: 0,0:09:59.91,0:09:59.95,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx106.6\fscy106.6\c&H66555F&\pos(1638.3,81.86)\3c&HE2E3DF&\bord3.55}章鱼烧
-Dialogue: 0,0:09:59.95,0:09:59.99,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx105.98\fscy105.98\c&H66555F&\pos(1634.33,84.56)\3c&HE2E3DF&\bord3.53}章鱼烧
-Dialogue: 0,0:09:59.99,0:10:00.03,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx105.37\fscy105.37\c&H66555F&\pos(1630.42,87.23)\3c&HE2E3DF&\bord3.51}章鱼烧
-Dialogue: 0,0:10:00.03,0:10:00.07,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx104.78\fscy104.78\c&H66555F&\pos(1626.7,89.98)\3c&HE2E3DF&\bord3.49}章鱼烧
-Dialogue: 0,0:10:00.07,0:10:00.12,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx104.18\fscy104.18\c&H66555F&\pos(1622.91,92.64)\3c&HE2E3DF&\bord3.47}章鱼烧
-Dialogue: 0,0:10:00.12,0:10:00.16,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx103.6\fscy103.6\c&H66555F&\pos(1619.15,95.17)\3c&HE2E3DF&\bord3.45}章鱼烧
-Dialogue: 0,0:10:00.16,0:10:00.20,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx103.01\fscy103.01\c&H66555F&\pos(1615.39,97.73)\3c&HE2E3DF&\bord3.43}章鱼烧
-Dialogue: 0,0:10:00.20,0:10:00.24,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx102.44\fscy102.44\c&H66555F&\pos(1611.79,100.31)\3c&HE2E3DF&\bord3.41}章鱼烧
-Dialogue: 0,0:10:00.24,0:10:00.28,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx101.88\fscy101.88\c&H66555F&\pos(1608.23,102.8)\3c&HE2E3DF&\bord3.4}章鱼烧
-Dialogue: 0,0:10:00.28,0:10:00.32,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx101.32\fscy101.32\c&H66555F&\pos(1604.56,105.27)\3c&HE2E3DF&\bord3.38}章鱼烧
-Dialogue: 0,0:10:00.32,0:10:00.37,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx100.77\fscy100.77\c&H66555F&\pos(1601.09,107.68)\3c&HE2E3DF&\bord3.36}章鱼烧
-Dialogue: 0,0:10:00.37,0:10:00.41,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx100.23\fscy100.23\c&H66555F&\pos(1597.69,110.13)\3c&HE2E3DF&\bord3.34}章鱼烧
-Dialogue: 0,0:10:00.41,0:10:00.45,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx99.71\fscy99.71\c&H66555F&\pos(1594.44,112.53)\3c&HE2E3DF&\bord3.32}章鱼烧
-Dialogue: 0,0:10:00.45,0:10:00.49,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx99.18\fscy99.18\c&H66555F&\pos(1591.03,114.84)\3c&HE2E3DF&\bord3.31}章鱼烧
-Dialogue: 0,0:10:00.49,0:10:00.53,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx98.66\fscy98.66\c&H66555F&\pos(1587.73,117.12)\3c&HE2E3DF&\bord3.29}章鱼烧
-Dialogue: 0,0:10:00.53,0:10:00.57,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx98.15\fscy98.15\c&H66555F&\pos(1584.48,119.37)\3c&HE2E3DF&\bord3.27}章鱼烧
-Dialogue: 0,0:10:00.57,0:10:00.62,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx97.65\fscy97.65\c&H66555F&\pos(1581.16,121.5)\3c&HE2E3DF&\bord3.25}章鱼烧
-Dialogue: 0,0:10:00.62,0:10:00.66,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx97.17\fscy97.17\c&H66555F&\pos(1578.19,123.68)\3c&HE2E3DF&\bord3.24}章鱼烧
-Dialogue: 0,0:10:00.66,0:10:00.70,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx96.7\fscy96.7\c&H66555F&\pos(1575.13,125.79)\3c&HE2E3DF&\bord3.22}章鱼烧
-Dialogue: 0,0:10:00.70,0:10:00.74,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx96.23\fscy96.23\c&H66555F&\pos(1572.13,127.8)\3c&HE2E3DF&\bord3.21}章鱼烧
-Dialogue: 0,0:10:00.74,0:10:00.78,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx95.78\fscy95.78\c&H66555F&\pos(1569.26,129.82)\3c&HE2E3DF&\bord3.19}章鱼烧
-Dialogue: 0,0:10:00.78,0:10:00.83,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx95.34\fscy95.34\c&H66555F&\pos(1566.48,131.75)\3c&HE2E3DF&\bord3.18}章鱼烧
-Dialogue: 0,0:10:00.83,0:10:00.87,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx94.9\fscy94.9\c&H66555F&\pos(1563.62,133.62)\3c&HE2E3DF&\bord3.16}章鱼烧
-Dialogue: 0,0:10:00.87,0:10:00.91,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx94.49\fscy94.49\c&H66555F&\pos(1561.04,135.47)\3c&HE2E3DF&\bord3.15}章鱼烧
-Dialogue: 0,0:10:00.91,0:10:00.95,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx94.09\fscy94.09\c&H66555F&\pos(1558.5,137.27)\3c&HE2E3DF&\bord3.14}章鱼烧
-Dialogue: 0,0:10:00.95,0:10:00.99,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx93.71\fscy93.71\c&H66555F&\pos(1556.05,138.99)\3c&HE2E3DF&\bord3.12}章鱼烧
-Dialogue: 0,0:10:00.99,0:10:01.03,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx93.33\fscy93.33\c&H66555F&\pos(1553.67,140.65)\3c&HE2E3DF&\bord3.11}章鱼烧
-Dialogue: 0,0:10:01.03,0:10:01.08,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx92.98\fscy92.98\c&H66555F&\pos(1551.39,142.23)\3c&HE2E3DF&\bord3.1}章鱼烧
-Dialogue: 0,0:10:01.08,0:10:01.12,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx92.63\fscy92.63\c&H66555F&\pos(1549.12,143.74)\3c&HE2E3DF&\bord3.09}章鱼烧
-Dialogue: 0,0:10:01.12,0:10:01.16,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx92.3\fscy92.3\c&H66555F&\pos(1547.08,145.17)\3c&HE2E3DF&\bord3.08}章鱼烧
-Dialogue: 0,0:10:01.16,0:10:01.20,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx92\fscy92\c&H66555F&\pos(1545.16,146.59)\3c&HE2E3DF&\bord3.07}章鱼烧
-Dialogue: 0,0:10:01.20,0:10:01.24,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx91.72\fscy91.72\c&H66555F&\pos(1543.48,147.93)\3c&HE2E3DF&\bord3.06}章鱼烧
-Dialogue: 0,0:10:01.24,0:10:01.28,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx91.44\fscy91.44\c&H66555F&\pos(1541.69,149.12)\3c&HE2E3DF&\bord3.05}章鱼烧
-Dialogue: 0,0:10:01.28,0:10:01.33,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx91.19\fscy91.19\c&H66555F&\pos(1540.09,150.26)\3c&HE2E3DF&\bord3.04}章鱼烧
-Dialogue: 0,0:10:01.33,0:10:01.37,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.96\fscy90.96\c&H66555F&\pos(1538.66,151.28)\3c&HE2E3DF&\bord3.03}章鱼烧
-Dialogue: 0,0:10:01.37,0:10:01.41,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.75\fscy90.75\c&H66555F&\pos(1537.3,152.23)\3c&HE2E3DF&\bord3.03}章鱼烧
-Dialogue: 0,0:10:01.41,0:10:01.45,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.56\fscy90.56\c&H66555F&\pos(1536.11,153.07)\3c&HE2E3DF&\bord3.02}章鱼烧
-Dialogue: 0,0:10:01.45,0:10:01.49,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.38\fscy90.38\c&H66555F&\pos(1534.84,153.94)\3c&HE2E3DF&\bord3.01}章鱼烧
-Dialogue: 0,0:10:01.49,0:10:01.53,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.23\fscy90.23\c&H66555F&\pos(1533.9,154.64)\3c&HE2E3DF&\bord3.01}章鱼烧
-Dialogue: 0,0:10:01.53,0:10:01.58,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.1\fscy90.1\c&H66555F&\pos(1533.05,155.2)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:01.58,0:10:01.62,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.02\fscy90.02\c&H66555F&\pos(1532.57,155.57)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:01.62,0:10:01.66,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.59,155.76)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:01.66,0:10:01.78,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.77)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:01.78,0:10:01.91,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:01.91,0:10:01.95,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:01.95,0:10:02.03,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.03,0:10:02.08,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.08,0:10:02.16,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.16,0:10:02.20,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.20,0:10:02.28,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.28,0:10:02.37,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.37,0:10:02.41,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.41,0:10:02.45,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.45,0:10:02.49,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.77)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.49,0:10:02.54,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.54,0:10:02.58,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.77)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.58,0:10:02.83,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.83,0:10:02.87,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.59,155.77)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.87,0:10:02.91,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.59,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.91,0:10:02.95,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:02.95,0:10:03.08,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}章鱼烧
-Dialogue: 0,0:10:03.08,0:10:03.20,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}章鱼烧
+Dialogue: 0,0:09:58.70,0:09:58.74,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx125.03\fscy125.03\c&H66555F&\pos(1755.6,-0.07)\3c&HE2E3DF&\bord4.17}{\s1}巨大的{\s0}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:58.74,0:09:58.78,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx124.51\fscy124.51\c&H66555F&\pos(1752.33,2.3)\3c&HE2E3DF&\bord4.15}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:58.78,0:09:58.82,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx123.95\fscy123.95\c&H66555F&\pos(1748.71,4.7)\3c&HE2E3DF&\bord4.13}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:58.82,0:09:58.86,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx123.37\fscy123.37\c&H66555F&\pos(1745.03,7.3)\3c&HE2E3DF&\bord4.11}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:58.86,0:09:58.91,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx122.77\fscy122.77\c&H66555F&\pos(1741.2,9.98)\3c&HE2E3DF&\bord4.09}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:58.91,0:09:58.95,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx122.15\fscy122.15\c&H66555F&\pos(1737.31,12.8)\3c&HE2E3DF&\bord4.07}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:58.95,0:09:58.99,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx121.52\fscy121.52\c&H66555F&\pos(1733.27,15.57)\3c&HE2E3DF&\bord4.05}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:58.99,0:09:59.03,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx120.87\fscy120.87\c&H66555F&\pos(1729.15,18.41)\3c&HE2E3DF&\bord4.03}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.03,0:09:59.07,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx120.23\fscy120.23\c&H66555F&\pos(1725.05,21.25)\3c&HE2E3DF&\bord4.01}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.07,0:09:59.11,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx119.58\fscy119.58\c&H66555F&\pos(1720.9,24.15)\3c&HE2E3DF&\bord3.99}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.11,0:09:59.16,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx118.93\fscy118.93\c&H66555F&\pos(1716.79,27.06)\3c&HE2E3DF&\bord3.96}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.16,0:09:59.20,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx118.27\fscy118.27\c&H66555F&\pos(1712.57,29.98)\3c&HE2E3DF&\bord3.94}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.20,0:09:59.24,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx117.6\fscy117.6\c&H66555F&\pos(1708.27,32.94)\3c&HE2E3DF&\bord3.92}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.24,0:09:59.28,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx116.94\fscy116.94\c&H66555F&\pos(1704.05,35.83)\3c&HE2E3DF&\bord3.9}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.28,0:09:59.32,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx116.27\fscy116.27\c&H66555F&\pos(1699.79,38.83)\3c&HE2E3DF&\bord3.88}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.32,0:09:59.37,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx115.61\fscy115.61\c&H66555F&\pos(1695.58,41.77)\3c&HE2E3DF&\bord3.85}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.37,0:09:59.41,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx114.95\fscy114.95\c&H66555F&\pos(1691.4,44.72)\3c&HE2E3DF&\bord3.83}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.41,0:09:59.45,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx114.29\fscy114.29\c&H66555F&\pos(1687.28,47.67)\3c&HE2E3DF&\bord3.81}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.45,0:09:59.49,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx113.63\fscy113.63\c&H66555F&\pos(1683.08,50.6)\3c&HE2E3DF&\bord3.79}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.49,0:09:59.53,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx112.97\fscy112.97\c&H66555F&\pos(1678.86,53.53)\3c&HE2E3DF&\bord3.77}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.53,0:09:59.57,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx112.32\fscy112.32\c&H66555F&\pos(1674.73,56.43)\3c&HE2E3DF&\bord3.74}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.57,0:09:59.62,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx111.67\fscy111.67\c&H66555F&\pos(1670.59,59.31)\3c&HE2E3DF&\bord3.72}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.62,0:09:59.66,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx111.02\fscy111.02\c&H66555F&\pos(1666.41,62.22)\3c&HE2E3DF&\bord3.7}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.66,0:09:59.70,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx110.38\fscy110.38\c&H66555F&\pos(1662.31,65.05)\3c&HE2E3DF&\bord3.68}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.70,0:09:59.74,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx109.73\fscy109.73\c&H66555F&\pos(1658.21,67.89)\3c&HE2E3DF&\bord3.66}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.74,0:09:59.78,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx109.1\fscy109.1\c&H66555F&\pos(1654.18,70.73)\3c&HE2E3DF&\bord3.64}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.78,0:09:59.82,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx108.46\fscy108.46\c&H66555F&\pos(1650.1,73.56)\3c&HE2E3DF&\bord3.62}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.82,0:09:59.87,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx107.84\fscy107.84\c&H66555F&\pos(1646.22,76.39)\3c&HE2E3DF&\bord3.59}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.87,0:09:59.91,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx107.22\fscy107.22\c&H66555F&\pos(1642.2,79.13)\3c&HE2E3DF&\bord3.57}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.91,0:09:59.95,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx106.6\fscy106.6\c&H66555F&\pos(1638.3,81.86)\3c&HE2E3DF&\bord3.55}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.95,0:09:59.99,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx105.98\fscy105.98\c&H66555F&\pos(1634.33,84.56)\3c&HE2E3DF&\bord3.53}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:09:59.99,0:10:00.03,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx105.37\fscy105.37\c&H66555F&\pos(1630.42,87.23)\3c&HE2E3DF&\bord3.51}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.03,0:10:00.07,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx104.78\fscy104.78\c&H66555F&\pos(1626.7,89.98)\3c&HE2E3DF&\bord3.49}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.07,0:10:00.12,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx104.18\fscy104.18\c&H66555F&\pos(1622.91,92.64)\3c&HE2E3DF&\bord3.47}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.12,0:10:00.16,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx103.6\fscy103.6\c&H66555F&\pos(1619.15,95.17)\3c&HE2E3DF&\bord3.45}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.16,0:10:00.20,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx103.01\fscy103.01\c&H66555F&\pos(1615.39,97.73)\3c&HE2E3DF&\bord3.43}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.20,0:10:00.24,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx102.44\fscy102.44\c&H66555F&\pos(1611.79,100.31)\3c&HE2E3DF&\bord3.41}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.24,0:10:00.28,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx101.88\fscy101.88\c&H66555F&\pos(1608.23,102.8)\3c&HE2E3DF&\bord3.4}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.28,0:10:00.32,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx101.32\fscy101.32\c&H66555F&\pos(1604.56,105.27)\3c&HE2E3DF&\bord3.38}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.32,0:10:00.37,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx100.77\fscy100.77\c&H66555F&\pos(1601.09,107.68)\3c&HE2E3DF&\bord3.36}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.37,0:10:00.41,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx100.23\fscy100.23\c&H66555F&\pos(1597.69,110.13)\3c&HE2E3DF&\bord3.34}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.41,0:10:00.45,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx99.71\fscy99.71\c&H66555F&\pos(1594.44,112.53)\3c&HE2E3DF&\bord3.32}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.45,0:10:00.49,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx99.18\fscy99.18\c&H66555F&\pos(1591.03,114.84)\3c&HE2E3DF&\bord3.31}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.49,0:10:00.53,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx98.66\fscy98.66\c&H66555F&\pos(1587.73,117.12)\3c&HE2E3DF&\bord3.29}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.53,0:10:00.57,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx98.15\fscy98.15\c&H66555F&\pos(1584.48,119.37)\3c&HE2E3DF&\bord3.27}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.57,0:10:00.62,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx97.65\fscy97.65\c&H66555F&\pos(1581.16,121.5)\3c&HE2E3DF&\bord3.25}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.62,0:10:00.66,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx97.17\fscy97.17\c&H66555F&\pos(1578.19,123.68)\3c&HE2E3DF&\bord3.24}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.66,0:10:00.70,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx96.7\fscy96.7\c&H66555F&\pos(1575.13,125.79)\3c&HE2E3DF&\bord3.22}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.70,0:10:00.74,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx96.23\fscy96.23\c&H66555F&\pos(1572.13,127.8)\3c&HE2E3DF&\bord3.21}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.74,0:10:00.78,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx95.78\fscy95.78\c&H66555F&\pos(1569.26,129.82)\3c&HE2E3DF&\bord3.19}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.78,0:10:00.83,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx95.34\fscy95.34\c&H66555F&\pos(1566.48,131.75)\3c&HE2E3DF&\bord3.18}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.83,0:10:00.87,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx94.9\fscy94.9\c&H66555F&\pos(1563.62,133.62)\3c&HE2E3DF&\bord3.16}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.87,0:10:00.91,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx94.49\fscy94.49\c&H66555F&\pos(1561.04,135.47)\3c&HE2E3DF&\bord3.15}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.91,0:10:00.95,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx94.09\fscy94.09\c&H66555F&\pos(1558.5,137.27)\3c&HE2E3DF&\bord3.14}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.95,0:10:00.99,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx93.71\fscy93.71\c&H66555F&\pos(1556.05,138.99)\3c&HE2E3DF&\bord3.12}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:00.99,0:10:01.03,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx93.33\fscy93.33\c&H66555F&\pos(1553.67,140.65)\3c&HE2E3DF&\bord3.11}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.03,0:10:01.08,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx92.98\fscy92.98\c&H66555F&\pos(1551.39,142.23)\3c&HE2E3DF&\bord3.1}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.08,0:10:01.12,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx92.63\fscy92.63\c&H66555F&\pos(1549.12,143.74)\3c&HE2E3DF&\bord3.09}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.12,0:10:01.16,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx92.3\fscy92.3\c&H66555F&\pos(1547.08,145.17)\3c&HE2E3DF&\bord3.08}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.16,0:10:01.20,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx92\fscy92\c&H66555F&\pos(1545.16,146.59)\3c&HE2E3DF&\bord3.07}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.20,0:10:01.24,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx91.72\fscy91.72\c&H66555F&\pos(1543.48,147.93)\3c&HE2E3DF&\bord3.06}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.24,0:10:01.28,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx91.44\fscy91.44\c&H66555F&\pos(1541.69,149.12)\3c&HE2E3DF&\bord3.05}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.28,0:10:01.33,OnScreen,track-14462,0,0,0,,{=250}{\frz0.02\alpha&H00&\fn华康翩翩体W5-A\an1\fscx91.19\fscy91.19\c&H66555F&\pos(1540.09,150.26)\3c&HE2E3DF&\bord3.04}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.33,0:10:01.37,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.96\fscy90.96\c&H66555F&\pos(1538.66,151.28)\3c&HE2E3DF&\bord3.03}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.37,0:10:01.41,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.75\fscy90.75\c&H66555F&\pos(1537.3,152.23)\3c&HE2E3DF&\bord3.03}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.41,0:10:01.45,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.56\fscy90.56\c&H66555F&\pos(1536.11,153.07)\3c&HE2E3DF&\bord3.02}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.45,0:10:01.49,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.38\fscy90.38\c&H66555F&\pos(1534.84,153.94)\3c&HE2E3DF&\bord3.01}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.49,0:10:01.53,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.23\fscy90.23\c&H66555F&\pos(1533.9,154.64)\3c&HE2E3DF&\bord3.01}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.53,0:10:01.58,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.1\fscy90.1\c&H66555F&\pos(1533.05,155.2)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.58,0:10:01.62,OnScreen,track-14462,0,0,0,,{=250}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90.02\fscy90.02\c&H66555F&\pos(1532.57,155.57)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.62,0:10:01.66,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.59,155.76)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.66,0:10:01.78,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.77)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.78,0:10:01.91,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.91,0:10:01.95,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:01.95,0:10:02.03,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.03,0:10:02.08,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.08,0:10:02.16,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.16,0:10:02.20,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.20,0:10:02.28,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.28,0:10:02.37,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.37,0:10:02.41,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.41,0:10:02.45,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.45,0:10:02.49,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.77)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.49,0:10:02.54,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.54,0:10:02.58,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.77)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.58,0:10:02.83,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.83,0:10:02.87,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.59,155.77)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.87,0:10:02.91,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.59,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.91,0:10:02.95,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:02.95,0:10:03.08,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.61,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
+Dialogue: 0,0:10:03.08,0:10:03.20,OnScreen,track-14462,0,0,0,,{=250}{\frz0\alpha&H00&\fn华康翩翩体W5-A\an1\fscx90\fscy90\c&H66555F&\pos(1532.6,155.78)\3c&HE2E3DF&\bord3}{\s1}巨大的{\s0}章鱼烧
 Dialogue: 0,0:09:58.70,0:09:58.74,OnScreen,track-14462,0,0,0,,{=249}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx125.03\fscy125.03\c&H66555F&\pos(1758.1,82.56)\3c&HE2E3DF&\bord4.17}炒面
 Dialogue: 0,0:09:58.74,0:09:58.78,OnScreen,track-14462,0,0,0,,{=249}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx124.51\fscy124.51\c&H66555F&\pos(1754.81,84.58)\3c&HE2E3DF&\bord4.15}炒面
 Dialogue: 0,0:09:58.78,0:09:58.82,OnScreen,track-14462,0,0,0,,{=249}{\frz0.01\alpha&H00&\fn华康翩翩体W5-A\an1\fscx123.95\fscy123.95\c&H66555F&\pos(1751.18,86.62)\3c&HE2E3DF&\bord4.13}炒面
