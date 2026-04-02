@@ -10,7 +10,6 @@ FONT_REPLACEMENTS = {
     "思源宋体": "Source Han Serif TC",
     "Source Han Sans SC": "Source Han Sans TC",
     "Source Han Serif SC": "Source Han Serif TC",
-    "FOT-TsukuGo Pro E": "Source Han Sans Medium",
 }
 
 USER_PRE_REPLACE = (
